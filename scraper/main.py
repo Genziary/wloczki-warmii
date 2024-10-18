@@ -16,7 +16,7 @@ def scrape_product_details(product_url, headers):
         categories_tree = [category.get_text(strip=True) for category in categories][2:]
 
         product_info_div = product_soup.find("div", class_="col-md-7")
-        index = product_info_div.find("p")
+        index = product_info_div.find("p").get_text(strip=True)
 
         return {
             "categories_tree": categories_tree,
@@ -27,40 +27,48 @@ def scrape_product_details(product_url, headers):
         return None
 
 
-def scrape_products_from_listing(listing_url):
+def scrape_product_urls(page_url, headers):
     """
-    Function to scrape product URLs from the listing page and call another function to scrape details from each product page.
+    Scrape product URLs from a single page.
     """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-    }
-
-    response = requests.get(listing_url, headers=headers)
+    product_urls = []
+    response = requests.get(page_url, headers=headers)
+    
     if response.status_code == 200:
-        print("Main page successfully retrieved!")
-        
         soup = BeautifulSoup(response.content, "html.parser")
-        products = soup.find_all("a", class_="thumbnail product-thumbnail")
-        product_data = []
+        products = soup.find_all("div", class_="img_block")
         
         for product in products:
-            product_url = product.get("href")
-            print(f"Scraping product page: {product_url}")
-            
-            details = scrape_product_details(product_url, headers)
-            if details:
-                product_data.append(details)
-        
-        return product_data
+            anchor = product.find("a", class_="thumbnail product-thumbnail")
+            if anchor and "href" in anchor.attrs:
+                product_urls.append(anchor["href"])
     else:
-        print(f"Failed to retrieve the main page. Status code: {response.status_code}")
-        return None
+        print(f"Failed to retrieve page {page_url}. Status code: {response.status_code}")
+    
+    return product_urls
 
 
-listing_url = "https://wloczkiwarmii.pl/pl/10-wloczki"
-products_info = scrape_products_from_listing(listing_url)
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+}
+base_url = "https://wloczkiwarmii.pl/pl/10-wloczki"
 
-if products_info:
-    for product in products_info:
+
+for page in range(1, 22):
+    page_url = f"{base_url}?page={page}"
+    print(f"Scraping page: {page_url}")
+    
+    product_urls = scrape_product_urls(page_url, headers)
+    
+    all_product_details = []
+    
+    for url in product_urls:
+        details = scrape_product_details(url, headers)
+        if details:
+            all_product_details.append(details)
+    
+    print(f"Scraped {len(all_product_details)} products from page {page}.")
+    for product in all_product_details:
         print(product)
-        print("-" * 40)
+
+    print("\n" + "=" * 40 + "\n")
