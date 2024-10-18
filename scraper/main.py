@@ -18,9 +18,29 @@ def scrape_product_details(product_url, headers):
         product_info_div = product_soup.find("div", class_="col-md-7")
         index = product_info_div.find("p").get_text(strip=True)
 
+        weight_select = product_soup.find("select", {"id": "group_7"})
+        product_prices = {}
+
+        brutto_prices = []
+        netto_prices = []
+
+        if weight_select:
+            # TODO
+            pass
+        else:
+            # If the weight selection form does not exist, get the price directly
+            brutto_price = product_soup.find("span", itemprop="price").get_text(strip=True)
+            netto_price = product_soup.find("div", class_="tax-shipping-delivery-label").get_text(strip=True)
+            brutto_prices.append(brutto_price)
+            netto_prices.append(netto_price)
+
+        product_prices["brutto"] = brutto_prices
+        product_prices["netto"] = netto_prices
+
         return {
             "categories_tree": categories_tree,
-            "index": index
+            "index": index,
+            "prices": product_prices
         }
     else:
         print(f"Failed to retrieve product page: {product_url}. Status code: {product_response.status_code}")
