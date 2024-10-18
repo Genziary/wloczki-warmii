@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from utils import extract_numerical_value
 
 
 def scrape_product_details(product_url, headers):
@@ -31,8 +32,8 @@ def scrape_product_details(product_url, headers):
             # If the weight selection form does not exist, get the price directly
             brutto_price = product_soup.find("span", itemprop="price").get_text(strip=True)
             netto_price = product_soup.find("div", class_="tax-shipping-delivery-label").get_text(strip=True)
-            brutto_prices.append(brutto_price)
-            netto_prices.append(netto_price)
+            brutto_prices.append(extract_numerical_value(brutto_price))
+            netto_prices.append(extract_numerical_value(netto_price))
 
         product_prices["brutto"] = brutto_prices
         product_prices["netto"] = netto_prices
@@ -74,7 +75,7 @@ headers = {
 base_url = "https://wloczkiwarmii.pl/pl/10-wloczki"
 
 
-for page in range(1, 22):
+for page in range(1, 2):
     page_url = f"{base_url}?page={page}"
     print(f"Scraping page: {page_url}")
     
