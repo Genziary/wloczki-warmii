@@ -17,3 +17,21 @@ def extract_numerical_value(text):
         value = number_match.group(1).replace(',', '.')
         return float(value)
     return None
+
+
+def extract_numerical_integer_value(text):
+    """
+    Extract the single integer value from a given text.
+
+    Args:
+        text (str): The input string containing the number.
+
+    Returns:
+        int: The extracted numerical integer value. Returns None if not found.
+    """
+    # find a whole number (e.g., "70", "100")
+    number_match = re.search(r'\d+', text)
+
+    if number_match:
+        return int(number_match.group(0))  # return the integer value
+    return None
