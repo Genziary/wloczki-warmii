@@ -1,6 +1,32 @@
 import re
 
 
+def fill_weight_numbers(weight_numbers, non_zero_index):
+    """
+    Fills an array with values based on a single non-zero element.
+
+    Args:
+        weight_numbers (list): List of numbers, where only one element is non-zero.
+        non_zero_index (int): Index of the non-zero element in the list.
+
+    Returns:
+        list: The array filled with arithmetic values based on the non-zero element.
+    """
+    # O(n) for filling
+
+    non_zero_value = weight_numbers[non_zero_index]
+
+    print(weight_numbers)
+
+    for i in range(non_zero_index - 1, -1, -1):
+        weight_numbers[i] = non_zero_value - (non_zero_index - i)
+
+    for i in range(non_zero_index + 1, len(weight_numbers)):
+        weight_numbers[i] = non_zero_value + (i - non_zero_index)
+
+    return weight_numbers
+
+
 def extract_numerical_value(text):
     """
     Extract the single numerical value from a given text.

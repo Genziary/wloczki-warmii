@@ -1,46 +1,54 @@
 import requests
 from bs4 import BeautifulSoup
-from utils import extract_numerical_value, extract_numerical_integer_value
-
-AJAX_TOKEN = "ca57f9964786781f0650b50dad1f930b"
+from utils import extract_numerical_value, extract_numerical_integer_value, fill_weight_numbers
 
 
-def get_dynamic_price(session, headers, product_id, group_value, token):
-    
-    ajax_url = (
-                    f"https://wloczkiwarmii.pl/pl/index.php?controller=product"
-                    f"&token={token}"
-                    f"&id_product={product_id}&id_customization=0"
-                    f"&group%5B7%5D={group_value}&qty=1"
-                )
+def get_dynamic_prices(headers, all_weights, default_url):
+    """
+    Function to scrape product prices at different weights
+    """
 
-    form_data = {
-        'quickview': 0,
-        'ajax': 1,
-        'action': 'refresh',
-        'quantity_wanted': 1
-    }
-    print(group_value)
-    response = session.post(url, headers=headers, data=form_data)
-    if response.status_code == 200:
-        try:
-            product_prices = BeautifulSoup(response.json()["product_prices"], "html.parser")
-            #print(product_prices)
-            print(40*"-")
-            brutto_price = extract_numerical_value(product_prices.find("span", itemprop="price").get_text(strip=True))
-            return brutto_price
-        except ValueError:
-            return {"error": "Invalid JSON response"}
-    else:
-        return {"error": f"Failed to fetch price. Status code: {response.status_code}"}
+    splitted_route = default_url.split("/")
+
+    product_params = splitted_route[5].split("-")
+    weight_number = int(product_params[1])
+
+    default_weight = int(splitted_route[-1].split("-")[0])
+
+    weight_numbers = [0 for _ in all_weights]
+    default_index = 0
+    for index, weight_value in enumerate(all_weights.keys()):
+        if weight_value == default_weight:
+            weight_numbers[index] = weight_number
+            default_index = index
+
+    weight_numbers = fill_weight_numbers(weight_numbers, default_index)
+    brutto_prices = []
+    netto_prices = []
+
+    for index, weight in enumerate(all_weights.keys()):
+        product_params[1] = weight_numbers[index]
+        weight_desc = f"{weight}-waga-{all_weights[weight]}"
+        joined_params = "-".join(map(str, product_params))
+        splitted_route[5] = joined_params
+        splitted_route[-1] = weight_desc
+        joined_route = "/".join(map(str, splitted_route))
+
+        response = requests.get(url=joined_route, headers=headers)
+        product_soup = BeautifulSoup(response.content, "html.parser")
+        brutto_price = product_soup.find("span", itemprop="price").get_text(strip=True)
+        netto_price = product_soup.find("div", class_="tax-shipping-delivery-label").get_text(strip=True)
+        brutto_prices.append(extract_numerical_value(brutto_price))
+        netto_prices.append(extract_numerical_value(netto_price))
+
+    return brutto_prices, netto_prices
 
 
 def scrape_product_details(product_url, headers):
     """
     Function to scrape product details from an individual product page.
     """
-    session = requests.Session()
-    product_response = session.get(product_url, headers=headers)
+    product_response = requests.get(product_url, headers=headers)
     if product_response.status_code == 200:
         product_soup = BeautifulSoup(product_response.content, "html.parser")
 
@@ -61,12 +69,13 @@ def scrape_product_details(product_url, headers):
         netto_prices = []
 
         if weight_select:
-            weight_options = weight_select.find_all("option")
-            print(weight_options)
-            for option in weight_options:
-                weight_value = option["value"]
-                #print(weight_value)
-                print(weight_value, get_dynamic_price(session, headers, product_id, weight_value, AJAX_TOKEN))
+            html_weight_options = weight_select.find_all("option")
+            weights_map = {}
+
+            for option in html_weight_options:
+                weight = extract_numerical_integer_value(option["title"])
+                weights_map[int(option["value"])] = weight
+            brutto_prices, netto_prices = get_dynamic_prices(headers, weights_map, product_url)
         else:
             # If the weight selection form does not exist, get the price directly
             brutto_price = product_soup.find("span", itemprop="price").get_text(strip=True)
