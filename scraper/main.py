@@ -1,6 +1,9 @@
 import requests
+import os
 from bs4 import BeautifulSoup
 from utils import extract_numerical_value, extract_numerical_integer_value, fill_weight_numbers
+
+MEDIA_FOLDER = os.path.join(os.getcwd(), 'media')
 
 
 def get_dynamic_prices(headers, all_weights, default_url):
@@ -86,6 +89,25 @@ def scrape_product_details(product_url, headers):
         product_prices["brutto"] = brutto_prices
         product_prices["netto"] = netto_prices
 
+        save_path = os.path.join(os.path.join(os.getcwd(), 'media'), f'{product_id}.jpg')
+        img_div = product_soup.find('div', class_="product-cover")
+        img_tag = img_div.find("img")
+
+        if img_tag and 'src' in img_tag.attrs:
+            img_url = img_tag['src']
+            img_response = requests.get(img_url)
+
+            os.makedirs(os.path.dirname(save_path), exist_ok=True)
+
+            if img_response.status_code == 200:
+                with open(save_path, 'wb') as file:
+                    file.write(img_response.content)
+                print(f"Image successfully downloaded: {save_path}")
+            else:
+                print("Failed to download the image.")
+        else:
+            print("No image found on the page.")
+
         return {
             "categories_tree": categories_tree,
             "index": index,
@@ -121,7 +143,7 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
 }
 base_url = "https://wloczkiwarmii.pl/pl/10-wloczki"
-
+media_folder = os.path.join(os.getcwd(), 'media')
 
 for page in range(1, 2):
     page_url = f"{base_url}?page={page}"
