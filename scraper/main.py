@@ -89,25 +89,7 @@ def scrape_product_details(product_url, headers):
         product_prices["brutto"] = brutto_prices
         product_prices["netto"] = netto_prices
 
-        save_path = os.path.join(os.path.join(os.getcwd(), 'media'), f'{product_id}.jpg')
-        img_div = product_soup.find('div', class_="product-cover")
-        img_tag = img_div.find("img")
-
-        if img_tag and 'src' in img_tag.attrs:
-            img_url = img_tag['src']
-            img_response = requests.get(img_url)
-
-            os.makedirs(os.path.dirname(save_path), exist_ok=True)
-
-            if img_response.status_code == 200:
-                with open(save_path, 'wb') as file:
-                    file.write(img_response.content)
-                print(f"Image successfully downloaded: {save_path}")
-            else:
-                print("Failed to download the image.")
-        else:
-            print("No image found on the page.")
-
+        save_image(product_soup, product_id)
         return {
             "categories_tree": categories_tree,
             "index": index,
@@ -137,6 +119,25 @@ def scrape_product_urls(page_url, headers):
         print(f"Failed to retrieve page {page_url}. Status code: {response.status_code}")
 
     return product_urls
+
+
+def save_image(soup, product_id):
+    save_path = os.path.join(MEDIA_FOLDER, f'{product_id}.jpg')
+    img_tag = soup.find('div', class_="product-cover").find("img")
+
+    if img_tag and 'src' in img_tag.attrs:
+        img_url = img_tag['src']
+        img_response = requests.get(img_url)
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+
+        if img_response.status_code == 200:
+            with open(save_path, 'wb') as file:
+                file.write(img_response.content)
+            print(f"Image successfully downloaded: {save_path}")
+        else:
+            print("Failed to download the image.")
+    else:
+        print("No image found on the page.")
 
 
 headers = {
