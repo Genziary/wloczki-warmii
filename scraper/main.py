@@ -1,50 +1,49 @@
 import requests
 import os
 from bs4 import BeautifulSoup
-from utils import extract_numerical_value, extract_numerical_integer_value, fill_weight_numbers
+from utils import extract_numerical_value, extract_numerical_integer_value
 
 MEDIA_FOLDER = os.path.join(os.getcwd(), 'media')
 
 
-def get_dynamic_prices(headers, all_weights, default_url):
+def get_brutto_netto_prices(product_soup):
+    """
+    Function to extract prices from product div
+    """
+    brutto_price = product_soup.find("span", itemprop="price").get_text(strip=True)
+    netto_price = product_soup.find("div", class_="tax-shipping-delivery-label").get_text(strip=True)
+    extracted_brutto_price = extract_numerical_value(brutto_price)
+    extracted_netto_price = extract_numerical_value(netto_price)
+
+    return extracted_brutto_price, extracted_netto_price
+
+
+def get_dynamic_weight_prices(headers, product_id, group_value):
     """
     Function to scrape product prices at different weights
     """
+    ajax_url = (
+                    f"https://wloczkiwarmii.pl/pl/index.php?controller=product"
+                    f"&id_product={product_id}&id_customization=0"
+                    f"&group%5B7%5D={group_value}&qty=1"
+                )
+    form_data = {
+        'quickview': 0,
+        'ajax': 1,
+        'action': 'refresh',
+        'quantity_wanted': 1
+    }
 
-    splitted_route = default_url.split("/")
-
-    product_params = splitted_route[5].split("-")
-    weight_number = int(product_params[1])
-
-    default_weight = int(splitted_route[-1].split("-")[0])
-
-    weight_numbers = [0 for _ in all_weights]
-    default_index = 0
-    for index, weight_value in enumerate(all_weights.keys()):
-        if weight_value == default_weight:
-            weight_numbers[index] = weight_number
-            default_index = index
-
-    weight_numbers = fill_weight_numbers(weight_numbers, default_index)
-    brutto_prices = []
-    netto_prices = []
-
-    for index, weight in enumerate(all_weights.keys()):
-        product_params[1] = weight_numbers[index]
-        weight_desc = f"{weight}-waga-{all_weights[weight]}"
-        joined_params = "-".join(map(str, product_params))
-        splitted_route[5] = joined_params
-        splitted_route[-1] = weight_desc
-        joined_route = "/".join(map(str, splitted_route))
-
-        response = requests.get(url=joined_route, headers=headers)
-        product_soup = BeautifulSoup(response.content, "html.parser")
-        brutto_price = product_soup.find("span", itemprop="price").get_text(strip=True)
-        netto_price = product_soup.find("div", class_="tax-shipping-delivery-label").get_text(strip=True)
-        brutto_prices.append(extract_numerical_value(brutto_price))
-        netto_prices.append(extract_numerical_value(netto_price))
-
-    return brutto_prices, netto_prices
+    response = requests.post(ajax_url, headers=headers, data=form_data)
+    if response.status_code == 200:
+        try:
+            product_prices = BeautifulSoup(response.json()["product_prices"], "html.parser")
+            brutto, netto = get_brutto_netto_prices(product_prices)
+            return brutto, netto
+        except ValueError:
+            return {"error": "Invalid JSON response"}
+    else:
+        return {"error": f"Failed to fetch price. Status code: {response.status_code}"}
 
 
 def scrape_product_details(product_url, headers):
@@ -66,28 +65,32 @@ def scrape_product_details(product_url, headers):
         index = product_info_div.find("p").get_text(strip=True)
 
         weight_select = product_soup.find("select", {"id": "group_7"})
+        lenght_select = product_soup.find("select", {"id": "group_5"})
+
         product_prices = {}
 
         brutto_prices = []
         netto_prices = []
+        weights = []
 
         if weight_select:
-            html_weight_options = weight_select.find_all("option")
-            weights_map = {}
-
-            for option in html_weight_options:
-                weight = extract_numerical_integer_value(option["title"])
-                weights_map[int(option["value"])] = weight
-            brutto_prices, netto_prices = get_dynamic_prices(headers, weights_map, product_url)
+            weight_options = weight_select.find_all("option")
+            for option in weight_options:
+                weight_value = option["value"]
+                brutto, netto = get_dynamic_weight_prices(headers, product_id, weight_value)
+                weights.append(option.get_text(strip=True))
+                brutto_prices.append(brutto)
+                netto_prices.append(netto)
+        elif lenght_select:
+            pass
         else:
-            # If the weight selection form does not exist, get the price directly
-            brutto_price = product_soup.find("span", itemprop="price").get_text(strip=True)
-            netto_price = product_soup.find("div", class_="tax-shipping-delivery-label").get_text(strip=True)
-            brutto_prices.append(extract_numerical_value(brutto_price))
-            netto_prices.append(extract_numerical_value(netto_price))
+            brutto, netto = get_brutto_netto_prices(product_soup)
+            brutto_prices.append(brutto)
+            netto_prices.append(netto)
 
         product_prices["brutto"] = brutto_prices
         product_prices["netto"] = netto_prices
+        product_prices["weights"] = weights
 
         save_image(product_soup, product_id)
         return {
@@ -140,26 +143,31 @@ def save_image(soup, product_id):
         print("No image found on the page.")
 
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
-base_url = "https://wloczkiwarmii.pl/pl/10-wloczki"
-media_folder = os.path.join(os.getcwd(), 'media')
+def scrape(pages_number):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+    }
+    base_url = "https://wloczkiwarmii.pl/pl/10-wloczki"
 
-for page in range(1, 2):
-    page_url = f"{base_url}?page={page}"
-    print(f"Scraping page: {page_url}")
+    for page in range(1, pages_number+1):
+        page_url = f"{base_url}?page={page}"
+        print(f"Scraping page: {page_url}")
 
-    product_urls = scrape_product_urls(page_url, headers)
-    all_product_details = []
+        product_urls = scrape_product_urls(page_url, headers)
+        all_product_details = []
 
-    for url in product_urls:
-        details = scrape_product_details(url, headers)
-        if details:
-            all_product_details.append(details)
+        for url in product_urls:
+            details = scrape_product_details(url, headers)
+            if details:
+                all_product_details.append(details)
 
-    print(f"Scraped {len(all_product_details)} products from page {page}.")
-    for product in all_product_details:
-        print(product)
+        print(f"Scraped {len(all_product_details)} products from page {page}.")
+        for product in all_product_details:
+            print(product)
 
-    print("\n" + "=" * 40 + "\n")
+        print("\n" + "=" * 40 + "\n")
+
+
+if __name__ == "__main__":
+    NUMBER_OF_PAGES_TO_SCRAPE = 1
+    scrape(NUMBER_OF_PAGES_TO_SCRAPE)
