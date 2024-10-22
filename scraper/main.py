@@ -18,6 +18,35 @@ def get_brutto_netto_prices(product_soup):
     return extracted_brutto_price, extracted_netto_price
 
 
+def get_dynamic_variants(headers, product_id, length, outcolor):
+    """
+    Function to scrape product prices at different variants
+    """
+    ajax_url = (
+                    f"https://wloczkiwarmii.pl/pl/index.php?controller=product"
+                    f"&id_product={product_id}&id_customization=0"
+                    f"&group%5B5%5D={length}"
+                    f"&group%5B6%5D={outcolor}&qty=1"
+                )
+    form_data = {
+        'quickview': 0,
+        'ajax': 1,
+        'action': 'refresh',
+        'quantity_wanted': 1
+    }
+
+    response = requests.post(ajax_url, headers=headers, data=form_data)
+    if response.status_code == 200:
+        try:
+            product_prices = BeautifulSoup(response.json()["product_prices"], "html.parser")
+            brutto, netto = get_brutto_netto_prices(product_prices)
+            return brutto, netto
+        except ValueError:
+            return {"error": "Invalid JSON response"}
+    else:
+        return {"error": f"Failed to fetch price. Status code: {response.status_code}"}
+
+
 def get_dynamic_weight_prices(headers, product_id, group_value):
     """
     Function to scrape product prices at different weights
@@ -65,13 +94,14 @@ def scrape_product_details(product_url, headers):
         index = product_info_div.find("p").get_text(strip=True)
 
         weight_select = product_soup.find("select", {"id": "group_7"})
-        lenght_select = product_soup.find("select", {"id": "group_5"})
+        length_select = product_soup.find("select", {"id": "group_5"})
+        outcolor_select = product_soup.find("select", {"id": "group_6"})
 
         product_prices = {}
-
         brutto_prices = []
         netto_prices = []
         weights = []
+        variants = []
 
         if weight_select:
             weight_options = weight_select.find_all("option")
@@ -81,8 +111,12 @@ def scrape_product_details(product_url, headers):
                 weights.append(option.get_text(strip=True))
                 brutto_prices.append(brutto)
                 netto_prices.append(netto)
-        elif lenght_select:
-            pass
+        elif length_select and outcolor_select:
+
+            length_options = length_select.find_all("option")
+            outcolor_options = outcolor_select.find_all("option")
+
+            print(length_options, outcolor_options)
         else:
             brutto, netto = get_brutto_netto_prices(product_soup)
             brutto_prices.append(brutto)
@@ -91,6 +125,7 @@ def scrape_product_details(product_url, headers):
         product_prices["brutto"] = brutto_prices
         product_prices["netto"] = netto_prices
         product_prices["weights"] = weights
+        product_prices["variants"] = variants
 
         save_image(product_soup, product_id)
         return {
@@ -149,7 +184,7 @@ def scrape(pages_number):
     }
     base_url = "https://wloczkiwarmii.pl/pl/10-wloczki"
 
-    for page in range(1, pages_number+1):
+    for page in range(5, pages_number+1):
         page_url = f"{base_url}?page={page}"
         print(f"Scraping page: {page_url}")
 
@@ -169,5 +204,5 @@ def scrape(pages_number):
 
 
 if __name__ == "__main__":
-    NUMBER_OF_PAGES_TO_SCRAPE = 1
+    NUMBER_OF_PAGES_TO_SCRAPE = 5
     scrape(NUMBER_OF_PAGES_TO_SCRAPE)
