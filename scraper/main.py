@@ -1,7 +1,7 @@
 import requests
 import os
 from bs4 import BeautifulSoup
-from utils import extract_numerical_value, extract_numerical_integer_value
+from utils import extract_numerical_value, extract_numerical_integer_value, benchmark
 
 MEDIA_FOLDER = os.path.join(os.getcwd(), 'media')
 
@@ -18,7 +18,8 @@ def get_brutto_netto_prices(product_soup):
     return extracted_brutto_price, extracted_netto_price
 
 
-def get_dynamic_variants(headers, product_id, length, outcolor):
+@benchmark
+def get_dynamic_variants_prices(headers, product_id, length, outcolor):
     """
     Function to scrape product prices at different variants
     """
@@ -34,7 +35,6 @@ def get_dynamic_variants(headers, product_id, length, outcolor):
         'action': 'refresh',
         'quantity_wanted': 1
     }
-
     response = requests.post(ajax_url, headers=headers, data=form_data)
     if response.status_code == 200:
         try:
@@ -47,6 +47,7 @@ def get_dynamic_variants(headers, product_id, length, outcolor):
         return {"error": f"Failed to fetch price. Status code: {response.status_code}"}
 
 
+@benchmark
 def get_dynamic_weight_prices(headers, product_id, group_value):
     """
     Function to scrape product prices at different weights
@@ -75,6 +76,7 @@ def get_dynamic_weight_prices(headers, product_id, group_value):
         return {"error": f"Failed to fetch price. Status code: {response.status_code}"}
 
 
+@benchmark
 def scrape_product_details(product_url, headers):
     """
     Function to scrape product details from an individual product page.
@@ -91,6 +93,7 @@ def scrape_product_details(product_url, headers):
         product_info_div = product_soup.find("div", class_="col-md-7")
         div_with_id = product_soup.find("div", class_="product-desc")
         product_id = extract_numerical_integer_value(str(div_with_id))
+        print(f"Currently scraping - {product_id}")
         index = product_info_div.find("p").get_text(strip=True)
 
         weight_select = product_soup.find("select", {"id": "group_7"})
@@ -101,7 +104,7 @@ def scrape_product_details(product_url, headers):
         brutto_prices = []
         netto_prices = []
         weights = []
-        variants = []
+        variants = {}
 
         if weight_select:
             weight_options = weight_select.find_all("option")
@@ -116,7 +119,21 @@ def scrape_product_details(product_url, headers):
             length_options = length_select.find_all("option")
             outcolor_options = outcolor_select.find_all("option")
 
-            print(length_options, outcolor_options)
+            for l_option in length_options:
+                l_value = l_option["value"]
+                l_title_val = extract_numerical_integer_value(l_option["title"])
+
+                if l_title_val not in variants:
+                    variants[l_title_val] = {}
+
+                for oc_option in outcolor_options:
+                    oc_value = oc_option["value"]
+                    oc_title_val = extract_numerical_integer_value(oc_option["title"])
+
+                    brutto, netto = get_dynamic_variants_prices(headers, product_id, l_value, oc_value)
+                    price = {"brutto": brutto, "netto": netto}
+
+                    variants[l_title_val][oc_title_val] = price
         else:
             brutto, netto = get_brutto_netto_prices(product_soup)
             brutto_prices.append(brutto)
@@ -184,7 +201,7 @@ def scrape(pages_number):
     }
     base_url = "https://wloczkiwarmii.pl/pl/10-wloczki"
 
-    for page in range(5, pages_number+1):
+    for page in range(1, pages_number+1):
         page_url = f"{base_url}?page={page}"
         print(f"Scraping page: {page_url}")
 
@@ -204,5 +221,5 @@ def scrape(pages_number):
 
 
 if __name__ == "__main__":
-    NUMBER_OF_PAGES_TO_SCRAPE = 5
+    NUMBER_OF_PAGES_TO_SCRAPE = 22
     scrape(NUMBER_OF_PAGES_TO_SCRAPE)

@@ -1,4 +1,5 @@
 import re
+import time
 
 
 def fill_weight_numbers(weight_numbers, non_zero_index):
@@ -61,3 +62,14 @@ def extract_numerical_integer_value(text):
     if number_match:
         return int(number_match.group(0))  # return the integer value
     return None
+
+
+def benchmark(func):
+    def wrapper(*args, **kwargs):
+        start_time = time.time()
+        result = func(*args, **kwargs)
+        end_time = time.time()
+        execution_time = end_time - start_time
+        print(f"Benchmark: {func.__name__} executed in {execution_time:.4f} seconds")
+        return result
+    return wrapper
