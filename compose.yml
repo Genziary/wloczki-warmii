@@ -1,12 +1,10 @@
 services:
   prestashop:
-    # image: prestashop/prestashop:1.7.8
-    image: shop/prestashop
     build: ./shop
     platform: linux/amd64
     volumes:
       - ps-data:/var/www/html
-      # - ./prestashop/themes:/var/www/html/themes
+      # - ./shop/themes:/var/www/html/themes
     ports:
       - 8000:80
     environment:
