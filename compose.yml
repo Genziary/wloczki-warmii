@@ -1,29 +1,25 @@
 services:
   prestashop:
-    image: prestashop/prestashop:1.7.8
+    # image: prestashop/prestashop:1.7.8
+    image: shop/prestashop
+    build: ./shop
     platform: linux/amd64
     volumes:
-      - ./prestashop:/var/www/html
-      - ./prestashop/modules:/var/www/html/modules
-      - ./prestashop/themes:/var/www/html/themes
-      - ./prestashop/override:/var/www/html/override
+      - ps-data:/var/www/html
+      # - ./prestashop/themes:/var/www/html/themes
     ports:
-      - "8001:80"
-      - "8002:443"
+      - 8000:80
     environment:
-      PS_INSTALL_AUTO: ${PS_INSTALL_AUTO:-0}
-      DB_PASSWD: ${DB_PASSWD:-admin}
+      PS_INSTALL_AUTO: 1
+      DB_USER: ${DB_USER:-wloczki-user}
+      DB_PASSWD: ${DB_PASSWD:-wloczki-password}
       DB_NAME: ${DB_NAME:-wloczki-warmii}
-      DB_SERVER: ${DB_SERVER:-db}
-      DB_PREFIX: ${DB_PREFIX:-ps_wloczki_}
-      PS_DOMAIN: ${PS_DOMAIN:-localhost:8001}
-      PS_INSTALL_DB: ${PS_INSTALL_DB:-1}
-      PS_FOLDER_INSTALL: ${PS_FOLDER_INSTALL:-install-dev}
+      DB_SERVER: db
+      PS_DOMAIN: ${PS_DOMAIN:-localhost:8000}
+      PS_FOLDER_INSTALL: install-dev
       PS_FOLDER_ADMIN: ${PS_FOLDER_ADMIN:-admin-dev}
-      PS_COUNTRY: ${PS_COUNTRY:-pl}
-      PS_LANGUAGE: ${PS_LANGUAGE:-pl}
-      PS_DEV_MODE: ${PS_DEV_MODE:-0}
-      PS_ENABLE_SSL: ${PS_ENABLE_SSL:-0}
+      PS_COUNTRY: PL
+      PS_LANGUAGE: pl
       ADMIN_MAIL: ${ADMIN_MAIL:-admin@wloczki.pl}
       ADMIN_PASSWD: ${ADMIN_PASSWD:-123123123}
     networks:
@@ -32,19 +28,24 @@ services:
       - db
 
   db:
-    image: mysql:8.4
+    image: mariadb:10.5
+    restart: unless-stopped
     volumes:
       - db-data:/var/lib/mysql
+      - ./shop/dump.sql:/docker-entrypoint-initdb.d/dump.sql
     ports:
-      - "3307:3306"
+      - 3306:3306
     environment:
-      MYSQL_ROOT_PASSWORD: ${DB_PASSWD:-admin}
+      MYSQL_USER: ${DB_USER:-wloczki-user}
+      MYSQL_PASSWORD: ${DB_PASSWD:-wloczki-password}
+      MYSQL_ROOT_PASSWORD: admin
       MYSQL_DATABASE: ${DB_NAME:-wloczki-warmii}
     networks:
       - shop-network
 
 volumes:
   db-data:
+  ps-data:
 
 networks:
   shop-network:
