@@ -15,11 +15,12 @@ services:
       DB_SERVER: db
       PS_DOMAIN: ${PS_DOMAIN:-localhost:8000}
       PS_FOLDER_INSTALL: install-dev
-      PS_FOLDER_ADMIN: ${PS_FOLDER_ADMIN:-admin-dev}
+      PS_FOLDER_ADMIN: admin-dev
       PS_COUNTRY: PL
       PS_LANGUAGE: pl
       ADMIN_MAIL: ${ADMIN_MAIL:-admin@wloczki.pl}
       ADMIN_PASSWD: ${ADMIN_PASSWD:-123123123}
+      USE_DB_DUMP: ${USE_DB_DUMP:-0}
     networks:
       - shop-network
     depends_on:
