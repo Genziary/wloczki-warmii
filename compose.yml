@@ -1,0 +1,49 @@
+services:
+  prestashop:
+    build: ./shop
+    platform: linux/amd64
+    volumes:
+      - ps-data:/var/www/html
+    ports:
+      - 8000:80
+    environment:
+      PS_INSTALL_AUTO: 1
+      DB_USER: ${DB_USER:-wloczki-user}
+      DB_PASSWD: ${DB_PASSWD:-wloczki-password}
+      DB_NAME: ${DB_NAME:-wloczki-warmii}
+      DB_SERVER: db
+      PS_DOMAIN: ${PS_DOMAIN:-localhost:8000}
+      PS_FOLDER_INSTALL: install-dev
+      PS_FOLDER_ADMIN: admin-dev
+      PS_COUNTRY: PL
+      PS_LANGUAGE: pl
+      ADMIN_MAIL: ${ADMIN_MAIL:-admin@wloczki.pl}
+      ADMIN_PASSWD: ${ADMIN_PASSWD:-123123123}
+      USE_DB_DUMP: ${USE_DB_DUMP:-0}
+    networks:
+      - shop-network
+    depends_on:
+      - db
+
+  db:
+    image: mariadb:10.5
+    restart: unless-stopped
+    volumes:
+      - db-data:/var/lib/mysql
+      - ./shop/dump.sql:/docker-entrypoint-initdb.d/dump.sql
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_USER: ${DB_USER:-wloczki-user}
+      MYSQL_PASSWORD: ${DB_PASSWD:-wloczki-password}
+      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_DATABASE: ${DB_NAME:-wloczki-warmii}
+    networks:
+      - shop-network
+
+volumes:
+  db-data:
+  ps-data:
+
+networks:
+  shop-network:
