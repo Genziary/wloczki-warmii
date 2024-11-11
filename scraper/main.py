@@ -2,6 +2,7 @@ import requests
 import os
 from bs4 import BeautifulSoup
 from utils import extract_numerical_value, extract_numerical_integer_value, benchmark
+import sys
 
 MEDIA_FOLDER = os.path.join(os.getcwd(), 'media')
 
@@ -144,11 +145,14 @@ def scrape_product_details(product_url, headers):
         product_prices["weights"] = weights
         product_prices["variants"] = variants
 
-        save_image(product_soup, product_id)
+        save_image(product_soup, product_id, 0)
+        save_image(product_soup, product_id, 1)
+
         return {
             "categories_tree": categories_tree,
             "index": index,
-            "prices": product_prices
+            "prices": product_prices,
+            "product_id": product_id
         }
     else:
         print(f"Failed to retrieve product page: {product_url}. Status code: {product_response.status_code}")
@@ -176,23 +180,39 @@ def scrape_product_urls(page_url, headers):
     return product_urls
 
 
-def save_image(soup, product_id):
-    save_path = os.path.join(MEDIA_FOLDER, f'{product_id}.jpg')
-    img_tag = soup.find('div', class_="product-cover").find("img")
+def save_image(soup, product_id, photo_number):
+    save_path = os.path.join(MEDIA_FOLDER, f'{product_id}_{photo_number}.jpg')
+    if photo_number == 0:
+        img_tag = soup.find('div', class_="product-cover").find("img")
 
-    if img_tag and 'src' in img_tag.attrs:
-        img_url = img_tag['src']
-        img_response = requests.get(img_url)
-        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        if img_tag and 'src' in img_tag.attrs:
+            img_url = img_tag['src']
+            img_response = requests.get(img_url)
+            os.makedirs(os.path.dirname(save_path), exist_ok=True)
 
-        if img_response.status_code == 200:
-            with open(save_path, 'wb') as file:
-                file.write(img_response.content)
-            print(f"Image successfully downloaded: {save_path}")
+            if img_response.status_code == 200:
+                with open(save_path, 'wb') as file:
+                    file.write(img_response.content)
+                print(f"Image successfully downloaded: {save_path}")
+            else:
+                print("Failed to download the image.")
         else:
-            print("Failed to download the image.")
+            print("No image found on the page.")
     else:
-        print("No image found on the page.")
+        img_tag = soup.find("img", class_="thumb js-thumb")
+        if 'data-image-large-src' in img_tag.attrs:
+            img_url = img_tag['data-image-large-src']
+            img_response = requests.get(img_url)
+            os.makedirs(os.path.dirname(save_path), exist_ok=True)
+
+            if img_response.status_code == 200:
+                with open(save_path, 'wb') as file:
+                    file.write(img_response.content)
+                print(f"Image successfully downloaded: {save_path}")
+            else:
+                print("Failed to download the image.")
+        else:
+            print("No image found on the page.")
 
 
 def scrape(pages_number):
@@ -221,5 +241,5 @@ def scrape(pages_number):
 
 
 if __name__ == "__main__":
-    NUMBER_OF_PAGES_TO_SCRAPE = 22
+    NUMBER_OF_PAGES_TO_SCRAPE = 1#22
     scrape(NUMBER_OF_PAGES_TO_SCRAPE)
