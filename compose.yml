@@ -4,6 +4,7 @@ services:
     platform: linux/amd64
     volumes:
       - ps-data:/var/www/html
+      - ./shop/modules:/var/www/html/modules
     ports:
       - 8000:80
     environment:
