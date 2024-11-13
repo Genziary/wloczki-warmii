@@ -31,7 +31,6 @@ services:
     restart: unless-stopped
     volumes:
       - db-data:/var/lib/mysql
-      - ./shop/dump.sql:/docker-entrypoint-initdb.d/dump.sql
     ports:
       - 3306:3306
     environment:
