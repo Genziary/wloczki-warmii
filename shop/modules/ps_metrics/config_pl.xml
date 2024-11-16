@@ -2,7 +2,7 @@
 <module>
     <name>ps_metrics</name>
     <displayName><![CDATA[PrestaShop Metrics]]></displayName>
-    <version><![CDATA[4.0.8]]></version>
+    <version><![CDATA[4.0.9]]></version>
     <description><![CDATA[Zoptymalizuj swoją działalność dzięki podejściu opartemu na danych, uzyskując pełny obraz swojej działalności w czasie rzeczywistym.]]></description>
     <author><![CDATA[PrestaShop]]></author>
     <tab><![CDATA[advertising_marketing]]></tab>

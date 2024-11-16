@@ -31,9 +31,7 @@
 {block name='header_nav'}
   <nav class="header-nav hidden-sm-down">
     <div class="container">
-        {widget name="ps_languageselector"}
-        {widget name="ps_currencyselector"}
-        {widget name="ps_customersignin"}
+        {hook h='displayNav2'}
         <div class="hidden-md-up text-sm-center mobile">
           <div class="float-xs-left" id="menu-icon">
             <i class="material-icons d-inline">&#xE5D2;</i>
@@ -48,22 +46,20 @@
 {/block}
 
 {block name='header_top'}
-  <div class="header-top">
+  <div class="header-top hidden-md-down">
     <div class="container">
        <div class="row">
-        <div class="col-md-2 hidden-sm-down" id="_desktop_logo">
+        <div class="col col-left col-md-4 col-sm-12 position-static">
+          {hook h='displayNav1'}
+        </div>
+        <div id="_desktop_logo" class="header_logo col col-left col-md-4">
           {if $shop.logo_details}
-            {if $page.page_name == 'index'}
-              <h1>
-                {renderLogo}
-              </h1>
-            {else}
-              {renderLogo}
-            {/if}
+            {renderLogo}
           {/if}
         </div>
-        <div class="header-top-right col-md-10 col-sm-12 position-static">
-          {hook h='displayTop'}
+        <div class="col col-right col-md-4 col-sm-12 position-static">
+          {widget name='ps_shoppingcart'}
+          {widget name='ps_searchbar'}
         </div>
       </div>
       <div id="mobile_top_menu_wrapper" class="row hidden-md-up" style="display:none;">
