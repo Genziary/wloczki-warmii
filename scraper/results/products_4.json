@@ -1,0 +1,456 @@
+[
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 156 - lawendowy"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 482
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 163 - lodowy błękit"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 490
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 165 - ciemnozielony"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 494
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 200 - ciemny granat"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 517
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 223 - mandarynka"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 541
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 225 - morelowy"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 646
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 241 - miodowy"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2732
+    },
+    {
+        "categories_tree": [
+            "BABY SUPREMO 247 - szaroniebieski"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 491
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 333 - śliwka"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 487
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 471 - róż indyjski"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 645
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 530 - gorzka czekolada"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 540
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 100 - mleczny"
+        ],
+        "index": "Indeks: 100",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2586
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 403 - melanżowy grafit"
+        ],
+        "index": "Indeks: 403",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2471
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 434 - melanżowy perłowy"
+        ],
+        "index": "Indeks: 434",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2496
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 435 - melanżowy szary"
+        ],
+        "index": "Indeks: 435",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2475
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 500 - czerń"
+        ],
+        "index": "Indeks: 500",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2477
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 525 - jadeit"
+        ],
+        "index": "Indeks: 525",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2470
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 1231 - morela"
+        ],
+        "index": "Indeks: 1231",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2500
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 1343 - cegła"
+        ],
+        "index": "Indeks: 1343",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2498
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 1426 - terakota"
+        ],
+        "index": "Indeks: 1426",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2478
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 1448 - czerwona pomarańcza"
+        ],
+        "index": "Indeks: 1448",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2499
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 1660 - granat"
+        ],
+        "index": "Indeks: 1660",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2585
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 2122 - jasny beż"
+        ],
+        "index": "Indeks: 2122",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2497
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "BAMBOO WOOL",
+            "BAMBOO WOOL 3906 - lawendowy"
+        ],
+        "index": "Indeks: 3906",
+        "prices": {
+            "brutto": [
+                18.0
+            ],
+            "netto": [
+                14.63
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2474
+    }
+]

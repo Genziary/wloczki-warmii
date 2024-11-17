@@ -1,0 +1,684 @@
+[
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "01 COTTONMIX CAKE SHINE - Magiczne Święta | 1500m"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [
+                87.0
+            ],
+            "netto": [
+                70.73
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1847
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 55 - ziołowy ogród"
+        ],
+        "index": "Indeks: inga",
+        "prices": {
+            "brutto": [
+                33.0,
+                37.4,
+                39.6,
+                41.8
+            ],
+            "netto": [
+                26.83,
+                30.41,
+                32.2,
+                33.98
+            ],
+            "weights": [
+                "150g",
+                "170g",
+                "180g",
+                "190g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2543
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 57 - dzikie wino"
+        ],
+        "index": "Indeks: inga 57",
+        "prices": {
+            "brutto": [
+                39.6,
+                44.0,
+                46.2
+            ],
+            "netto": [
+                32.2,
+                35.77,
+                37.56
+            ],
+            "weights": [
+                "180g",
+                "200g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 3179
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 503 - Fiołkowa polana"
+        ],
+        "index": "Indeks: inga 503",
+        "prices": {
+            "brutto": [
+                32.2,
+                34.5,
+                41.4
+            ],
+            "netto": [
+                26.18,
+                28.05,
+                33.66
+            ],
+            "weights": [
+                "140g",
+                "150g",
+                "180g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1780
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 504 -  jesienne mgły"
+        ],
+        "index": "Indeks: inga 504",
+        "prices": {
+            "brutto": [
+                39.1,
+                43.7,
+                46.0,
+                52.9
+            ],
+            "netto": [
+                31.79,
+                35.53,
+                37.4,
+                43.01
+            ],
+            "weights": [
+                "170g",
+                "190g",
+                "200g",
+                "230g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1789
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 509 - rozległe stepy"
+        ],
+        "index": "Indeks: inga 509",
+        "prices": {
+            "brutto": [
+                29.9,
+                36.8,
+                39.1,
+                41.4
+            ],
+            "netto": [
+                24.31,
+                29.92,
+                31.79,
+                33.66
+            ],
+            "weights": [
+                "130g",
+                "160g",
+                "170g",
+                "180g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2315
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 604 - salsa"
+        ],
+        "index": "Indeks: inga 604",
+        "prices": {
+            "brutto": [
+                39.1,
+                43.7,
+                46.0,
+                48.3
+            ],
+            "netto": [
+                31.79,
+                35.53,
+                37.4,
+                39.27
+            ],
+            "weights": [
+                "170g",
+                "190g",
+                "200g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2095
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 605 - sianokosy"
+        ],
+        "index": "Indeks: inga 605",
+        "prices": {
+            "brutto": [
+                27.6,
+                39.1,
+                41.4,
+                43.7
+            ],
+            "netto": [
+                22.44,
+                31.79,
+                33.66,
+                35.53
+            ],
+            "weights": [
+                "120g",
+                "170g",
+                "180g",
+                "190g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2591
+    },
+    {
+        "categories_tree": [
+            "6/1 INGA 606 - upalne lato"
+        ],
+        "index": "Indeks: inga 606",
+        "prices": {
+            "brutto": [
+                39.1,
+                41.4,
+                46.0
+            ],
+            "netto": [
+                31.79,
+                33.66,
+                37.4
+            ],
+            "weights": [
+                "170g",
+                "180g",
+                "200g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2329
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 612 - wakacyjna podróż"
+        ],
+        "index": "Indeks: inga 612",
+        "prices": {
+            "brutto": [
+                34.5,
+                39.1,
+                43.7,
+                46.0
+            ],
+            "netto": [
+                28.05,
+                31.79,
+                35.53,
+                37.4
+            ],
+            "weights": [
+                "150g",
+                "170g",
+                "190g",
+                "200g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2136
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 613 - dookoła równika"
+        ],
+        "index": "Indeks: inga 613",
+        "prices": {
+            "brutto": [
+                41.4,
+                43.7,
+                48.3
+            ],
+            "netto": [
+                33.66,
+                35.53,
+                39.27
+            ],
+            "weights": [
+                "180g",
+                "190g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2649
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 615 - młode listki"
+        ],
+        "index": "Indeks: inga 615",
+        "prices": {
+            "brutto": [
+                46.0,
+                48.3
+            ],
+            "netto": [
+                37.4,
+                39.27
+            ],
+            "weights": [
+                "200g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1627
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 801 -  sierpniowa łąka"
+        ],
+        "index": "Indeks: inga 801",
+        "prices": {
+            "brutto": [
+                39.1,
+                41.4,
+                43.7,
+                46.0,
+                48.3
+            ],
+            "netto": [
+                31.79,
+                33.66,
+                35.53,
+                37.4,
+                39.27
+            ],
+            "weights": [
+                "170g",
+                "180g",
+                "190g",
+                "200g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2258
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 802 - owocowa sałatka"
+        ],
+        "index": "Indeks: inga 802",
+        "prices": {
+            "brutto": [
+                41.4,
+                43.7,
+                46.0,
+                48.3,
+                50.6
+            ],
+            "netto": [
+                33.66,
+                35.53,
+                37.4,
+                39.27,
+                41.14
+            ],
+            "weights": [
+                "180g",
+                "190g",
+                "200g",
+                "210g",
+                "220g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2325
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 804 - Magia świąt"
+        ],
+        "index": "Indeks: inga 804",
+        "prices": {
+            "brutto": [
+                39.1,
+                43.7,
+                46.0,
+                50.6
+            ],
+            "netto": [
+                31.79,
+                35.53,
+                37.4,
+                41.14
+            ],
+            "weights": [
+                "170g",
+                "190g",
+                "200g",
+                "220g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1779
+    },
+    {
+        "categories_tree": [
+            "6/1 INGA 805 - Festiwal kolorów"
+        ],
+        "index": "Indeks: inga 805",
+        "prices": {
+            "brutto": [
+                43.7,
+                46.0,
+                48.3
+            ],
+            "netto": [
+                35.53,
+                37.4,
+                39.27
+            ],
+            "weights": [
+                "190g",
+                "200g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1788
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 806 - Morska bryza"
+        ],
+        "index": "Indeks: inga 806",
+        "prices": {
+            "brutto": [
+                46.0,
+                48.3,
+                50.6
+            ],
+            "netto": [
+                37.4,
+                39.27,
+                41.14
+            ],
+            "weights": [
+                "200g",
+                "210g",
+                "220g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1781
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 807 - zachód słońca"
+        ],
+        "index": "Indeks: inga 807",
+        "prices": {
+            "brutto": [
+                41.4,
+                43.7,
+                46.0,
+                50.6
+            ],
+            "netto": [
+                33.66,
+                35.53,
+                37.4,
+                41.14
+            ],
+            "weights": [
+                "180g",
+                "190g",
+                "200g",
+                "220g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2868
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 808 - śliwkowe powidła"
+        ],
+        "index": "Indeks: inga 808",
+        "prices": {
+            "brutto": [
+                36.8,
+                39.1,
+                41.4,
+                43.7,
+                46.0
+            ],
+            "netto": [
+                29.92,
+                31.79,
+                33.66,
+                35.53,
+                37.4
+            ],
+            "weights": [
+                "160g",
+                "170g",
+                "180g",
+                "190g",
+                "200g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1733
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 809 - burzowe niebo"
+        ],
+        "index": "Indeks: inga 809",
+        "prices": {
+            "brutto": [
+                39.1,
+                41.4,
+                46.0,
+                48.3
+            ],
+            "netto": [
+                31.79,
+                33.66,
+                37.4,
+                39.27
+            ],
+            "weights": [
+                "170g",
+                "180g",
+                "200g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1791
+    },
+    {
+        "categories_tree": [
+            "6/1 INGA 810 - równonoc"
+        ],
+        "index": "Indeks: inga 810",
+        "prices": {
+            "brutto": [
+                34.5,
+                41.4,
+                43.7,
+                48.3
+            ],
+            "netto": [
+                28.05,
+                33.66,
+                35.53,
+                39.27
+            ],
+            "weights": [
+                "150g",
+                "180g",
+                "190g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1628
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 811 - Jagodzianki"
+        ],
+        "index": "Indeks: inga 811",
+        "prices": {
+            "brutto": [
+                46.0,
+                50.6
+            ],
+            "netto": [
+                37.4,
+                41.14
+            ],
+            "weights": [
+                "200g",
+                "220g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2642
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 812 - noc sobótki"
+        ],
+        "index": "Indeks: inga 812",
+        "prices": {
+            "brutto": [
+                39.1,
+                41.4,
+                46.0
+            ],
+            "netto": [
+                31.79,
+                33.66,
+                37.4
+            ],
+            "weights": [
+                "170g",
+                "180g",
+                "200g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1777
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "INGA 6/1",
+            "6/1 INGA 814 - Szmaragdowy gród"
+        ],
+        "index": "Indeks: inga 814",
+        "prices": {
+            "brutto": [
+                43.7,
+                46.0,
+                48.3,
+                50.6,
+                52.9
+            ],
+            "netto": [
+                35.53,
+                37.4,
+                39.27,
+                41.14,
+                43.01
+            ],
+            "weights": [
+                "190g",
+                "200g",
+                "210g",
+                "220g",
+                "230g"
+            ],
+            "variants": {}
+        },
+        "product_id": 2126
+    }
+]

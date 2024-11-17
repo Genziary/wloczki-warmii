@@ -1,0 +1,1660 @@
+[
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE ART",
+            "COTTONMIX CAKE ART - Vincent Van Gogh | Zielone pola pszenicy"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3378
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE ART",
+            "COTTONMIX CAKE ART - Wassily Kandinsky | Rigide et courbé"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3375
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE ART",
+            "COTTONMIX CAKE ART - William Turner | Widok na Lyon"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3376
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE DELUXE",
+            "COTTONMIX CAKE DELUXE - Augustowskie noce"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 68.0,
+                        "netto": 55.28
+                    },
+                    "250": {
+                        "brutto": 85.0,
+                        "netto": 69.11
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 92.0,
+                        "netto": 74.8
+                    },
+                    "250": {
+                        "brutto": 109.0,
+                        "netto": 88.62
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 102.0,
+                        "netto": 82.93
+                    },
+                    "250": {
+                        "brutto": 119.0,
+                        "netto": 96.75
+                    }
+                }
+            }
+        },
+        "product_id": 1341
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE DELUXE",
+            "COTTONMIX CAKE DELUXE - Babia Góra o poranku"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 68.0,
+                        "netto": 55.28
+                    },
+                    "250": {
+                        "brutto": 85.0,
+                        "netto": 69.11
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 92.0,
+                        "netto": 74.8
+                    },
+                    "250": {
+                        "brutto": 109.0,
+                        "netto": 88.62
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 102.0,
+                        "netto": 82.93
+                    },
+                    "250": {
+                        "brutto": 119.0,
+                        "netto": 96.75
+                    }
+                }
+            }
+        },
+        "product_id": 3412
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE DELUXE",
+            "COTTONMIX CAKE DELUXE - Cappuccino w zamku Ryn"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 68.0,
+                        "netto": 55.28
+                    },
+                    "250": {
+                        "brutto": 85.0,
+                        "netto": 69.11
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 92.0,
+                        "netto": 74.8
+                    },
+                    "250": {
+                        "brutto": 109.0,
+                        "netto": 88.62
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 102.0,
+                        "netto": 82.93
+                    },
+                    "250": {
+                        "brutto": 119.0,
+                        "netto": 96.75
+                    }
+                }
+            }
+        },
+        "product_id": 1340
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE DELUXE",
+            "COTTONMIX CAKE DELUXE - Noc Kairu"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 68.0,
+                        "netto": 55.28
+                    },
+                    "250": {
+                        "brutto": 85.0,
+                        "netto": 69.11
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 92.0,
+                        "netto": 74.8
+                    },
+                    "250": {
+                        "brutto": 109.0,
+                        "netto": 88.62
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 102.0,
+                        "netto": 82.93
+                    },
+                    "250": {
+                        "brutto": 119.0,
+                        "netto": 96.75
+                    }
+                }
+            }
+        },
+        "product_id": 3414
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE DELUXE",
+            "COTTONMIX CAKE DELUXE - Santorini"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 68.0,
+                        "netto": 55.28
+                    },
+                    "250": {
+                        "brutto": 85.0,
+                        "netto": 69.11
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 92.0,
+                        "netto": 74.8
+                    },
+                    "250": {
+                        "brutto": 109.0,
+                        "netto": 88.62
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 102.0,
+                        "netto": 82.93
+                    },
+                    "250": {
+                        "brutto": 119.0,
+                        "netto": 96.75
+                    }
+                }
+            }
+        },
+        "product_id": 3413
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE DELUXE",
+            "COTTONMIX CAKE DELUXE - Szkockie góry"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 68.0,
+                        "netto": 55.28
+                    },
+                    "250": {
+                        "brutto": 85.0,
+                        "netto": 69.11
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 92.0,
+                        "netto": 74.8
+                    },
+                    "250": {
+                        "brutto": 109.0,
+                        "netto": 88.62
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 102.0,
+                        "netto": 82.93
+                    },
+                    "250": {
+                        "brutto": 119.0,
+                        "netto": 96.75
+                    }
+                }
+            }
+        },
+        "product_id": 3411
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE EXTRA",
+            "COTTONMIX CAKE EXTRA - Dzika Afryka"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3415
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE EXTRA",
+            "COTTONMIX CAKE EXTRA - W starym kinie"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3176
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE EXTRA",
+            "COTTONMIX CAKE EXTRA - Złota godzina"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3177
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN",
+            "COTTONMIX CAKE LINEN - Andromeda"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 2729
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN",
+            "COTTONMIX CAKE LINEN - Babie lato"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 1922
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN",
+            "COTTONMIX CAKE LINEN - Balladyna"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 3041
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN",
+            "COTTONMIX CAKE LINEN - Bałtycki sztorm"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 3406
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN",
+            "COTTONMIX CAKE LINEN - Beza z porzeczkami"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 2166
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN - Białe żagle"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 3272
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN",
+            "COTTONMIX CAKE LINEN - Bieszczadzkie połoniny"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 3410
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN - Burzowe niebo"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 2532
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN - Carpe diem"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 2531
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN",
+            "COTTONMIX CAKE LINEN - Ciasto z rabarbarem"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 2032
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN - Ciepły wieczór"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 3031
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE LINEN",
+            "COTTONMIX CAKE LINEN - Cytrynowy gaj"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 3408
+    }
+]

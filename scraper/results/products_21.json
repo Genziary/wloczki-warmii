@@ -1,0 +1,59 @@
+[
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "TWEED IT YOURSELF",
+            "TWEED IT YOURSELF - 4"
+        ],
+        "index": "Indeks: 4",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2956
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "TWEED IT YOURSELF",
+            "TWEED IT YOURSELF - 5"
+        ],
+        "index": "Indeks: 5",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2959
+    },
+    {
+        "categories_tree": [
+            "BAWEŁNA",
+            "KOLEKCJA ITALIA",
+            "URBAN 6437 - pomarańczowy"
+        ],
+        "index": "Indeks: 6437",
+        "prices": {
+            "brutto": [
+                8.5
+            ],
+            "netto": [
+                6.91
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1935
+    }
+]

@@ -1,0 +1,457 @@
+[
+    {
+        "categories_tree": [
+            "6/1 INGA 815 - pole łubinów"
+        ],
+        "index": "Indeks: inga 603",
+        "prices": {
+            "brutto": [
+                46.0,
+                48.3
+            ],
+            "netto": [
+                37.4,
+                39.27
+            ],
+            "weights": [
+                "200g",
+                "210g"
+            ],
+            "variants": {}
+        },
+        "product_id": 1782
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 435 melanżowy szary"
+        ],
+        "index": "Indeks: 435",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3140
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 -  500 czarny"
+        ],
+        "index": "Indeks: 500",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2953
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 1619 petrol"
+        ],
+        "index": "Indeks: 1619",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2740
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 1850 dymny wrzos"
+        ],
+        "index": "Indeks: 1850",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2742
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 1897 rudy"
+        ],
+        "index": "Indeks: 1897",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2741
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 2060 czerwony"
+        ],
+        "index": "Indeks: 2060",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2952
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 -  2163 denim"
+        ],
+        "index": "Indeks: 2163",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2950
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 3810 miodowy"
+        ],
+        "index": "Indeks: 3810",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2743
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 6995 pudrowy"
+        ],
+        "index": "Indeks: 6995",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2945
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 7425 turkus"
+        ],
+        "index": "Indeks: 7425",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2739
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "ALPACA 400",
+            "ALPACA 400 - 7788 szałwia"
+        ],
+        "index": "Indeks: 7788",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2745
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "ALPAKA MOHER",
+            "ALPAKA MOHER 2920 - ciemny szary"
+        ],
+        "index": "Indeks: 2920",
+        "prices": {
+            "brutto": [
+                15.0
+            ],
+            "netto": [
+                12.2
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2398
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "AMELIA",
+            "AMELIA - malinowa konfitura"
+        ],
+        "index": "Indeks: amelia",
+        "prices": {
+            "brutto": [
+                59.0
+            ],
+            "netto": [
+                47.97
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 766
+    },
+    {
+        "categories_tree": [
+            "AMELIA - niezapominajki"
+        ],
+        "index": "Indeks: amelia",
+        "prices": {
+            "brutto": [
+                64.0
+            ],
+            "netto": [
+                52.03
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2842
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "AMELIA",
+            "AMELIA - poranna mgła"
+        ],
+        "index": "Indeks: amelia",
+        "prices": {
+            "brutto": [
+                64.0
+            ],
+            "netto": [
+                52.03
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2212
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "AMELIA",
+            "AMELIA - rajska wyspa"
+        ],
+        "index": "Indeks: amelia",
+        "prices": {
+            "brutto": [
+                64.0
+            ],
+            "netto": [
+                52.03
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 756
+    },
+    {
+        "categories_tree": [
+            "AMELIA - zorza"
+        ],
+        "index": "Indeks: amelia",
+        "prices": {
+            "brutto": [
+                64.0
+            ],
+            "netto": [
+                52.03
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1304
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "ARMONIA COLOUR",
+            "ARMONIA COLOUR 2200 - mix leśnych zieleni"
+        ],
+        "index": "Indeks: 2200",
+        "prices": {
+            "brutto": [
+                48.0
+            ],
+            "netto": [
+                39.02
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2481
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "ARMONIA COLOUR",
+            "ARMONIA COLOUR 2202 - mix pudrowych róży i kremu"
+        ],
+        "index": "Indeks: 2202",
+        "prices": {
+            "brutto": [
+                48.0
+            ],
+            "netto": [
+                39.02
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2483
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "ARMONIA COLOUR",
+            "ARMONIA COLOUR 2204 - mix turkusu i petrolu"
+        ],
+        "index": "Indeks: 2204",
+        "prices": {
+            "brutto": [
+                48.0
+            ],
+            "netto": [
+                39.02
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2485
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 01 - melanżowy szary"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 498
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 02 - melanżowy jasnoszary"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 497
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "BABY SUPREMO",
+            "BABY SUPREMO 04 - melanżowy beż"
+        ],
+        "index": "Indeks: baby supremo",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 496
+    }
+]

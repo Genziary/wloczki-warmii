@@ -1,0 +1,454 @@
+[
+    {
+        "categories_tree": [
+            "SOFT DONEGAL TWEED 5585 - SUNSET"
+        ],
+        "index": "Indeks: soft donegal 5585",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1543
+    },
+    {
+        "categories_tree": [
+            "SOFT DONEGAL TWEED 5586 - JADE"
+        ],
+        "index": "Indeks: soft donegal 5586",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1256
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "SOFT DONEGAL TWEED",
+            "SOFT DONEGAL TWEED 5603 - ARTHONIA"
+        ],
+        "index": "Indeks: soft donegal 5603",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2230
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "SOFT DONEGAL TWEED",
+            "SOFT DONEGAL TWEED 5612 - CNAPASTÚN"
+        ],
+        "index": "Indeks: soft donegal 5612",
+        "prices": {
+            "brutto": [
+                30.0
+            ],
+            "netto": [
+                24.39
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2231
+    },
+    {
+        "categories_tree": [
+            "BAWEŁNA",
+            "KOLEKCJA ITALIA",
+            "SUPERMERINO 70gr"
+        ],
+        "index": "Indeks: 205",
+        "prices": {
+            "brutto": [
+                20.0
+            ],
+            "netto": [
+                16.26
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1669
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C112 - stalowy"
+        ],
+        "index": "Indeks: C112",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2803
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C130 - szałwia"
+        ],
+        "index": "Indeks: C130",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2798
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C159 - ochra"
+        ],
+        "index": "Indeks: C159",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2838
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C163 - pastelowy róż"
+        ],
+        "index": "Indeks: C163",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2805
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C172 - pastelowy niebieski"
+        ],
+        "index": "Indeks: C172",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2797
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C184 - jasny beż"
+        ],
+        "index": "Indeks: C184",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2800
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C185 - ciemny beż"
+        ],
+        "index": "Indeks: C185",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2971
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G114 - czerń"
+        ],
+        "index": "Indeks: G114",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3328
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G164 - amarant"
+        ],
+        "index": "Indeks: G164",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2802
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G168 - fiolet"
+        ],
+        "index": "Indeks: G168",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3329
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G169 - różowy"
+        ],
+        "index": "Indeks: G169",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2831
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G174 - niezapominajka"
+        ],
+        "index": "Indeks: G174",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2972
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G179 - szmaragd"
+        ],
+        "index": "Indeks: G179",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2804
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G182 - oliwka"
+        ],
+        "index": "Indeks: G182",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2973
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G183 - paproć"
+        ],
+        "index": "Indeks: C183",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2965
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G186 - cynamon"
+        ],
+        "index": "Indeks: C186",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2970
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "TWEED IT YOURSELF",
+            "TWEED IT YOURSELF - 1"
+        ],
+        "index": "Indeks: 1",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2933
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "TWEED IT YOURSELF",
+            "TWEED IT YOURSELF - 2"
+        ],
+        "index": "Indeks: 2",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2954
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "TWEED IT YOURSELF",
+            "TWEED IT YOURSELF - 3"
+        ],
+        "index": "Indeks: 3",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2955
+    }
+]

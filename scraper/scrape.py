@@ -2,9 +2,10 @@ import requests
 import os
 from bs4 import BeautifulSoup
 from utils import extract_numerical_value, extract_numerical_integer_value, benchmark
-import sys
+import json
 
 MEDIA_FOLDER = os.path.join(os.getcwd(), 'media')
+RESULTS_FOLDER = os.path.join(os.getcwd(), 'results')
 
 
 def get_brutto_netto_prices(product_soup):
@@ -180,6 +181,14 @@ def scrape_product_urls(page_url, headers):
     return product_urls
 
 
+@benchmark
+def save_to_json(products, page_number):
+    save_path = os.path.join(RESULTS_FOLDER, f'products_{page_number}.json')
+    os.makedirs(os.path.dirname(save_path), exist_ok=True)
+    with open(save_path, 'w', encoding='utf-8') as json_file:
+        json.dump(products, json_file, ensure_ascii=False, indent=4)
+
+
 def save_image(soup, product_id, photo_number):
     save_path = os.path.join(MEDIA_FOLDER, f'{product_id}_{photo_number}.jpg')
     if photo_number == 0:
@@ -200,7 +209,7 @@ def save_image(soup, product_id, photo_number):
             print("No image found on the page.")
     else:
         img_tag = soup.find("img", class_="thumb js-thumb")
-        if 'data-image-large-src' in img_tag.attrs:
+        if img_tag and 'data-image-large-src' in img_tag.attrs:
             img_url = img_tag['data-image-large-src']
             img_response = requests.get(img_url)
             os.makedirs(os.path.dirname(save_path), exist_ok=True)
@@ -234,6 +243,7 @@ def scrape(pages_number):
                 all_product_details.append(details)
 
         print(f"Scraped {len(all_product_details)} products from page {page}.")
+        save_to_json(all_product_details, page)
         for product in all_product_details:
             print(product)
 
@@ -241,5 +251,5 @@ def scrape(pages_number):
 
 
 if __name__ == "__main__":
-    NUMBER_OF_PAGES_TO_SCRAPE = 1#22
+    NUMBER_OF_PAGES_TO_SCRAPE = 22
     scrape(NUMBER_OF_PAGES_TO_SCRAPE)

@@ -1,0 +1,450 @@
+[
+    {
+        "categories_tree": [
+            "LEN",
+            "LENKA CAKE",
+            "LENKA CAKE - piernikowy"
+        ],
+        "index": "Indeks: lenka cake",
+        "prices": {
+            "brutto": [
+                120.0
+            ],
+            "netto": [
+                97.56
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3360
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LENKA CAKE",
+            "LENKA CAKE - szmaragdowy"
+        ],
+        "index": "Indeks: lenka cake",
+        "prices": {
+            "brutto": [
+                120.0
+            ],
+            "netto": [
+                97.56
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1235
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LENKA CAKE",
+            "LENKA CAKE SOLO - biały"
+        ],
+        "index": "Indeks: lenka cake",
+        "prices": {
+            "brutto": [
+                20.0
+            ],
+            "netto": [
+                16.26
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3362
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LENKA CAKE",
+            "LENKA CAKE SOLO - ciepły grafit"
+        ],
+        "index": "Indeks: lenka cake",
+        "prices": {
+            "brutto": [
+                20.0
+            ],
+            "netto": [
+                16.26
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3363
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LENKA CAKE",
+            "LENKA CAKE SOLO - cynamon"
+        ],
+        "index": "Indeks: lenka cake",
+        "prices": {
+            "brutto": [
+                20.0
+            ],
+            "netto": [
+                16.26
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3364
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LENKA CAKE",
+            "LENKA CAKE SOLO - mięta"
+        ],
+        "index": "Indeks: lenka cake",
+        "prices": {
+            "brutto": [
+                20.0
+            ],
+            "netto": [
+                16.26
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3366
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LENKA CAKE",
+            "LENKA CAKE SOLO - szmaragd"
+        ],
+        "index": "Indeks: lenka cake",
+        "prices": {
+            "brutto": [
+                20.0
+            ],
+            "netto": [
+                16.26
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3367
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LINEN",
+            "LINEN 12 - miętowy"
+        ],
+        "index": "Indeks: 12",
+        "prices": {
+            "brutto": [
+                17.5
+            ],
+            "netto": [
+                14.23
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 978
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LINEN",
+            "LINEN 17 - słoneczny"
+        ],
+        "index": "Indeks: 17",
+        "prices": {
+            "brutto": [
+                17.5
+            ],
+            "netto": [
+                14.23
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1030
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LINEN",
+            "LINEN 27 - ochra"
+        ],
+        "index": "Indeks: 27",
+        "prices": {
+            "brutto": [
+                17.5
+            ],
+            "netto": [
+                14.23
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1141
+    },
+    {
+        "categories_tree": [
+            "LINEN 30 - oliwka"
+        ],
+        "index": "Indeks: 30",
+        "prices": {
+            "brutto": [
+                17.5
+            ],
+            "netto": [
+                14.23
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1521
+    },
+    {
+        "categories_tree": [
+            "LINO - makowa czerwień"
+        ],
+        "index": "Indeks: lino",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3044
+    },
+    {
+        "categories_tree": [
+            "LINO - rudy"
+        ],
+        "index": "Indeks: lino",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3046
+    },
+    {
+        "categories_tree": [
+            "LINO - słoneczny żółty"
+        ],
+        "index": "Indeks: lino",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3047
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 02 - miks granatu z błękitami"
+        ],
+        "index": "Indeks: 02",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2492
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 17 - miks czerwieni i czerni"
+        ],
+        "index": "Indeks: 17",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2489
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 22 - miks turkusu i ochry"
+        ],
+        "index": "Indeks: 22",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2491
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 27 - miks szarości z różem"
+        ],
+        "index": "Indeks: 27",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2487
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 30 - miks beżów z brązem"
+        ],
+        "index": "Indeks: 30",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2488
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 602 - miks mięty zieleni i niebieskości"
+        ],
+        "index": "Indeks: 602",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2495
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 604 - miks szarości z błękitami"
+        ],
+        "index": "Indeks: 604",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2486
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 605 - miks szarości z brązem"
+        ],
+        "index": "Indeks: 605",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2494
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 606 - miks różów z zielenią"
+        ],
+        "index": "Indeks: 606",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2892
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LONGCOLORS",
+            "LONGCOLORS 607 - miks mięty, kremu i błękitu"
+        ],
+        "index": "Indeks: 607",
+        "prices": {
+            "brutto": [
+                46.0
+            ],
+            "netto": [
+                37.4
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3143
+    }
+]

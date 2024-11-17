@@ -1,0 +1,454 @@
+[
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 216 - lodowiec"
+        ],
+        "index": "Indeks: 216",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1217
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 217 - kasztanowa aleja"
+        ],
+        "index": "Indeks: 217",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1240
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 218 - leśna zieleń"
+        ],
+        "index": "Indeks: 218",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1216
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 219 - wielki błękit"
+        ],
+        "index": "Indeks: 219",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1215
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "IRISH HEATHER",
+            "IRISH HEATHER 4669 - FOREST"
+        ],
+        "index": "Indeks: IRISH HEATHER 4669",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2277
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "IRISH HEATHER",
+            "IRISH HEATHER 4709 - DENIM"
+        ],
+        "index": "Indeks: IRISH HEATHER 4709",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2275
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "IRISH HEATHER",
+            "IRISH HEATHER 8003  - STONE"
+        ],
+        "index": "Indeks: IRISH HEATHER 8003",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2368
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "IRISH HEATHER",
+            "IRISH HEATHER 8005 - SAND"
+        ],
+        "index": "Indeks: IRISH HEATHER 8005",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2369
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "IRISH HEATHER",
+            "IRISH HEATHER 8053 - BLUE BELL"
+        ],
+        "index": "Indeks: IRISH HEATHER 8053",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2274
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "IRISH HEATHER",
+            "IRISH HEATHER 8059 - MOSS"
+        ],
+        "index": "Indeks: IRISH HEATHER 8059",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2371
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "IRISH HEATHER",
+            "IRISH HEATHER 8069 - MARBLE"
+        ],
+        "index": "Indeks: IRISH HEATHER 8069",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2367
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "IRISH HEATHER",
+            "IRISH HEATHER 8093 - WILD HEATHER"
+        ],
+        "index": "Indeks: IRISH HEATHER 8093",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2273
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 1 - biały"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3416
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 30 - marcepan"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3418
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 34 - malina"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3420
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 37- mięta"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3417
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 91 - perłowa szarość"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3423
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 118 - czerwień"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3419
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 138 - pastelowy róż"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3421
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 165 - ciemna zieleń"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3451
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "LANA SETA CASHMERE",
+            "LANA SETA CASHMERE 246 - jeans"
+        ],
+        "index": "Indeks: lana seta cashmere",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3422
+    },
+    {
+        "categories_tree": [
+            "LENKA 10 - truskawkowy | 300 m"
+        ],
+        "index": "Indeks: 10",
+        "prices": {
+            "brutto": [
+                14.0
+            ],
+            "netto": [
+                11.38
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 539
+    },
+    {
+        "categories_tree": [
+            "LENKA 104 - czerwień | 300 m"
+        ],
+        "index": "Indeks: 104",
+        "prices": {
+            "brutto": [
+                14.0
+            ],
+            "netto": [
+                11.38
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 389
+    },
+    {
+        "categories_tree": [
+            "LEN",
+            "LENKA CAKE",
+            "LENKA CAKE - miętowy"
+        ],
+        "index": "Indeks: lenka cake",
+        "prices": {
+            "brutto": [
+                120.0
+            ],
+            "netto": [
+                97.56
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3357
+    }
+]

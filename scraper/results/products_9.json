@@ -1,0 +1,2633 @@
+[
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Lazurowe wybrzeże"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3403
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Leśny gąszcz"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3228
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Lody pistacjowe"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 1507
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE OUTLET",
+            "COTTONMIX CAKE SHINE - Magia świąt | 1500m"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [
+                80.0
+            ],
+            "netto": [
+                65.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3341
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Malinowe smoothie"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1897
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Malinowo-bananowe smoothie"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3334
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Marcepanowe latte"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3270
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Miodownik"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1593
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Morze Egejskie"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 2150
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Na wrzosowisku"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1898
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Nocny lot"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 1805
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Owoce leśne"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1920
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Pierniki w śliwkowej glazurze"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 2706
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Poranek na Helu"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3405
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Pożegnanie lata"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1590
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Pustynne słońce"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 2155
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Rafa koralowa"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 92.0,
+                        "netto": 74.8
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3356
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Rajska wyspa"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3168
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Rejs po morzu Jońskim"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3404
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Reszelski świt"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 2703
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Skalne urwisko"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3442
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Spacer w deszczu"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3441
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Stokrotki"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1900
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Szafirki"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1921
+    }
+]
