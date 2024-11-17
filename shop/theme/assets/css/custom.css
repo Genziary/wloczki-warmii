@@ -16,6 +16,24 @@ a:hover {
   color: #333;
 }
 
+@media (min-width: 576px) {
+  .container {
+    width: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: auto;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: auto;
+  }
+}
+
 #header a:hover {
   color: #333;
   text-decoration: none;
@@ -530,4 +548,70 @@ overflow: hidden;
 .search_top form button i {
   position: initial !important;
   padding: 0 !important;
+}
+
+/* Main menu */
+
+.pos-menu-horizontal {
+  position: relative;
+}
+
+ul.socialmedia {
+	position: absolute;
+	top: 50%;
+  transform: translateY(-50%);
+	left: 0;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	z-index: 1000;
+}
+
+.pos-menu-horizontal .menu-content {
+	position: relative;
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+.pos-menu-horizontal .menu-content .menu-item:first-child {
+	margin-left: 0;
+}
+
+.pos-menu-horizontal .menu-content .menu-item {
+	margin-left: 15px;
+}
+
+.pos-menu-horizontal .menu-content .menu-item {
+	display: inline-block;
+	margin: 0 25px;
+}
+
+._desktop_top_menu {
+  width: 100%;
+}
+
+.top-menu a {
+  padding: 0;
+}
+
+ul.socialmedia li {
+	display: inline-block;
+}
+
+ul.socialmedia li a {
+	display: block;
+	margin: 5px;
+}
+
+.pos-menu-horizontal .menu-content .menu-item > a {
+	font-weight: 700;
+	font-size: 14px;
+	color: #253237;
+	text-transform: capitalize;
+	line-height: 36px;
+}
+
+.hasChild > div {
+  box-shadow: 2px 2px 4px 0 rgba(0,0,0,.2);
 }

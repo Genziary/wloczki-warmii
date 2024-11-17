@@ -74,3 +74,11 @@
   </div>
   {hook h='displayNavFullWidth'}
 {/block}
+
+{block name='header_bottom'}
+  <div class="bottom_header hidden-md-down">
+    <div class="container">
+      {widget name='ps_mainmenu'}
+    </div>
+  </div>
+{/block}
