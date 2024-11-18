@@ -29,6 +29,51 @@
       {hook h='displayTopColumn'}
     {/block}
 
+    {block name='wrapper_top'}
+      {if $language.language_code == 'pl'}
+        <div class="container">
+          <div class="row buttony">
+            <div class="col-md-3 col-sm-6 col-xs-6">
+              <div class="col banner-top-container">
+                <a href="https://wloczkiwarmii.pl/pl/content/1-delivery">
+                  <img class="img-responsive" src="/img/cms/wysylka.png" alt="WYSYŁKA" width="164" height="164" />
+                </a>
+                <div class="banner-top-title">Wysyłka</div>
+              </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6 col-xs-6">
+              <div class="col banner-top-container">
+                <a href="https://wloczkiwarmii.pl/pl/content/">
+                  <img class="img-responsive" src="/img/cms/platnosci.png" alt="PŁATNOŚCI" width="164" height="164" />
+                </a>
+                <div class="banner-top-title">Płatności</div>
+              </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6 col-xs-6">
+              <div class="col banner-top-container">
+                <a href="https://wloczkiwarmii.pl/pl/content/">
+                  <img class="img-responsive" src="/img/cms/rabat.png" alt="RABAT" width="164" height="164" />
+                </a>
+                <div class="banner-top-title">Rabat</div>
+              </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6 col-xs-6">
+              <div class="col banner-top-container">
+                <a href="https://wloczkiwarmii.pl/pl/content/">
+                  <img class="img-responsive" src="/img/cms/galeria.png" alt="GALERIA PRAC" width="164" height="164" />
+                </a>
+                <div class="banner-top-title">Galeria prac</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      {/if}
+    {/block}
+
     {block name='page_content_container'}
       <section id="content" class="page-home">
         {block name='page_content_top'}{/block}

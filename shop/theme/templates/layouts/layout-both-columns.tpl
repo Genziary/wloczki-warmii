@@ -37,9 +37,7 @@
   <body id="{$page.page_name}" class="{$page.body_classes|classnames}">
 
     {block name='hook_after_body_opening_tag'}
-      <div class="slideshow_container">
         {hook h='displayAfterBodyOpeningTag'}
-      </div>
     {/block}
 
     <main>
@@ -56,12 +54,16 @@
       {block name='after_header'}
       {/block}
 
+      {block name='notifications'}
+        {include file='_partials/notifications.tpl'}
+      {/block}
+
       <section id="wrapper">
-        {block name='notifications'}
-          {include file='_partials/notifications.tpl'}
+        {hook h="displayWrapperTop"}
+
+        {block name='wrapper_top'}
         {/block}
 
-        {hook h="displayWrapperTop"}
         <div class="container">
           {block name='breadcrumb'}
             {include file='_partials/breadcrumb.tpl'}

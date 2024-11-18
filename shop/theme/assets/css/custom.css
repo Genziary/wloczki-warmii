@@ -2,6 +2,12 @@ body {
   font-size: 13px;
 }
 
+/* For some reason notification div is empty, but has some height 
+*  Of course, this is temporary fix, as I don't think it is used anywhere */
+#notifications {
+  display: none;
+}
+
 a {
 	color: #333;
 	text-decoration: none;
@@ -675,4 +681,40 @@ a.nivo-prevNav::before, a.nivo-nextNav::before {
 
 .nivo-prevNav:hover, .nivo-nextNav:hover {
 	background: #88bb10 !important;
+}
+
+.buttony {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.banner-top-title {
+	bottom: 14px;
+	color: #444;
+	text-align: center;
+	width: 100%;
+	font-size: .8rem;
+	margin-top: 8px;
+}
+
+.banner-top-container {
+	position: relative;
+	margin-top: 20px;
+}
+
+.banner-top-container a {
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+	position: relative;
+}
+
+.banner-top-container img {
+	max-width: 100%;
+	height: auto;
+  display: initial;
+}
+
+.banner-top-container img:hover {
+	scale: .95;
 }
