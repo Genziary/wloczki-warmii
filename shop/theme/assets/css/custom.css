@@ -615,3 +615,64 @@ ul.socialmedia li a {
 .hasChild > div {
   box-shadow: 2px 2px 4px 0 rgba(0,0,0,.2);
 }
+
+/* Slider */
+
+.nivo-controlNav a {
+	display: inline-block;
+	height: 14px;
+	border-radius: 100%;
+	font-size: 0;
+	width: 14px;
+	margin: 0 4px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	z-index: 8;
+	background: #253237;
+	-webkit-transition: all 300ms ease-in;
+	-moz-transition: all 300ms ease-in;
+	-ms-transition: all 300ms ease-in;
+	-o-transition: all 300ms ease-in;
+	transition: all 300ms ease-in;
+}
+
+.nivo-controlNav a:hover, .nivo-controlNav a.active {
+	background: #88bb10 !important;
+}
+
+.nivo-controlNav .nivo-control::before {
+	content: "";
+  display: none;
+}
+
+.nivo-directionNav a {
+	width: 40px !important;
+	height: 40px !important;
+	line-height: 40px !important;
+	color: #fff !important;
+	background: #323232 !important;
+	text-align: center;
+	font-size: 0;
+	position: absolute;
+	z-index: 8;
+	cursor: pointer;
+	top: 50% !important;
+	opacity: 0;
+	-webkit-transition: none;
+	-moz-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+
+a.nivo-prevNav::before, a.nivo-nextNav::before {
+	font-size: 38px !important;
+	height: 40px !important;
+	line-height: 40px !important;
+	width: 40px !important;
+  color: #fff !important;
+}
+
+.nivo-prevNav:hover, .nivo-nextNav:hover {
+	background: #88bb10 !important;
+}
