@@ -114,6 +114,12 @@
       {include file="_partials/javascript.tpl" javascript=$javascript.bottom}
     {/block}
 
+    <div class="back-top">
+      <a href="#" class="back-top-button">
+        <i class="material-icons">&#xE316;</i>
+      </a>
+    </div>
+
     {block name='hook_before_body_closing_tag'}
       {hook h='displayBeforeBodyClosingTag'}
     {/block}
