@@ -75,13 +75,30 @@
     {/block}
 
     {block name='page_content_container'}
-      <section id="content" class="page-home">
-        {block name='page_content_top'}{/block}
+      {block name='page_content_top'}{/block}
 
-        {block name='page_content'}
-          {block name='hook_home'}
-            {$HOOK_HOME nofilter}
-          {/block}
-        {/block}
+      <div class="row"> 
+        <div class="tabs">
+          <div class="tabstop"></div>
+          <ul id="home-page-tabs" class="nav nav-tabs clearfix">
+            <li class="nav-item" aria-expanded="false">
+              <a data-toggle="tab" href="#homefeatured" class="homefeatured nav-link js-product-nav-active active" aria-expanded="true">
+              {l s='Our Products' d='Modules.Featuredproducts.Shop'}
+              </a>
+            </li>
+            <li class="nav-item">
+              <a data-toggle="tab" href="#homebestsellerstab" class="homebestsellerstab nav-link">
+              {l s='Best Sellers' d='Modules.Bestsellers.Shop'}
+              </a>
+            </li>
+          </ul>
+          <div id="tab-content" class="tab-content">
+            {block name='page_content'}
+              {block name='hook_home'}
+                {$HOOK_HOME nofilter}
+              {/block}
+            {/block}
+          </div>
+        </div>
       </section>
     {/block}
