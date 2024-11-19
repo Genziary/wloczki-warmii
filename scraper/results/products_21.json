@@ -1,6 +1,346 @@
 [
     {
         "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C159 - ochra"
+        ],
+        "index": "Indeks: C159",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2838,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C163 - pastelowy róż"
+        ],
+        "index": "Indeks: C163",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2805,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C172 - pastelowy niebieski"
+        ],
+        "index": "Indeks: C172",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2797,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C184 - jasny beż"
+        ],
+        "index": "Indeks: C184",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2800,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER C185 - ciemny beż"
+        ],
+        "index": "Indeks: C185",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2971,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G114 - czerń"
+        ],
+        "index": "Indeks: G114",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3328,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G164 - amarant"
+        ],
+        "index": "Indeks: G164",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2802,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G168 - fiolet"
+        ],
+        "index": "Indeks: G168",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3329,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G169 - różowy"
+        ],
+        "index": "Indeks: G169",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2831,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G174 - niezapominajka"
+        ],
+        "index": "Indeks: G174",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2972,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G179 - szmaragd"
+        ],
+        "index": "Indeks: G179",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2804,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G182 - oliwka"
+        ],
+        "index": "Indeks: G182",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2973,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G183 - paproć"
+        ],
+        "index": "Indeks: C183",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2965,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "MOHER I MIESZANKI",
+            "SURI ALPAKA MOHER",
+            "SURI ALPAKA MOHER G186 - cynamon"
+        ],
+        "index": "Indeks: C186",
+        "prices": {
+            "brutto": [
+                18.5
+            ],
+            "netto": [
+                15.04
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2970,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>SURI ALPAKA MOHER</strong> to włóczka typu lace w formie cieniutkiego moherku, wykonana z suri alpaki z dodatkiem wełny i poliamidu (53%, 14%, 33%). Włóczka bardzo dobrej jakości produkcji włoskiej, miękka i delikatna dla skóry. Włosek w nitce jest niewielki i bardzo miły, niegryzący w porównaniu do moheru wykonanego z włosa kóz, a dodatek poliamidu sprawia, że nitka jest mocna. Idealna do dziergania delikatnych chust, szali lub jako dodatkowa nitka do innej włóczki. W połączeniu z Mirellą lub Baby Supremo uzyskamy bardzo luksusową i miękką dzianinę. Bardzo wydajna - w 25g moteczku mamy aż 375 m. Przeznaczona na całoroczne wyroby.</span></span></p>\n<p><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">Producent zaleca pranie ręczne w temperaturze do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% suri alpaka, 14% wełna, 33% poliamid      |       Waga motka: 25 g (+/-2%)      |        Długość nitki w motku: 375 m (+/-2%)</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "TWEED IT YOURSELF",
+            "TWEED IT YOURSELF - 1"
+        ],
+        "index": "Indeks: 1",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2933,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>TWEED IT YOURSELF</strong> to fantazyjna cienka nitka stworzona do dodania do dowolnej innej włóczki. Dzięki kolorowym bąbelkom ożywi każdą gładką lub tradycyjną jednokolorową włóczkę, sprawiając, że dzianina nabierze oryginalności i tweedowego wykończenia. Jeśli masz włóczkę, która Ci się znudziła lub nie podoba to z TWEED IT YOURSELF odmienisz ją całkowicie :) Niteczka jest cienka, świetnie będzie współgrała z przędzami moherowymi, grubszymi jednobarwnymi, można łączyć ją z podobnymi kolorami, lub z kontarstowymi. Do idealna propozycja dla dziwiarek, które lubią tworzyć własne niepowtarzalne kombinacje z różnych przedz.</span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Kolory w motku to miks czerwieni, żółci i turkusu w czarnym oplocie.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% poliamid  |    Waga motka: 50 gr  |   Długość nitki w motku: ok. 450m</span></span></p>\n<p></p></div>"
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "TWEED IT YOURSELF",
+            "TWEED IT YOURSELF - 2"
+        ],
+        "index": "Indeks: 2",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2954,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>TWEED IT YOURSELF</strong> to fantazyjna cienka nitka stworzona do dodania do dowolnej innej włóczki. Dzięki kolorowym bąbelkom ożywi każdą gładką lub tradycyjną jednokolorową włóczkę, sprawiając, że dzianina nabierze oryginalności i tweedowego wykończenia. Jeśli masz włóczkę, która Ci się znudziła lub nie podoba to z TWEED IT YOURSELF odmienisz ją całkowicie :) Niteczka jest cienka, świetnie będzie współgrała z przędzami moherowymi, grubszymi jednobarwnymi, można łączyć ją z podobnymi kolorami, lub z kontarstowymi. Do idealna propozycja dla dziwiarek, które lubią tworzyć własne niepowtarzalne kombinacje z różnych przedz.</span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Kolory w motku to miks czerwieni, żółci i kobaltu w białym oplocie.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% poliamid  |    Waga motka: 50 gr  |   Długość nitki w motku: ok. 450m</span></span></p>\n<p></p></div>"
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "TWEED IT YOURSELF",
+            "TWEED IT YOURSELF - 3"
+        ],
+        "index": "Indeks: 3",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2955,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>TWEED IT YOURSELF</strong> to fantazyjna cienka nitka stworzona do dodania do dowolnej innej włóczki. Dzięki kolorowym bąbelkom ożywi każdą gładką lub tradycyjną jednokolorową włóczkę, sprawiając, że dzianina nabierze oryginalności i tweedowego wykończenia. Jeśli masz włóczkę, która Ci się znudziła lub nie podoba to z TWEED IT YOURSELF odmienisz ją całkowicie :) Niteczka jest cienka, świetnie będzie współgrała z przędzami moherowymi, grubszymi jednobarwnymi, można łączyć ją z podobnymi kolorami, lub z kontarstowymi. Do idealna propozycja dla dziwiarek, które lubią tworzyć własne niepowtarzalne kombinacje z różnych przedz.</span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Kolory w motku to miks czerni i bieli.<br/></span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% poliamid  |    Waga motka: 50 gr  |   Długość nitki w motku: ok. 450m</span></span></p>\n<p></p></div>"
+    },
+    {
+        "categories_tree": [
             "COTTONMIX CAKE",
             "TWEED IT YOURSELF",
             "TWEED IT YOURSELF - 4"
@@ -16,7 +356,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2956
+        "product_id": 2956,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>TWEED IT YOURSELF</strong> to fantazyjna cienka nitka stworzona do dodania do dowolnej innej włóczki. Dzięki kolorowym bąbelkom ożywi każdą gładką lub tradycyjną jednokolorową włóczkę, sprawiając, że dzianina nabierze oryginalności i tweedowego wykończenia. Jeśli masz włóczkę, która Ci się znudziła lub nie podoba to z TWEED IT YOURSELF odmienisz ją całkowicie :) Niteczka jest cienka, świetnie będzie współgrała z przędzami moherowymi, grubszymi jednobarwnymi, można łączyć ją z podobnymi kolorami, lub z kontarstowymi. Do idealna propozycja dla dziwiarek, które lubią tworzyć własne niepowtarzalne kombinacje z różnych przedz.</span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Kolory w motku to miks koralowego różu, mięty i fioletu w białym oplocie.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% poliamid  |    Waga motka: 50 gr  |   Długość nitki w motku: ok. 450m</span></span></p>\n<p></p></div>"
     },
     {
         "categories_tree": [
@@ -35,7 +376,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2959
+        "product_id": 2959,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>TWEED IT YOURSELF</strong> to fantazyjna cienka nitka stworzona do dodania do dowolnej innej włóczki. Dzięki kolorowym bąbelkom ożywi każdą gładką lub tradycyjną jednokolorową włóczkę, sprawiając, że dzianina nabierze oryginalności i tweedowego wykończenia. Jeśli masz włóczkę, która Ci się znudziła lub nie podoba to z TWEED IT YOURSELF odmienisz ją całkowicie :) Niteczka jest cienka, świetnie będzie współgrała z przędzami moherowymi, grubszymi jednobarwnymi, można łączyć ją z podobnymi kolorami, lub z kontarstowymi. Do idealna propozycja dla dziwiarek, które lubią tworzyć własne niepowtarzalne kombinacje z różnych przedz.</span></span></p><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Kolory w motku to miks bieli, żółci, jasnoniebieskiego, turkusu i granatu w białym oplocie.</span></span></p><p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></span></p><p> </p><p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% poliamid  |    Waga motka: 50 gr  |   Długość nitki w motku: ok. 450m</span></span></p><p><br/></p></div>"
     },
     {
         "categories_tree": [
@@ -54,6 +396,7 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1935
+        "product_id": 1935,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>URBAN</strong> to ciekawa<strong>, </strong>fantazyjna bawełniana włóczka z dodatkiem wiskozy. Farbowana na letnie, radosne kolory. Dzięki ciekawej nitce oplecionej wiskozową przędzą można w łatwy sposób otrzymać nietuzinkowy sweterek lub letni top. Naturalny skład sprawi, że dzianina będzie przyjemna dla skóry i oddychająca nawet podczas upalnej pogody. Aby uzyskać zwiewną fakturę dzianiny polecamy użyć grubszych drutów. Włóczka została wyprodukowana we Włoszech.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 66% bawełna, 29% wiskoza, 5% poliamid      |     Waga motka: 50 g      |      Długość nitki w motku: 180 m   </span></span></p>\n<p> </p></div>"
     }
 ]

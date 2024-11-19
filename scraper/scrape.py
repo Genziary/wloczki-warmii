@@ -98,6 +98,8 @@ def scrape_product_details(product_url, headers):
         print(f"Currently scraping - {product_id}")
         index = product_info_div.find("p").get_text(strip=True)
 
+        description = product_soup.find("div", class_="product-description")
+
         weight_select = product_soup.find("select", {"id": "group_7"})
         length_select = product_soup.find("select", {"id": "group_5"})
         outcolor_select = product_soup.find("select", {"id": "group_6"})
@@ -153,7 +155,8 @@ def scrape_product_details(product_url, headers):
             "categories_tree": categories_tree,
             "index": index,
             "prices": product_prices,
-            "product_id": product_id
+            "product_id": product_id,
+            "description": str(description)
         }
     else:
         print(f"Failed to retrieve product page: {product_url}. Status code: {product_response.status_code}")
@@ -251,5 +254,5 @@ def scrape(pages_number):
 
 
 if __name__ == "__main__":
-    NUMBER_OF_PAGES_TO_SCRAPE = 22
+    NUMBER_OF_PAGES_TO_SCRAPE = 21
     scrape(NUMBER_OF_PAGES_TO_SCRAPE)

@@ -1,7 +1,9 @@
 [
     {
         "categories_tree": [
-            "MIRELLA - różowe niebo"
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - majowy bez"
         ],
         "index": "Indeks: mirella",
         "prices": {
@@ -14,7 +16,430 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3401
+        "product_id": 511,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: melanż fioletu, liliowy, burgund i śliwka. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - malinowa chmurka"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3275,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: delikatny róż cętkowany czernią, fuksją, burgundem, czerwienią i cynobrem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - miasto nocą"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 875,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: melanż czerwieni, fioletu, granatu i turkusu z czernią. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - mirabelki"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 536,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: słoneczny żółty, miodowy cętkowany cynobrem, pomarańczem i brązem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - mięta"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 627,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: delikatna opalizująca mięta, seledyn. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - mięta I"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3453,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: delikatna opalizująca mięta, seledyn. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - morelowy sorbet"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 828,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: melanż koralowych róży</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - morskie szkło"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 965,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: szałwiowa zieleń cętkowana rudością, limonką brązem, turkusem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - nadmorska pinia"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 564,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: melanż ciemnej leśnej zieleni. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - niebiański"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2781,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: pastelowy lazur. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - niedojrzałe śliwki"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 630,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: melanż mszystej zieleni, szmaragdu, kasztanowego brązu, spłowiałych fioletów i petrolu. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - niezapominajki"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 623,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: niebieski, lazur. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - oberżyna"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 652,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: oberżyna, bordo. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - ocean"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 565,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: czerń, denim, błękit pruski, kobalt i turkus z przecierkami. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g  (+/-5%)  |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - o północy"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2784,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: fiolet, ultramaryna, granat, czerń z jasnymi przecierkami</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - owoc dzikiej róży"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 3279,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: soczysta czerwień, karmin. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - perły rzeczne"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 571,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: biel cętkowana czernią, antracytem, granatem, brązem i burgundem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - pianki marshmallow"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 534,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: biały cętkowany fuksją, burgundem, fioletem i granatem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - pierwsze kwiaty"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 784,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: stalowa szarość z magentą, burgundem, czernią, turkusem i szmaragdem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)    |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - prymulki"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2015,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: limonkowa żółć cętkowany czernią, pomarańczem, różem, limonką. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - pudrowe cukierki"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 2783,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: biel cętkowana różem, brązem i burgundem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA RĘCZNIE FARBOWANA",
+            "MIRELLA",
+            "MIRELLA - rudy lis"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 651,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: melanż pomarańczu, rdzy i rudości. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - rusałka"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 561,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to:  niebieski nakrapiana limonką, zielenią, burgundem, różem, turkusem i czernią. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)  |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -33,408 +458,7 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 952
-    },
-    {
-        "categories_tree": [
-            "MIRELLA - szmaragdowa zieleń"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                69.0
-            ],
-            "netto": [
-                56.1
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 592
-    },
-    {
-        "categories_tree": [
-            "MIRELLA - tropikalna wyspa"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                69.0
-            ],
-            "netto": [
-                56.1
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2730
-    },
-    {
-        "categories_tree": [
-            "MIRELLA - turkusowa zatoka"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                69.0
-            ],
-            "netto": [
-                56.1
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 624
-    },
-    {
-        "categories_tree": [
-            "MIRELLA - wakacyjna przygoda"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                69.0
-            ],
-            "netto": [
-                56.1
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 593
-    },
-    {
-        "categories_tree": [
-            "MIRELLA - w głębinach"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                69.0
-            ],
-            "netto": [
-                56.1
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 560
-    },
-    {
-        "categories_tree": [
-            "MIRELLA - wiśniowy sad"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                64.0
-            ],
-            "netto": [
-                52.03
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 649
-    },
-    {
-        "categories_tree": [
-            "WEŁNA RĘCZNIE FARBOWANA",
-            "MIRELLA",
-            "MIRELLA - zimowa baśń"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                69.0
-            ],
-            "netto": [
-                56.1
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 1117
-    },
-    {
-        "categories_tree": [
-            "MIRELLA - ziołowy ogródek"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                69.0
-            ],
-            "netto": [
-                56.1
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 628
-    },
-    {
-        "categories_tree": [
-            "MIRELLA - z pasieki"
-        ],
-        "index": "Indeks: mirella",
-        "prices": {
-            "brutto": [
-                69.0
-            ],
-            "netto": [
-                56.1
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 874
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 500 - Kawa w schronisku"
-        ],
-        "index": "Indeks: 500",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2795
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 501 - krokusowa polana"
-        ],
-        "index": "Indeks: 501",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2790
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 502 - Dziki wodospad"
-        ],
-        "index": "Indeks: 502",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2794
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 503 - Malinowy chruśniak"
-        ],
-        "index": "Indeks: 503",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2792
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 504 - Jesień w górach"
-        ],
-        "index": "Indeks: 504",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2796
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 505 - Ścieżka pod reglami"
-        ],
-        "index": "Indeks: 505",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2793
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 506 - alpejska łąka"
-        ],
-        "index": "Indeks: 506",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2787
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 507 - Dolina Chochołowska"
-        ],
-        "index": "Indeks: 507",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2789
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 508 - górski strumyk"
-        ],
-        "index": "Indeks: 508",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2785
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MONTE BIANCO sock yarn",
-            "MONTE BIANCO 509 - czarna turnia"
-        ],
-        "index": "Indeks: 509",
-        "prices": {
-            "brutto": [
-                26.0
-            ],
-            "netto": [
-                21.14
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2786
-    },
-    {
-        "categories_tree": [
-            "BAMBUS",
-            "NEW AREZZO",
-            "NEW AREZZO 0636 - gruszka"
-        ],
-        "index": "Indeks: 0636",
-        "prices": {
-            "brutto": [
-                19.0
-            ],
-            "netto": [
-                15.45
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2504
-    },
-    {
-        "categories_tree": [
-            "BAMBUS",
-            "NEW AREZZO",
-            "NEW AREZZO 0953 - złocista ochra"
-        ],
-        "index": "Indeks: 0953",
-        "prices": {
-            "brutto": [
-                19.0
-            ],
-            "netto": [
-                15.45
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2503
-    },
-    {
-        "categories_tree": [
-            "BAMBUS",
-            "NEW AREZZO",
-            "NEW AREZZO 216 - jadeit"
-        ],
-        "index": "Indeks: 216",
-        "prices": {
-            "brutto": [
-                19.0
-            ],
-            "netto": [
-                15.45
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2425
+        "product_id": 952,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: szmaragdowa zieleń, patyna, morski. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
     }
 ]

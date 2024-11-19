@@ -2,329 +2,6 @@
     {
         "categories_tree": [
             "COTTONMIX CAKE",
-            "COTTONMIX CAKE SHINE",
-            "COTTONMIX CAKE SHINE - Lazurowe wybrzeże"
-        ],
-        "index": "Indeks: cottonmix cake",
-        "prices": {
-            "brutto": [],
-            "netto": [],
-            "weights": [],
-            "variants": {
-                "1000": {
-                    "null": {
-                        "brutto": 58.0,
-                        "netto": 47.15
-                    },
-                    "250": {
-                        "brutto": 72.0,
-                        "netto": 58.54
-                    },
-                    "350": {
-                        "brutto": 78.0,
-                        "netto": 63.41
-                    },
-                    "500": {
-                        "brutto": 87.0,
-                        "netto": 70.73
-                    }
-                },
-                "1200": {
-                    "null": {
-                        "brutto": 69.0,
-                        "netto": 56.1
-                    },
-                    "250": {
-                        "brutto": 84.0,
-                        "netto": 68.29
-                    },
-                    "350": {
-                        "brutto": 90.0,
-                        "netto": 73.17
-                    },
-                    "500": {
-                        "brutto": 98.0,
-                        "netto": 79.67
-                    }
-                },
-                "1350": {
-                    "null": {
-                        "brutto": 78.0,
-                        "netto": 63.41
-                    },
-                    "250": {
-                        "brutto": 93.0,
-                        "netto": 75.61
-                    },
-                    "350": {
-                        "brutto": 98.0,
-                        "netto": 79.67
-                    },
-                    "500": {
-                        "brutto": 107.0,
-                        "netto": 86.99
-                    }
-                },
-                "1500": {
-                    "null": {
-                        "brutto": 87.0,
-                        "netto": 70.73
-                    },
-                    "250": {
-                        "brutto": 101.0,
-                        "netto": 82.11
-                    },
-                    "350": {
-                        "brutto": 107.0,
-                        "netto": 86.99
-                    },
-                    "500": {
-                        "brutto": 116.0,
-                        "netto": 94.31
-                    }
-                },
-                "1750": {
-                    "null": {
-                        "brutto": 101.0,
-                        "netto": 82.11
-                    },
-                    "250": {
-                        "brutto": 116.0,
-                        "netto": 94.31
-                    },
-                    "350": {
-                        "brutto": 122.0,
-                        "netto": 99.19
-                    },
-                    "500": {
-                        "brutto": 130.0,
-                        "netto": 105.69
-                    }
-                },
-                "2000": {
-                    "null": {
-                        "brutto": 116.0,
-                        "netto": 94.31
-                    },
-                    "250": {
-                        "brutto": 130.0,
-                        "netto": 105.69
-                    },
-                    "350": {
-                        "brutto": 136.0,
-                        "netto": 110.57
-                    },
-                    "500": {
-                        "brutto": 145.0,
-                        "netto": 117.89
-                    }
-                }
-            }
-        },
-        "product_id": 3403
-    },
-    {
-        "categories_tree": [
-            "COTTONMIX CAKE",
-            "COTTONMIX CAKE SHINE",
-            "COTTONMIX CAKE SHINE - Leśny gąszcz"
-        ],
-        "index": "Indeks: cottonmix cake",
-        "prices": {
-            "brutto": [],
-            "netto": [],
-            "weights": [],
-            "variants": {
-                "1000": {
-                    "null": {
-                        "brutto": 58.0,
-                        "netto": 47.15
-                    },
-                    "250": {
-                        "brutto": 72.0,
-                        "netto": 58.54
-                    },
-                    "350": {
-                        "brutto": 78.0,
-                        "netto": 63.41
-                    },
-                    "500": {
-                        "brutto": 87.0,
-                        "netto": 70.73
-                    }
-                },
-                "1200": {
-                    "null": {
-                        "brutto": 69.0,
-                        "netto": 56.1
-                    },
-                    "250": {
-                        "brutto": 84.0,
-                        "netto": 68.29
-                    },
-                    "350": {
-                        "brutto": 90.0,
-                        "netto": 73.17
-                    },
-                    "500": {
-                        "brutto": 98.0,
-                        "netto": 79.67
-                    }
-                },
-                "1350": {
-                    "null": {
-                        "brutto": 78.0,
-                        "netto": 63.41
-                    },
-                    "250": {
-                        "brutto": 93.0,
-                        "netto": 75.61
-                    },
-                    "350": {
-                        "brutto": 98.0,
-                        "netto": 79.67
-                    },
-                    "500": {
-                        "brutto": 107.0,
-                        "netto": 86.99
-                    }
-                },
-                "1500": {
-                    "null": {
-                        "brutto": 87.0,
-                        "netto": 70.73
-                    },
-                    "250": {
-                        "brutto": 101.0,
-                        "netto": 82.11
-                    },
-                    "350": {
-                        "brutto": 107.0,
-                        "netto": 86.99
-                    },
-                    "500": {
-                        "brutto": 116.0,
-                        "netto": 94.31
-                    }
-                },
-                "1750": {
-                    "null": {
-                        "brutto": 101.0,
-                        "netto": 82.11
-                    },
-                    "250": {
-                        "brutto": 116.0,
-                        "netto": 94.31
-                    },
-                    "350": {
-                        "brutto": 122.0,
-                        "netto": 99.19
-                    },
-                    "500": {
-                        "brutto": 130.0,
-                        "netto": 105.69
-                    }
-                },
-                "2000": {
-                    "null": {
-                        "brutto": 116.0,
-                        "netto": 94.31
-                    },
-                    "250": {
-                        "brutto": 130.0,
-                        "netto": 105.69
-                    },
-                    "350": {
-                        "brutto": 136.0,
-                        "netto": 110.57
-                    },
-                    "500": {
-                        "brutto": 145.0,
-                        "netto": 117.89
-                    }
-                }
-            }
-        },
-        "product_id": 3228
-    },
-    {
-        "categories_tree": [
-            "COTTONMIX CAKE",
-            "COTTONMIX CAKE SHINE - Lody pistacjowe"
-        ],
-        "index": "Indeks: cottonmix cake",
-        "prices": {
-            "brutto": [],
-            "netto": [],
-            "weights": [],
-            "variants": {
-                "1000": {
-                    "null": {
-                        "brutto": 58.0,
-                        "netto": 47.15
-                    },
-                    "250": {
-                        "brutto": 72.0,
-                        "netto": 58.54
-                    }
-                },
-                "1200": {
-                    "null": {
-                        "brutto": 69.0,
-                        "netto": 56.1
-                    },
-                    "250": {
-                        "brutto": 84.0,
-                        "netto": 68.29
-                    }
-                },
-                "1350": {
-                    "null": {
-                        "brutto": 78.0,
-                        "netto": 63.41
-                    },
-                    "250": {
-                        "brutto": 93.0,
-                        "netto": 75.61
-                    }
-                },
-                "1500": {
-                    "null": {
-                        "brutto": 87.0,
-                        "netto": 70.73
-                    },
-                    "250": {
-                        "brutto": 101.0,
-                        "netto": 82.11
-                    }
-                },
-                "1750": {
-                    "null": {
-                        "brutto": 101.0,
-                        "netto": 82.11
-                    },
-                    "250": {
-                        "brutto": 116.0,
-                        "netto": 94.31
-                    }
-                },
-                "2000": {
-                    "null": {
-                        "brutto": 116.0,
-                        "netto": 94.31
-                    },
-                    "250": {
-                        "brutto": 130.0,
-                        "netto": 105.69
-                    }
-                }
-            }
-        },
-        "product_id": 1507
-    },
-    {
-        "categories_tree": [
-            "COTTONMIX CAKE",
             "COTTONMIX CAKE OUTLET",
             "COTTONMIX CAKE SHINE - Magia świąt | 1500m"
         ],
@@ -339,7 +16,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3341
+        "product_id": 3341,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku czarnego moherku, ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: khaki, ciemna zieleń, brąz, oberżyna, czerwień  + dodatkowa złoto zielona nić</span></p>\n<p><span style=\"font-family:'open sans';color:#d0121a;\">UWAGA! Motek bez wad.<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + złoto zielona</span></span><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\"><span style=\"font-family:'open sans';\"> nić</span>  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -463,7 +141,8 @@
                 }
             }
         },
-        "product_id": 1897
+        "product_id": 1897,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: burgund, purpura, malinowy, koralowy, pudrowy + dodatkowa lurexowo-wiskozowa różowa nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + różowa lurexowo-wiskozowa nitka  |    Waga motka: 420g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -587,7 +266,8 @@
                 }
             }
         },
-        "product_id": 3334
+        "product_id": 3334,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: maślany, morelowy, brzoskwinia, koralowy, fuksja + dodatkowa lurexowo-wiskozowa srebrno-koralowa nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + srebrno-koralowa lurexowo-wiskozowa nitka  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 3 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -711,7 +391,8 @@
                 }
             }
         },
-        "product_id": 3270
+        "product_id": 3270,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: biały, śmietanka, kremowy, jasnobeżowy, beżowy + dodatkowa lurexowo-wiskozowa kremowo-złota nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + złoto-kremowa</span></span><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\"> lurexowo-wiskozowa nitka  |    Waga motka: 420g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -835,7 +516,8 @@
                 }
             }
         },
-        "product_id": 1593
+        "product_id": 1593,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: maślany, żółty, miodowy, karmelowy, brązowy + dodatkowa złoto-brązowa nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + złocisto-brązowa nitka wiskozowo-lurexowa  |    Waga motka: 320g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -958,7 +640,8 @@
                 }
             }
         },
-        "product_id": 2150
+        "product_id": 2150,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: pistacja, mięta, lazur, turkus, petrol+ dodatkowa wiskozowo-lureksowa szaro-srebrna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + szaro-srebrna nitka wiskozowo-lurexowa  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -1082,7 +765,133 @@
                 }
             }
         },
-        "product_id": 1898
+        "product_id": 1898,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku:dymny wrzos, liliowy, gołebi, chabrowy, fioletowy + dodatkowa wiskozowo-lureksowa szaro-srebrna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + grafitowo srebrna wiskozowo-lurexowa  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Nocny chochlik"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3443,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku:  koniak, orzechowy brąz, szaromorski, melanżowy granat, antracyt   + dodatkowa czarna nitka z miedzianym lurexem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + czarna nitka z miedzianym lurex  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -1117,7 +926,85 @@
                 }
             }
         },
-        "product_id": 1805
+        "product_id": 1805,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: czarny, granat, błekitny, liliowy, dymny wrzos + dodatkowa lurexowo-wiskozowa niebiesko-czarna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + złoto - maślanaa lurexowo-wiskozowa nitka  |    Waga motka: 420g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Olsztyn nocą"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 2692,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: melanzowy grafit, ciemna zieleń,  czekoladowy brąz, bordo, brandy + dodatkowa wiskozowo-lureksowa pomarańczowa nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + liliowo-złota nitka wiskozowo-lurexowa  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -1240,7 +1127,8 @@
                 }
             }
         },
-        "product_id": 1920
+        "product_id": 1920,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: jasnoniebieski, granat, fiolet, purpura i róż + dodatkowa wiskozowo-lureksowa granato-srebrna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + granatowo srebrna wiskozowo-lurexowa  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -1315,7 +1203,8 @@
                 }
             }
         },
-        "product_id": 2706
+        "product_id": 2706,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: beż, karmel, rdza, purpura, burgund, fiolet + dodatkowa wiskozowo-lureksowa złoto brązowa nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + złoto brązowa nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -1439,7 +1328,8 @@
                 }
             }
         },
-        "product_id": 3405
+        "product_id": 3405,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: brzoskwinia, morela, jasny róż, jasny fiolet, mięta, turkus   + dodatkowa biała nitka ze srebrnym lurexem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + biało-srebrny lurex  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -1562,7 +1452,8 @@
                 }
             }
         },
-        "product_id": 1590
+        "product_id": 1590,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: cegła, karmel, ciemny brąz, ciena zieleń i szmaragd + dodatkowa perłowo-zielona nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + perłowo-beżowa nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -1685,7 +1576,8 @@
                 }
             }
         },
-        "product_id": 2155
+        "product_id": 2155,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: cegła, bordo, brąz, karmel i musztarda + dodatkowa wiskozowo-lureksowa złoto czarna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + bordowo-srebrna nitka wiskozowo-lurexowa  |    Waga motka: 390g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -1809,7 +1701,8 @@
                 }
             }
         },
-        "product_id": 3356
+        "product_id": 3356,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: koralowy, morelowy, beżowy, amazonit, patyna + dodatkowa wiskozowo-lureksowa koralowo-srebrna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + koralowo-srebrna nitka wiskozowo-lurexowa  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -1933,7 +1826,8 @@
                 }
             }
         },
-        "product_id": 3168
+        "product_id": 3168,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: kiwi, patyna, cyjan, ultramaryna, fiolet + dodatkowa lurexowo-wiskozowa niebiesko czarna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + niebiesko-czarna lurexowo-wiskozowa nitka  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 3 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -2057,7 +1951,8 @@
                 }
             }
         },
-        "product_id": 3404
+        "product_id": 3404,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: różany, dymny wrzos, oliwka, patyna, turkus   + dodatkowa opalizujący mszysto zielony lurex<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + mszysto-zielony lurex  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -2132,7 +2027,8 @@
                 }
             }
         },
-        "product_id": 2703
+        "product_id": 2703,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"></span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: </span><span style=\"font-family:'open sans';\">Kolory w motku: jasny żółty, beżowy, chłodny róż, liliowy, lodowy błękit </span><span style=\"font-family:'open sans';\">+ dodatkowa wiskozowo-lureksowa złota nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + złota nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -2256,7 +2152,133 @@
                 }
             }
         },
-        "product_id": 3442
+        "product_id": 3442,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku:  beż, karmel, brąz, szarmoniebieski, jeansowy   + dodatkowa szara nitka z miedzianym lurexem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + szara nitka z miedzianym lurex  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Sonata księżycowa"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 2197,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: melanżowy granat, szaroniebieski, melanzowy grafit, taupe, brunatny + dodatkowa wiskozowo-lureksowa szaro-srebrna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + szaro-srebrna nitka wiskozowo-lurexowa  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -2380,7 +2402,8 @@
                 }
             }
         },
-        "product_id": 3441
+        "product_id": 3441,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: melanżowy beż, szary, indygo, burgund, bordo   + dodatkowa granatowa nitka z niebieskim lurexem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + granatowa nitka z niebieskim lurex  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -2504,7 +2527,8 @@
                 }
             }
         },
-        "product_id": 1900
+        "product_id": 1900,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p style=\"margin-top:0px;margin-bottom:1rem;font-size:14px;line-height:25px;background-color:#ffffff;font-family:'Libre Franklin';\"><span style=\"line-height:25px;font-family:'open sans';\">Kolory w motku: karmel, beż, mleczny, pastelowy róż, pudrowy róż + dodatkowa perłowo-beżowa nić</span></p>\n<p style=\"margin-top:0px;margin-bottom:1rem;font-size:14px;line-height:25px;background-color:#ffffff;font-family:'Libre Franklin';\"><span style=\"line-height:25px;\"><span style=\"line-height:25px;font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + perłowo-beżowa nitka wiskozowo-lurexowa  |    Waga motka: 320g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -2628,6 +2652,7 @@
                 }
             }
         },
-        "product_id": 1921
+        "product_id": 1921,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: jasnoniebieski, niebieski, szarirowy, fiołkowy, fiolet + dodatkowa wiskozowo-lureksowa jeansowo-srebrna nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + jeansowo-srebrna nitka wiskozowo-lurexowa  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>"
     }
 ]

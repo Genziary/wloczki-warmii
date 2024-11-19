@@ -3,7 +3,7 @@
         "categories_tree": [
             "LEN",
             "LENKA CAKE",
-            "LENKA CAKE - piernikowy"
+            "LENKA CAKE - miętowy"
         ],
         "index": "Indeks: lenka cake",
         "prices": {
@@ -16,7 +16,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3360
+        "product_id": 3357,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LENKA</strong> <strong>CAKE</strong> to naturalna 100% lniana włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku. Bobbiny są nawijane ręcznie, z trzech pojedynczych nitek lnianej przędzy w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Motek waży ok. 300g i zawiera ok. 960m. Przykładowa waga 100g zawiera ok. 320m nitki. Idealna na wiosenno-letnie wyroby. Z jednego motka ok. 300gr - można wykonać letnią bluzeczkę na drutach. Po praniu włóczka mięknie, nabiera delikatności. Przędza pochodzi z Włoch. </span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Kolory w motku to biały, miętowy, szmaragdowy<br/></span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 40 stopni C. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"> </span></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len     |    Waga motka: ok. 300g   |   Długość nitki w motku: ok. 960m   |   Ilość nitek: 3<br/></span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -35,26 +36,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1235
-    },
-    {
-        "categories_tree": [
-            "LEN",
-            "LENKA CAKE",
-            "LENKA CAKE SOLO - biały"
-        ],
-        "index": "Indeks: lenka cake",
-        "prices": {
-            "brutto": [
-                20.0
-            ],
-            "netto": [
-                16.26
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 3362
+        "product_id": 1235,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LENKA</strong> <strong>CAKE</strong> to naturalna 100% lniana włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku. Bobbiny są nawijane ręcznie, z trzech pojedynczych nitek lnianej przędzy w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Motek waży ok. 300g i zawiera ok. 960m. Przykładowa waga 100g zawiera ok. 320m nitki. Idealna na wiosenno-letnie wyroby. Z jednego motka ok. 300gr - można wykonać letnią bluzeczkę. Po praniu włóczka mięknie, nabiera delikatności. Przędza pochodzi z Włoch. </span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Kolory w motku to miętowy, szmaragdowy, ciepły grafitowy</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 40 stopni C. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"> </span></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len     |    Waga motka: ok. 300g   |   Długość nitki w motku: ok. 960m   |   Ilość nitek: 3<br/></span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -73,7 +56,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3363
+        "product_id": 3363,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LENKA</strong> <strong>CAKE</strong> <strong>SOLO</strong> to naturalna 100% lniana włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku. Bobbiny są nawijane ręcznie, z trzech pojedynczych nitek lnianej przędzy w tym samym kolorze. Idealna na wiosenno-letnie wyroby. Z ok. 300gr - można wykonać letnią bluzeczkę na drutach. Po praniu włóczka mięknie, nabiera delikatności. Przędza pochodzi z Włoch. </span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>Jeden motek waży 50 gr. Jeśli zamawiasz więcej niż jedną sztukę, wielokrotność nawijamy razem na jeden motek np. 6szt to jeden motek o wadze 300gr.</strong><br/></span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 40 stopni C. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"> </span></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len     |    Waga motka: ok. 50g   |   Długość nitki w motku: ok. 160m   |   Ilość nitek: 3<br/></span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -92,7 +76,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3364
+        "product_id": 3364,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LENKA</strong> <strong>CAKE</strong> <strong>SOLO</strong> to naturalna 100% lniana włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku. Bobbiny są nawijane ręcznie, z trzech pojedynczych nitek lnianej przędzy w tym samym kolorze. Idealna na wiosenno-letnie wyroby. Z ok. 300gr - można wykonać letnią bluzeczkę na drutach. Po praniu włóczka mięknie, nabiera delikatności. Przędza pochodzi z Włoch. </span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>Jeden motek waży 50 gr. Jeśli zamawiasz więcej niż jedną sztukę, wielokrotność nawijamy razem na jeden motek np. 6szt to jeden motek o wadze 300gr.</strong><br/></span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 40 stopni C. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"> </span></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len     |    Waga motka: ok. 50g   |   Długość nitki w motku: ok. 160m   |   Ilość nitek: 3<br/></span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -111,7 +96,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3366
+        "product_id": 3366,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LENKA</strong> <strong>CAKE</strong> <strong>SOLO</strong> to naturalna 100% lniana włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku. Bobbiny są nawijane ręcznie, z trzech pojedynczych nitek lnianej przędzy w tym samym kolorze. Idealna na wiosenno-letnie wyroby. Z ok. 300gr - można wykonać letnią bluzeczkę na drutach. Po praniu włóczka mięknie, nabiera delikatności. Przędza pochodzi z Włoch. </span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>Jeden motek waży 50 gr. Jeśli zamawiasz więcej niż jedną sztukę, wielokrotność nawijamy razem na jeden motek np. 6szt to jeden motek o wadze 300gr.</strong><br/></span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 40 stopni C. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"> </span></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len     |    Waga motka: ok. 50g   |   Długość nitki w motku: ok. 160m   |   Ilość nitek: 3<br/></span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -130,7 +116,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3367
+        "product_id": 3367,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LENKA</strong> <strong>CAKE</strong> <strong>SOLO</strong> to naturalna 100% lniana włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku. Bobbiny są nawijane ręcznie, z trzech pojedynczych nitek lnianej przędzy w tym samym kolorze. Idealna na wiosenno-letnie wyroby. Z ok. 300gr - można wykonać letnią bluzeczkę na drutach. Po praniu włóczka mięknie, nabiera delikatności. Przędza pochodzi z Włoch. </span></span></p>\n<p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>Jeden motek waży 50 gr. Jeśli zamawiasz więcej niż jedną sztukę, wielokrotność nawijamy razem na jeden motek np. 6szt to jeden motek o wadze 300gr.</strong><br/></span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 40 stopni C. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"> </span></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len     |    Waga motka: ok. 50g   |   Długość nitki w motku: ok. 160m   |   Ilość nitek: 3<br/></span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -149,7 +136,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 978
+        "product_id": 978,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LINEN</strong> to delikatna i<strong> </strong>miękka włóczka o naturalnym składzie (50% bawełna, 30%wiskoza i 20% len). Nitka składa się z trzech włókien: dzięki wiskozie ma przepiękny połysk, bawełna nadaje miękkości i obiętości, a dodatek lnu sprawia, że nić jest zwarta i nierozciągliwa. Pastelowe kolory będą pięknie wygladać w wiosenno-letnich bluzkach i sweterkach. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 30% wiskoza, 20% len     |     Waga motka: 100 g      |      Długość nitki w motku: 300 m   </span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -168,7 +156,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1030
+        "product_id": 1030,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LINEN</strong> to delikatna i<strong> </strong>miękka włóczka o naturalnym składzie (50% bawełna, 30%wiskoza i 20% len). Nitka składa się z trzech włókien: dzięki wiskozie ma przepiękny połysk, bawełna nadaje miękkości i obiętości, a dodatek lnu sprawia, że nić jest zwarta i nierozciągliwa. Pastelowe kolory będą pięknie wygladać w wiosenno-letnich bluzkach i sweterkach. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 30% wiskoza, 20% len     |     Waga motka: 100 g      |      Długość nitki w motku: 300 m   </span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -187,7 +176,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1141
+        "product_id": 1141,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LINEN</strong> to delikatna i<strong> </strong>miękka włóczka o naturalnym składzie (50% bawełna, 30%wiskoza i 20% len). Nitka składa się z trzech włókien: dzięki wiskozie ma przepiękny połysk, bawełna nadaje miękkości i obiętości, a dodatek lnu sprawia, że nić jest zwarta i nierozciągliwa. Pastelowe kolory będą pięknie wygladać w wiosenno-letnich bluzkach i sweterkach. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 30% wiskoza, 20% len     |     Waga motka: 100 g      |      Długość nitki w motku: 300 m   </span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -204,7 +194,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1521
+        "product_id": 1521,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LINEN</strong> to delikatna i<strong> </strong>miękka włóczka o naturalnym składzie (50% bawełna, 30%wiskoza i 20% len). Nitka składa się z trzech włókien: dzięki wiskozie ma przepiękny połysk, bawełna nadaje miękkości i obiętości, a dodatek lnu sprawia, że nić jest zwarta i nierozciągliwa. Pastelowe kolory będą pięknie wygladać w wiosenno-letnich bluzkach i sweterkach. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 30% wiskoza, 20% len     |     Waga motka: 100 g      |      Długość nitki w motku: 300 m   </span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -221,7 +212,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3044
+        "product_id": 3044,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LINO</strong> to 100% przędza lniana idealna na druty. Włóczka świetnie sprawdzi się w letnich topach, bluzkach, sweterkach, jak i w akcesoriach. Naturalny skład sprawi, że dzianina będzie przyjemna dla skóry i oddychająca nawet podczas upalnej pogody. Włóczka została wyprodukowana we Włoszech.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len    |     Waga motka: 100 g      |      Długość nitki w motku: 330 m   </span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -238,7 +230,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3046
+        "product_id": 3046,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LINO</strong> to 100% przędza lniana idealna na druty. Włóczka świetnie sprawdzi się w letnich topach, bluzkach, sweterkach, jak i w akcesoriach. Naturalny skład sprawi, że dzianina będzie przyjemna dla skóry i oddychająca nawet podczas upalnej pogody. Włóczka została wyprodukowana we Włoszech.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len    |     Waga motka: 100 g      |      Długość nitki w motku: 330 m   </span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -255,7 +248,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3047
+        "product_id": 3047,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>LINO</strong> to 100% przędza lniana idealna na druty. Włóczka świetnie sprawdzi się w letnich topach, bluzkach, sweterkach, jak i w akcesoriach. Naturalny skład sprawi, że dzianina będzie przyjemna dla skóry i oddychająca nawet podczas upalnej pogody. Włóczka została wyprodukowana we Włoszech.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% len    |     Waga motka: 100 g      |      Długość nitki w motku: 330 m   </span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -274,7 +268,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2492
+        "product_id": 2492,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to niebieskości, chłodny błękit, granat, czerń. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -293,7 +288,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2489
+        "product_id": 2489,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to pomarańcz, czerwień, boro, brąz i czerń. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -312,7 +308,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2491
+        "product_id": 2491,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to żniebieski, granat, ochra, mięta i turkus. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -331,7 +328,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2487
+        "product_id": 2487,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to szarości, beże, kawowy brąz i pudrowy róż. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -350,7 +348,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2488
+        "product_id": 2488,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to krem, beż, cynamon, kakaowy brąz. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -369,7 +368,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2495
+        "product_id": 2495,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to limonka, mięta, biel, petrol, granat. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -388,7 +388,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2486
+        "product_id": 2486,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to szarości, chłodny błękit i granat. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -407,7 +408,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2494
+        "product_id": 2494,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to szarości, beże, brązy i czerń. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -426,7 +428,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2892
+        "product_id": 2892,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to koralowy róż, fuksja, limonka, soczysta zieleń. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -445,6 +448,27 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3143
+        "product_id": 3143,
+        "description": "<div class=\"product-description\"><p style=\"margin-top:0px;margin-bottom:1.25rem;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><span style=\"color:#7a7a7a;\">LONGCOLORS </span>to cieniowana, wielokolorowa włóczka o składzie 75% wełna soft superwash i 25% nylon. Włóczka zachwyca paletą kolorów, w której zarówno miłośnicy spokojnych jak i wyrazistych tonacji znajdą coś dla siebie. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni. Kolory w motku to beż, kremowy, pastelowy błękit, mięta i szałwiowa zieleń. Włóczka ma długie przejścia koloru i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku,  a dzianina z niej wychodzi cienka i ciepła. LONGCOLORS dzięki dodatkowi nylonu nadaje się zarówno na skarpetki jak i na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Włóczka produkcji duńskiej.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"> </p>\n<p style=\"margin-top:0px;margin-bottom:0px;font-size:14px;color:#232323;font-family:'Open Sans', sans-serif;background-color:#ffffff;\"><span><span style=\"font-family:'open sans';\">Skład: 75% wełna soft superwash, 25% nylon |   Waga motka: 100 g   |    Długość nitki w motku: ok. 400</span></span><span><span style=\"font-family:'open sans';\"> m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA Z DODATKAMI",
+            "MARIKA",
+            "MARIKA 27875 - zimowa cisza"
+        ],
+        "index": "Indeks: 27875",
+        "prices": {
+            "brutto": [
+                25.0
+            ],
+            "netto": [
+                20.33
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 663,
+        "description": "<div class=\"product-description\"><p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MARIKA</strong> to miła mieszanka wełny i akrylu (53% wełna mulesing free, 47% akryl). Włóczka bardzo dobrej jakości produkcji włoskiej w subtelnych melanżach kolorystycznych. Odcienie w motku to: biały, odcienie szarości, grafit. Kolory w motku pięknie przenikają się między sobą i układają się w robótce w wielobarwne pasy. Nitka pojedyncza typu single ply. MARIKA jest przyjemna w dotyku, choć posiada lekki włosek, który może \"podgryzać\" osoby wrażliwe. Przeznaczona na jesienno-zimowe wyroby typu chusty, dodatki, swetry. Włóczka sprzedawana jest w 100g motkach, widoczny na zdjęciach precel służy jedynie do prezentacji kolorów, jakie znajdziemy w motku. Istnieje możliwość zamówienia 1kg przędzy na cewce.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne do </span></span><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">30 stopni Celsjusza.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% wełna mulesing free, 47% akryl      |      Waga motka: 100 g     |     Długość nitki w motku: 350 m</span></span></p>\n<p> </p></div>"
     }
 ]

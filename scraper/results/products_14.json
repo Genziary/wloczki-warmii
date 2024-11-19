@@ -3,25 +3,6 @@
         "categories_tree": [
             "WEŁNA Z DODATKAMI",
             "MARIKA",
-            "MARIKA 67583 - jesienny pejzaż"
-        ],
-        "index": "Indeks: 67583",
-        "prices": {
-            "brutto": [
-                25.0
-            ],
-            "netto": [
-                20.33
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 3434
-    },
-    {
-        "categories_tree": [
-            "WEŁNA Z DODATKAMI",
-            "MARIKA",
             "MARIKA 80135 - lodowy zamek"
         ],
         "index": "Indeks: 80135",
@@ -35,7 +16,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3427
+        "product_id": 3427,
+        "description": "<div class=\"product-description\"><p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MARIKA</strong> to miła mieszanka wełny i akrylu (53% wełna mulesing free, 47% akryl). Włóczka bardzo dobrej jakości produkcji włoskiej w subtelnych melanżach kolorystycznych. Odcienie w motku to: krem, beż, piaskowy, lazurowy niebieski. Kolory w motku pięknie przenikają się między sobą i układają się w robótce w wielobarwne pasy. Nitka pojedyncza typu single ply. MARIKA jest przyjemna w dotyku, choć posiada lekki włosek, który może \"podgryzać\" osoby wrażliwe. Przeznaczona na jesienno-zimowe wyroby typu chusty, dodatki, swetry. Włóczka sprzedawana jest w 100g motkach, widoczny na zdjęciach precel służy jedynie do prezentacji kolorów, jakie znajdziemy w motku. Istnieje możliwość zamówienia 1kg przędzy na cewce.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne do </span></span><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">30 stopni Celsjusza.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% wełna mulesing free, 47% akryl      |      Waga motka: 100 g     |     Długość nitki w motku: 350 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -54,7 +36,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 3429
+        "product_id": 3429,
+        "description": "<div class=\"product-description\"><p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MARIKA</strong> to miła mieszanka wełny i akrylu (53% wełna mulesing free, 47% akryl). Włóczka bardzo dobrej jakości produkcji włoskiej w subtelnych melanżach kolorystycznych. Odcienie w motku to: lodowe błękity, biel, melanżowy indygo. Kolory w motku pięknie przenikają się między sobą i układają się w robótce w wielobarwne pasy. Nitka pojedyncza typu single ply. MARIKA jest przyjemna w dotyku, choć posiada lekki włosek, który może \"podgryzać\" osoby wrażliwe. Przeznaczona na jesienno-zimowe wyroby typu chusty, dodatki, swetry. Włóczka sprzedawana jest w 100g motkach, widoczny na zdjęciach precel służy jedynie do prezentacji kolorów, jakie znajdziemy w motku. Istnieje możliwość zamówienia 1kg przędzy na cewce.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne do </span></span><span style=\"font-family:'open sans';\"><span style=\"font-size:16px;\">30 stopni Celsjusza.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 53% wełna, 47% akryl      |      Waga motka: 100 g     |     Długość nitki w motku: 350 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -73,7 +56,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1465
+        "product_id": 1465,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -92,7 +76,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1463
+        "product_id": 1463,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -111,7 +96,28 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1813
+        "product_id": 1813,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "MERINO SOFT",
+            "MERINO SOFT 6 - khaki"
+        ],
+        "index": "Indeks: merino soft",
+        "prices": {
+            "brutto": [
+                15.5
+            ],
+            "netto": [
+                12.6
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1466,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -130,26 +136,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1815
-    },
-    {
-        "categories_tree": [
-            "WEŁNA 100%",
-            "MERINO SOFT",
-            "MERINO SOFT 6 - khaki"
-        ],
-        "index": "Indeks: merino soft",
-        "prices": {
-            "brutto": [
-                15.5
-            ],
-            "netto": [
-                12.6
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 1466
+        "product_id": 1815,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -168,7 +156,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1460
+        "product_id": 1460,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -187,7 +176,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1467
+        "product_id": 1467,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -206,7 +196,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1489
+        "product_id": 1489,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -225,7 +216,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1462
+        "product_id": 1462,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -244,7 +236,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1814
+        "product_id": 1814,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -263,7 +256,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1461
+        "product_id": 1461,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -282,7 +276,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1464
+        "product_id": 1464,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -301,26 +296,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1490
-    },
-    {
-        "categories_tree": [
-            "WEŁNA 100%",
-            "MERINO SOFT",
-            "MERINO SOFT 150 - czarny"
-        ],
-        "index": "Indeks: merino soft",
-        "prices": {
-            "brutto": [
-                15.5
-            ],
-            "netto": [
-                12.6
-            ],
-            "weights": [],
-            "variants": {}
-        },
-        "product_id": 2375
+        "product_id": 1490,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -339,7 +316,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1486
+        "product_id": 1486,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -358,7 +336,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1488
+        "product_id": 1488,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MERINO SOFT</strong> to 100%  wełna merynosowa (100% pure lana merinos</span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">) występująca w szerokiej gamie kolorystycznej. Jest to grubsza siostra, tak lubianej przez Was Baby Supremo. Włóczka typu aran o mocnym skręcie jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie jesienno - zimowe wyroby, swetry, jak i chusty, szale, czapki, rękawiczki i kominy. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino   |   Waga motka: 50 g   |    Długość nitki w motku: 125 m</span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -375,7 +354,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2736
+        "product_id": 2736,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>METROPOLIS</strong> to oryginalna<strong>, </strong>miękka bawełniana włóczka w formie okrągłego łańcuszka. Włoczka wynonana jest w 72% z lnu i 28% bawełny, co nadaje jej oryginalny, rustykalny charakter. Włóczka świetnie sprawdzi się w letnich topach, bluzkach, sweterkach, jak i w akcesoriach. Naturalny skład sprawi, że dzianina będzie przyjemna dla skóry i oddychająca nawet podczas upalnej pogody, a nietypowy skręt nici gwarantuje komfort w trakcie \"robótkowania\". Włóczka została wyprodukowana we Włoszech.</span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C. </span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 72% len, 28% bawełna     |     Waga motka: 100 g      |      Długość nitki w motku: 240 m   </span></span></p>\n<p> </p></div>"
     },
     {
         "categories_tree": [
@@ -394,7 +374,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 1244
+        "product_id": 1244,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: mięta cętkowana limonką, niebieskiem, turkusem i szmaragdem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -413,7 +394,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 632
+        "product_id": 632,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: delikatny róż cętkowana fuksją, burgundem, antracytem, błękitem i brązem. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -430,7 +412,8 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 625
+        "product_id": 625,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: biel cętkowana burgundem, pomarańczem, fuksją, fioletem i zielenią. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
     },
     {
         "categories_tree": [
@@ -449,6 +432,43 @@
             "weights": [],
             "variants": {}
         },
-        "product_id": 2092
+        "product_id": 2092,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: soczysta, chłodna zieleń z przecierkami. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g (+/-5%)   |    Długość nitki w motku: 400 m (+/-5%)</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - droga mleczna"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1312,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: turkus, błekit nakrapiany granatem i czernią. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
+    },
+    {
+        "categories_tree": [
+            "MIRELLA - dzika rzeka"
+        ],
+        "index": "Indeks: mirella",
+        "prices": {
+            "brutto": [
+                69.0
+            ],
+            "netto": [
+                56.1
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 979,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>MIRELLA</strong> to ręcznie farbowana 100% jagnięca wełna merynosowa (100% virgin merino wool). Cienka, lecz wytrzymała włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Kolory w motku to: melanż szmaragdowych, mszytsych zieleni, turkusu, mięty z chłodnym błękitem i fioletami. Nadaje się na wszelkie całoroczne wyroby, swetry, jak i chusty, szale, delikatne dodatki. </span></span><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Doskonała dla dzieci. Włóczka produkcji włoskiej. Ze względu na ręczne farbowane poszczególne motki mogą nieznacznie różnić się od siebie wybarwieniem i ilością odcieni. Aby zniwelować różnice w gotowym wyrobie zalecamy naprzemienne przerabianie nitki z 2 motków na raz. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% jagnięca wełna merino   |   Waga motka: 100 g   |    Długość nitki w motku: 400 m</span></span></p></div>"
     }
 ]
