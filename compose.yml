@@ -22,10 +22,13 @@ services:
       ADMIN_MAIL: ${ADMIN_MAIL:-admin@wloczki.pl}
       ADMIN_PASSWD: ${ADMIN_PASSWD:-123123123}
       USE_DB_DUMP: ${USE_DB_DUMP:-0}
+      MAILDEV_SMTP_HOST: maildev
+      MAILDEV_SMTP_PORT: 1025
     networks:
       - shop-network
     depends_on:
       - db
+      - maildev
 
   db:
     image: mariadb:10.5
@@ -39,6 +42,15 @@ services:
       MYSQL_PASSWORD: ${DB_PASSWD:-wloczki-password}
       MYSQL_ROOT_PASSWORD: admin
       MYSQL_DATABASE: ${DB_NAME:-wloczki-warmii}
+    networks:
+      - shop-network
+
+  maildev:
+    image: maildev/maildev
+    container_name: maildev
+    ports:
+      - "1080:1080"
+      - "1025:1025"
     networks:
       - shop-network
 
