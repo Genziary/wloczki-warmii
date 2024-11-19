@@ -1,11 +1,10 @@
 import requests
 import xml.etree.ElementTree as ET
 import json
-import sys
+from dotenv import load_dotenv
+import os
 
-# Konfiguracja API
-api_url = "http://localhost:8000/api/"
-api_key = "MPGNW819C93QD9S6L5HBKWJ59ELPC1D2"
+load_dotenv()
 
 
 class DataLoader:
@@ -110,6 +109,10 @@ class DataLoader:
         if product_dict["prices"]["weights"]:
             attrib_name = "Waga"
             self.add_attribs(prices, "Waga")
+        elif product_dict["prices"]["variants"]:
+            attrib_name = "Długość"
+            self.add_attribs(prices, "Długość")
+            #self.add_attribs(prices, "Dowijka Zewnętrznego Koloru")
         else:
             attrib_name = None
 
@@ -122,7 +125,9 @@ class DataLoader:
 
         product_xml = f"""<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
             <product>
-                <price><![CDATA[{self.base_weight_price}]]></price>
+                <price><![CDATA[{
+                    self.base_weight_price if attrib_name else prod_price
+                    }]]></price>
                 <id_category_default><![CDATA[2]]></id_category_default>
                 <id_tax_rules_group><![CDATA[1]]></id_tax_rules_group>
                 <type><![CDATA[simple]]></type>
@@ -214,13 +219,14 @@ class DataLoader:
             for index, weight in enumerate(weights):
                 price = round(prices["netto"][index] - self.base_weight_price, 2)
                 print("priiiiice", price)
+                #<ean13><![CDATA[1234567890123]]></ean13>
+                #<mpn><![CDATA[123456]]></mpn>
                 combination_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
                 <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
                     <combination>
                         <id_product><![CDATA[{product_id}]]></id_product>
-                        <ean13><![CDATA[1234567890123]]></ean13>
-                        <mpn><![CDATA[123456]]></mpn>
-                        <reference><![CDATA[{indeks}]]></reference>
+                        
+                        <reference><![CDATA[{indeks[8:]}]]></reference>
                         <supplier_reference><![CDATA[mfr_1]]></supplier_reference>
                         <price><![CDATA[{price}]]></price>
                         <minimal_quantity><![CDATA[1]]></minimal_quantity>
@@ -249,19 +255,67 @@ class DataLoader:
                 else:
                     print("Failed wartosc atrybutu:", response.status_code, response.text)
                 
-            pass
+        elif attrib_name == "Długość":
+            variants = prices["variants"]
+
+            for dlugosc, dowijki in variants.items():
+                for dowijka, ceny in dowijki.items():
+                    price = round(ceny["netto"] - self.base_weight_price, 2)
+                    print("priiiiice", price)
+                    #<ean13><![CDATA[1234567890123]]></ean13>
+                    #<mpn><![CDATA[123456]]></mpn>
+                    atrybut_dowijki = dowijka
+                    if dowijka == "null":
+                        atrybut_dowijki = "Wybierz"
+
+                    combination_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+                    <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <combination>
+                            <id_product><![CDATA[{product_id}]]></id_product>
+                            
+                            <reference><![CDATA[{indeks[8:]}]]></reference>
+                            <supplier_reference><![CDATA[mfr_1]]></supplier_reference>
+                            <price><![CDATA[{price}]]></price>
+                            <minimal_quantity><![CDATA[1]]></minimal_quantity>
+                            <associations>
+                                <product_option_values nodeType="product_option_value" api="product_option_values">
+                                    <product_option_value>
+                                        <id><![CDATA[{self.atribbs_map["Długość"][dlugosc]["id"]}]]></id>
+                                    </product_option_value>
+                                    <product_option_value>
+                                        <id><![CDATA[{self.atribbs_map["Dowijka Zewnętrznego Koloru"][atrybut_dowijki]["id"]}]]></id>
+                                    </product_option_value>
+                                </product_option_values>
+                            </associations>
+                        </combination>
+                    </prestashop>
+                    """
+                    response = requests.post(
+                        api_url+"combinations",
+                        data=combination_xml.encode('utf-8'),
+                        headers={'Content-Type': 'application/xml'},
+                        auth=(api_key, '')
+                    )
+
+                    if response.status_code == 201:
+                        response_xml = ET.fromstring(response.text)
+                        atrib_id = response_xml.find('.//id').text
+
+                        print(f"Kombinacje atrybutu {attrib_name} dodano do produktu {product_id}")
+                    else:
+                        print("Failed wartosc atrybutu:", response.status_code, response.text)
+
+
+
 
     def add_traits(self, prices, attrib_name):
         if attrib_name == "Waga":
             weights = prices["weights"]
-            netto = prices["netto"]
-
             for index, weight in enumerate(weights):
                 if weight in self.atribbs_map["Waga"]:
                     continue
 
                 self.atribbs_map["Waga"][weight] = {}
-                #self.atribbs_map["Waga"][weight]["price"] = netto[index]
              
                 traits_val_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
                     <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -292,46 +346,87 @@ class DataLoader:
 
         elif attrib_name == "Długość":
             variants = prices["variants"]
-            # for index, weight in enumerate(variants):
-            #     if weight in self.atribbs_map["Waga"]:
-            #         continue
+            dowijka = []
+            self.add_attribs(prices, "Dowijka Zewnętrznego Koloru")
+            for key, values in variants.items():
+                if key in self.atribbs_map["Długość"]:
+                    continue
+                
+                for value in values:
+                    if value in dowijka:
+                        continue
+                    dowijka.append(value)
 
-            #     self.atribbs_map["Waga"][weight] = netto[index]
-             
-            #     traits_val_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-            #         <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
-            #             <product_option_value>
-            #                 <id_attribute_group><![CDATA[{self.atribbs_map["Waga"]["id"]}]]></id_attribute_group>
-            #                 <name>
-            #                     <language id="1"><![CDATA[{weight}]]></language>
-            #                 </name>
-            #             </product_option_value>
-            #         </prestashop>
-            #     """
-            #     response = requests.post(
-            #         api_url+"product_option_values",
-            #         data=traits_val_xml.encode('utf-8'),
-            #         headers={'Content-Type': 'application/xml'},
-            #         auth=(api_key, '')
-            #     )
+                self.atribbs_map["Długość"][key] = {}
+                traits_val_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+                    <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <product_option_value>
+                            <id_attribute_group><![CDATA[{self.atribbs_map["Długość"]["id"]}]]></id_attribute_group>
+                            <name>
+                                <language id="1"><![CDATA[{key}]]></language>
+                            </name>
+                        </product_option_value>
+                    </prestashop>
+                """
+                response = requests.post(
+                    api_url+"product_option_values",
+                    data=traits_val_xml.encode('utf-8'),
+                    headers={'Content-Type': 'application/xml'},
+                    auth=(api_key, '')
+                )
 
-            #     if response.status_code == 201:
-            #         response_xml = ET.fromstring(response.text)
-            #         atrib_id = response_xml.find('.//id').text
+                if response.status_code == 201:
+                    response_xml = ET.fromstring(response.text)
+                    atrib_id = response_xml.find('.//id').text
 
-            #         print(f"Wartosc atrybutu {attrib_name}")
-            #         print(f"ID atrybutu: {atrib_id}")
-            #     else:
-            #         print("Failed wartosc atrybutu:", response.status_code, response.text)
+                    print(f"Wartosc atrybutu {attrib_name}")
+                    print(f"ID atrybutu: {atrib_id}")
+                    self.atribbs_map["Długość"][key]["id"] = atrib_id
+                else:
+                    print("Failed wartosc atrybutu:", response.status_code, response.text)
+
+            for dowija in dowijka:
+                key = dowija
+                if dowija == "null":
+                    key = "Wybierz"
+
+                if key in self.atribbs_map["Dowijka Zewnętrznego Koloru"]:
+                    continue
+
+                self.atribbs_map["Dowijka Zewnętrznego Koloru"][key] = {}
+                traits_val_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+                    <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <product_option_value>
+                            <id_attribute_group><![CDATA[{self.atribbs_map["Dowijka Zewnętrznego Koloru"]["id"]}]]></id_attribute_group>
+                            <name>
+                                <language id="1"><![CDATA[{key}]]></language>
+                            </name>
+                        </product_option_value>
+                    </prestashop>
+                """
+                response = requests.post(
+                    api_url+"product_option_values",
+                    data=traits_val_xml.encode('utf-8'),
+                    headers={'Content-Type': 'application/xml'},
+                    auth=(api_key, '')
+                )
+
+                if response.status_code == 201:
+                    response_xml = ET.fromstring(response.text)
+                    atrib_id = response_xml.find('.//id').text
+
+                    print(f"Wartosc atrybutu Dowijka Zewnętrznego Koloru")
+                    print(f"ID atrybutu: {atrib_id}")
+                    self.atribbs_map["Dowijka Zewnętrznego Koloru"][key]["id"] = atrib_id
+                else:
+                    print("Failed wartosc atrybutu:", response.status_code, response.text)
 
         elif attrib_name == "Dowijka Zewnętrznego Koloru":
-            variants = prices["variants"]
-            pass
+            return
 
         print(self.atribbs_map)
 
     def add_attribs(self, prices, attrib_name):
-        product_id = 1024
 
         # xml = f"""<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
         #         <product_feature>
@@ -345,7 +440,7 @@ class DataLoader:
         if attrib_name in self.atribbs_map:
             self.add_traits(prices, attrib_name)
             return
-        
+
         xml = f"""<?xml version="1.0" encoding="UTF-8"?>
             <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
                 <product_option>
@@ -419,8 +514,8 @@ def init():
 
 if __name__ == "__main__":
     api_url = "http://localhost:8000/api/"
-    api_key = "MPGNW819C93QD9S6L5HBKWJ59ELPC1D2"
-    RESULTS_PAGES = 1 #21
+    api_key = os.getenv("api_key")
+    RESULTS_PAGES = 21  #1 #21
     dloader = DataLoader(api_url, api_key, RESULTS_PAGES)
     dloader.start()
     print(dloader.atribbs_map)
