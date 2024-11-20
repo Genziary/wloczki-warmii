@@ -13,6 +13,7 @@ class DataLoader:
         self.api_key = api_key
         self.category_map = {}
         self.atribbs_map = {}
+        self.features_map = {}
         self.results_number = results_number
         self.base_weight_price = 999
         self.find_base_weight()
@@ -69,7 +70,7 @@ class DataLoader:
             api_url+"categories",
             data=request_xml.encode('utf-8'),
             headers={'Content-Type': 'application/xml'},
-            auth=(api_key, '')
+            auth=(self.api_key, '')
         )
 
         if response.status_code == 201:
@@ -96,6 +97,7 @@ class DataLoader:
 
     def load_product(self, product_dict):
         cat_id = self.category_map["Włóczki"]
+        self.add_features(product_dict)
 
         try:
             prod_name = product_dict["categories_tree"][-1]
@@ -147,6 +149,19 @@ class DataLoader:
                 </link_rewrite>
                 <associations>
         """
+        # adding all features
+        features = product_dict["features"]
+        features_xml = "<product_features>"
+
+        for feature, value in features.items():
+            temp = f"""
+            <product_feature>
+                <id><![CDATA[{self.features_map[feature]["id"]}]]></id>
+                <id_feature_value><![CDATA[{self.features_map[feature]["values"][value]}]]></id_feature_value>
+            </product_feature>"""
+            features_xml += temp
+        features_xml += "</product_features>"
+
         # adding all categories
         categories = ["Włóczki"] + product_dict["categories_tree"][:-1]
         categories_xml = "<categories>"
@@ -163,13 +178,13 @@ class DataLoader:
             </product>
         </prestashop>"""
 
-        product_xml += categories_xml
+        product_xml = product_xml + features_xml + categories_xml
 
         response = requests.post(
             api_url+"products",
             data=product_xml.encode('utf-8'),
             headers={'Content-Type': 'application/xml'},
-            auth=(api_key, '')
+            auth=(self.api_key, '')
         )
 
         if response.status_code == 201:
@@ -182,7 +197,6 @@ class DataLoader:
             print(f"ID produktu: {prod_id}")
             self.load_images(product_dict["product_id"], prod_id)
             self.apply_combination(product_dict, attrib_name, prod_id)
-
         else:
             print(f"Błąd dodawania produktu: {response.status_code} - {response.text}")
 
@@ -194,7 +208,7 @@ class DataLoader:
         response = requests.post(
             api_url+f"images/products/{product_id}",
             files=file,
-            auth=(api_key, '')
+            auth=(self.api_key, '')
         )
 
         if response.status_code == 200:
@@ -211,7 +225,7 @@ class DataLoader:
         response = requests.post(
             api_url+f"images/products/{product_id}",
             files=file,
-            auth=(api_key, '')
+            auth=(self.api_key, '')
         )
 
         if response.status_code == 200:
@@ -233,7 +247,6 @@ class DataLoader:
                 <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
                     <combination>
                         <id_product><![CDATA[{product_id}]]></id_product>
-                        
                         <reference><![CDATA[{indeks[8:]}]]></reference>
                         <supplier_reference><![CDATA[mfr_1]]></supplier_reference>
                         <price><![CDATA[{price}]]></price>
@@ -252,7 +265,7 @@ class DataLoader:
                     api_url+"combinations",
                     data=combination_xml.encode('utf-8'),
                     headers={'Content-Type': 'application/xml'},
-                    auth=(api_key, '')
+                    auth=(self.api_key, '')
                 )
 
                 if response.status_code == 201:
@@ -262,7 +275,7 @@ class DataLoader:
                     print(f"Kombinacje atrybutu {attrib_name} dodano do produktu {product_id}")
                 else:
                     print("Failed wartosc atrybutu:", response.status_code, response.text)
-                
+
         elif attrib_name == "Długość":
             variants = prices["variants"]
 
@@ -280,7 +293,6 @@ class DataLoader:
                     <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
                         <combination>
                             <id_product><![CDATA[{product_id}]]></id_product>
-                            
                             <reference><![CDATA[{indeks[8:]}]]></reference>
                             <supplier_reference><![CDATA[mfr_1]]></supplier_reference>
                             <price><![CDATA[{price}]]></price>
@@ -302,7 +314,7 @@ class DataLoader:
                         api_url+"combinations",
                         data=combination_xml.encode('utf-8'),
                         headers={'Content-Type': 'application/xml'},
-                        auth=(api_key, '')
+                        auth=(self.api_key, '')
                     )
 
                     if response.status_code == 201:
@@ -313,9 +325,6 @@ class DataLoader:
                     else:
                         print("Failed wartosc atrybutu:", response.status_code, response.text)
 
-
-
-
     def add_traits(self, prices, attrib_name):
         if attrib_name == "Waga":
             weights = prices["weights"]
@@ -324,7 +333,7 @@ class DataLoader:
                     continue
 
                 self.atribbs_map["Waga"][weight] = {}
-             
+
                 traits_val_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
                     <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
                         <product_option_value>
@@ -339,7 +348,7 @@ class DataLoader:
                     api_url+"product_option_values",
                     data=traits_val_xml.encode('utf-8'),
                     headers={'Content-Type': 'application/xml'},
-                    auth=(api_key, '')
+                    auth=(self.api_key, '')
                 )
 
                 if response.status_code == 201:
@@ -359,7 +368,7 @@ class DataLoader:
             for key, values in variants.items():
                 if key in self.atribbs_map["Długość"]:
                     continue
-                
+
                 for value in values:
                     if value in dowijka:
                         continue
@@ -380,7 +389,7 @@ class DataLoader:
                     api_url+"product_option_values",
                     data=traits_val_xml.encode('utf-8'),
                     headers={'Content-Type': 'application/xml'},
-                    auth=(api_key, '')
+                    auth=(self.api_key, '')
                 )
 
                 if response.status_code == 201:
@@ -416,7 +425,7 @@ class DataLoader:
                     api_url+"product_option_values",
                     data=traits_val_xml.encode('utf-8'),
                     headers={'Content-Type': 'application/xml'},
-                    auth=(api_key, '')
+                    auth=(self.api_key, '')
                 )
 
                 if response.status_code == 201:
@@ -435,16 +444,6 @@ class DataLoader:
         print(self.atribbs_map)
 
     def add_attribs(self, prices, attrib_name):
-
-        # xml = f"""<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
-        #         <product_feature>
-        #             <name>
-        #                 <language id="1"><![CDATA[Waga]]></language>
-        #             </name>
-        #         </product_feature>
-        #     </prestashop>
-        # """ funkcje
-
         if attrib_name in self.atribbs_map:
             self.add_traits(prices, attrib_name)
             return
@@ -468,7 +467,7 @@ class DataLoader:
             api_url+"product_options",
             data=xml.encode('utf-8'),
             headers={'Content-Type': 'application/xml'},
-            auth=(api_key, '')
+            auth=(self.api_key, '')
         )
 
         if response.status_code == 201:
@@ -482,6 +481,75 @@ class DataLoader:
             self.add_traits(prices, attrib_name)
         else:
             print("Failed to upload image:", response.status_code, response.text)
+
+    def add_features(self, product_dict):
+        features = product_dict["features"]
+
+        for feature, value in features.items():
+            if feature in self.features_map:
+                self.add_feature_value(value, feature)
+                continue
+
+            feature_xml = f"""<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <product_feature>
+                        <name>
+                            <language id="1"><![CDATA[{feature}]]></language>
+                        </name>
+                    </product_feature>
+                </prestashop>
+            """
+            response = requests.post(
+                api_url+"product_features",
+                data=feature_xml.encode('utf-8'),
+                headers={'Content-Type': 'application/xml'},
+                auth=(self.api_key, '')
+            )
+
+            if response.status_code == 201:
+                response_xml = ET.fromstring(response.text)
+                feature_id = response_xml.find('.//id').text
+
+                print("Feature dodany.")
+                print(f"ID feature: {feature_id}")
+                self.features_map[feature] = {}
+                self.features_map[feature]["id"] = feature_id
+                self.features_map[feature]["values"] = {}
+                self.add_feature_value(value, feature)
+            else:
+                print("Failed to upload feature:", response.status_code, response.text)
+
+    def add_feature_value(self, value, feature):
+        if value in self.features_map[feature]["values"]:
+            return
+
+        feature_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+            <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+                <product_feature_value>
+                    <id_feature><![CDATA[{self.features_map[feature]["id"]}]]></id_feature>
+                    <value>
+                        <language id="1"><![CDATA[{value}]]></language>
+                    </value>
+                </product_feature_value>
+            </prestashop>
+            """
+        response = requests.post(
+            api_url+"product_feature_values",
+            data=feature_xml.encode('utf-8'),
+            headers={'Content-Type': 'application/xml'},
+            auth=(self.api_key, '')
+        )
+
+        if response.status_code == 201:
+            response_xml = ET.fromstring(response.text)
+            feature_value_id = response_xml.find('.//id').text
+
+            print("Feature value dodany.")
+            print(f"ID feature value: {feature_value_id}")
+            self.features_map[feature]["values"][value] = feature_value_id 
+
+        else:
+            print("Failed to upload feature value:", response.status_code, response.text)
+
 
 
 def init():
@@ -527,3 +595,4 @@ if __name__ == "__main__":
     dloader = DataLoader(api_url, api_key, RESULTS_PAGES)
     dloader.start()
     print(dloader.atribbs_map)
+    print(dloader.features_map)
