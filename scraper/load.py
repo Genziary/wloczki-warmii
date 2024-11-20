@@ -112,7 +112,6 @@ class DataLoader:
         elif product_dict["prices"]["variants"]:
             attrib_name = "Długość"
             self.add_attribs(prices, "Długość")
-            #self.add_attribs(prices, "Dowijka Zewnętrznego Koloru")
         else:
             attrib_name = None
 
@@ -138,7 +137,7 @@ class DataLoader:
                 <visibility><![CDATA[both]]></visibility>
                 <state><![CDATA[1]]></state>
                 <description>
-                    <language id="1"><![CDATA[{prod_name} opis]]></language>
+                    <language id="1"><![CDATA[{product_dict["description"]}]]></language>
                 </description>
                 <name>
                     <language id="1"><![CDATA[{prod_name}]]></language>
@@ -147,15 +146,24 @@ class DataLoader:
                     <language id="1"><![CDATA[{prod_name}]]></language>
                 </link_rewrite>
                 <associations>
-                    <categories>
-                        <category>
-                            <id><![CDATA[{cat_id }]]></id>
-                        </category>
-                    </categories>
+        """
+        # adding all categories
+        categories = ["Włóczki"] + product_dict["categories_tree"][:-1]
+        categories_xml = "<categories>"
+
+        for cat in categories:
+            temp = f"""
+            <category>
+                <id><![CDATA[{self.category_map[cat]}]]></id>
+            </category>"""
+            categories_xml += temp
+
+        categories_xml += """</categories>
                 </associations>
             </product>
-        </prestashop>
-        """
+        </prestashop>"""
+
+        product_xml += categories_xml
 
         response = requests.post(
             api_url+"products",
@@ -515,9 +523,7 @@ def init():
 if __name__ == "__main__":
     api_url = "http://localhost:8000/api/"
     api_key = os.getenv("api_key")
-    RESULTS_PAGES = 21  #1 #21
+    RESULTS_PAGES = 1 #21
     dloader = DataLoader(api_url, api_key, RESULTS_PAGES)
     dloader.start()
     print(dloader.atribbs_map)
-    #add_combination(1, 1)
-    
