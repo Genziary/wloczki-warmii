@@ -102,6 +102,7 @@ class DataLoader:
             print("Brak kategorii nadrzędnych dla produktu, ustawiam default")
 
         prices = product_dict["prices"]
+        attrib_name = None
 
         if product_dict["prices"]["weights"]:
             attrib_name = "Waga"
@@ -109,15 +110,11 @@ class DataLoader:
         elif product_dict["prices"]["variants"]:
             attrib_name = "Długość"
             self.add_attribs(prices, "Długość")
-        else:
-            attrib_name = None
 
         try:
             prod_price = prices["netto"][0]
-            #prod_unit_price = prices["brutto"][0]
         except IndexError:
             prod_price = 2137
-            #prod_unit_price = 2137
 
         product_xml = f"""<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
             <product>
