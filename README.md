@@ -4,7 +4,7 @@
 
 - [Description](#description-)
 - [Software](#software-)
-- [How to run the project](#how-to-run-the-project-)
+- [How to run the project](#how-to-run-the-project-%EF%B8%8F)
 - [How to contribute](#how-to-contribute-)
 - [Admin Panel](#admin-panel-)
 - [Mail handling](#mail-handling-)
@@ -45,7 +45,7 @@ After each main pull, use the following command to load newest database changes 
 USE_DB_DUMP=1 docker compose up --build
 ```
 
-After making changes to the databse, generate un updated dump file using the following command:
+After making changes to the database, generate an updated dump file using the following command:
 ```bash
 docker exec wloczki-warmii-db-1 mysqldump -u wloczki-user --password=wloczki-password wloczki-warmii > shop/dump.sql
 ```
@@ -62,7 +62,7 @@ Admin credentials:
 ## Mail Handling ✉️
 
 The project uses MailDev to handle email notifications during development. \
-**Web interface** is accessible at at http://localhost:1080, providing a clear preview of all sent emails for
+**Web interface** is accessible at http://localhost:1080, providing a clear preview of all sent emails for
 testing purposes.
 
 ## Team members 🫂
