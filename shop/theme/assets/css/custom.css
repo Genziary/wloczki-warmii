@@ -591,7 +591,6 @@ overflow: hidden;
 }
 
 /* Main menu */
-
 .pos-menu-horizontal {
   position: relative;
 }
@@ -619,7 +618,7 @@ ul.socialmedia {
 }
 
 .pos-menu-horizontal .menu-content .menu-item {
-	margin-left: 15px;
+	margin: 0 0 0 15px;
 }
 
 .pos-menu-horizontal .menu-content .menu-item {
@@ -627,8 +626,67 @@ ul.socialmedia {
 	margin: 0 25px;
 }
 
+.pos-menu-horizontal .menu-content .dropdown-item {
+	text-transform: none !important;
+}
+
+.pos-menu-horizontal .sub-menu .menu-content > li {
+  margin: 0 !important;
+  text-align: left !important;
+  padding: 0 15px;
+}
+
+.pos-menu-horizontal .sub-menu .menu-content > li > a {
+  margin-bottom: 20px;
+  padding: 0;
+  font-size: 14px;
+  line-height: 1;
+}
+
+.pos-menu-horizontal .sub-menu {
+  box-shadow: 2px 2px 4px 0 rgba(0,0,0,.2);
+  border: 1px solid #eee;
+  background: #fff;
+  width: 80%;
+  min-width: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
+  padding: 30px;
+}
+
+.top-menu[data-depth="1"] {
+	margin: 0;
+}
+
 ._desktop_top_menu {
   width: 100%;
+}
+
+.pos-menu-horizontal .menu-content .menu-item:hover > a {
+  color: #88bb10 !important;
+}
+
+.pos-menu-horizontal .menu-content .menu-item > a::after {
+	content: "";
+	position: absolute;
+	bottom: 14px;
+	background: #88bb10;
+	height: 2px;
+	width: 0%;
+	left: 0;
+	right: 0;
+	opacity: 0;
+	-webkit-transition: color 300ms linear;
+	-moz-transition: color 300ms linear;
+	-ms-transition: color 300ms linear;
+	-o-transition: color 300ms linear;
+	transition: color 300ms linear;
+}
+
+.pos-menu-horizontal .menu-content .menu-item.active > a::after, .pos-menu-horizontal .menu-content .menu-item.home > a::after, .pos-menu-horizontal .menu-content .menu-item:hover > a::after {
+	width: 100%;
+	opacity: 1;
 }
 
 .top-menu a {
@@ -644,12 +702,25 @@ ul.socialmedia li a {
 	margin: 5px;
 }
 
+.navbar-toggler {
+  padding: 0 !important;
+}
+
 .pos-menu-horizontal .menu-content .menu-item > a {
-	font-weight: 700;
-	font-size: 14px;
-	color: #253237;
-	text-transform: capitalize;
-	line-height: 36px;
+	display: block;
+  padding: 0;
+  font-weight: 700;
+  font-size: 14px;
+  color: #253237;
+  background: transparent;
+  text-transform: capitalize;
+  line-height: 54px;
+  position: relative;
+  -webkit-transition: color 300ms linear;
+	-moz-transition: color 300ms linear;
+	-ms-transition: color 300ms linear;
+	-o-transition: color 300ms linear;
+	transition: color 300ms linear;
 }
 
 .hasChild > div {
