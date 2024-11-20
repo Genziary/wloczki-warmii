@@ -79,6 +79,22 @@ def get_dynamic_weight_prices(headers, product_id, group_value):
 
 
 @benchmark
+def scrape_product_features(features_soup):
+    """
+    Function to scrape product's features and its values from an individual product page.
+    """
+    features_list = features_soup.find("dl", class_="data-sheet")
+    names = features_list.find_all("dt", class_="name")
+    values = features_list.find_all("dd", class_="value")
+
+    return_dict = {}
+    for name, value in zip(names, values):
+        return_dict[name.get_text(strip=True)] = value.get_text(strip=True)
+
+    return return_dict
+
+
+@benchmark
 def scrape_product_details(product_url, headers):
     """
     Function to scrape product details from an individual product page.
@@ -99,6 +115,7 @@ def scrape_product_details(product_url, headers):
         index = product_info_div.find("p").get_text(strip=True)
 
         description = product_soup.find("div", class_="product-description")
+        features_soup = product_soup.find("section", class_="product-features")
 
         weight_select = product_soup.find("select", {"id": "group_7"})
         length_select = product_soup.find("select", {"id": "group_5"})
@@ -109,6 +126,7 @@ def scrape_product_details(product_url, headers):
         netto_prices = []
         weights = []
         variants = {}
+        features = scrape_product_features(features_soup)
 
         if weight_select:
             weight_options = weight_select.find_all("option")
@@ -156,7 +174,8 @@ def scrape_product_details(product_url, headers):
             "index": index,
             "prices": product_prices,
             "product_id": product_id,
-            "description": str(description)
+            "description": str(description),
+            "features": features
         }
     else:
         print(f"Failed to retrieve product page: {product_url}. Status code: {product_response.status_code}")

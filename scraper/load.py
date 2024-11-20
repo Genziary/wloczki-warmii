@@ -127,7 +127,7 @@ class DataLoader:
                 <price><![CDATA[{
                     self.base_weight_price if attrib_name else prod_price
                     }]]></price>
-                <id_category_default><![CDATA[2]]></id_category_default>
+                <id_category_default><![CDATA[{cat_id}]]></id_category_default>
                 <id_tax_rules_group><![CDATA[1]]></id_tax_rules_group>
                 <type><![CDATA[simple]]></type>
                 <id_shop_default><![CDATA[1]]></id_shop_default>
