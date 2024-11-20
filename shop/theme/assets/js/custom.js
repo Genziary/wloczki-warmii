@@ -19,3 +19,11 @@ $(document).ready(function(){
 		});
 	});
 });
+
+// Initialize owl-carousel
+$(document).ready(() => {
+  $(".owl-carousel").owlCarousel({
+    nav: true,
+    items: 1
+  });
+});

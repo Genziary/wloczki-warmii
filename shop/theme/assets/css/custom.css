@@ -1521,3 +1521,198 @@ body#index #footer {
 	color: #fff;
 	background: #253237;
 }
+
+/* Quickview */
+.quickview .images-container {
+  display: block !important;
+  min-height: auto !important;
+}
+
+#main .images-container .js-qv-mask, #main .images-container .js-qv-mask.scroll, .quickview .images-container .js-qv-mask {
+	float: left;
+	width: 98px;
+	margin: 0;
+	margin-right: 10px;
+}
+
+.images-container .js-qv-mask {
+  overflow: visible !important;
+  max-width: 90% !important;
+}
+
+.pos_content {
+	position: relative;
+}
+
+.thumb-container img.selected, .thumb-container img:hover {
+	border-color: #dbdbdb;
+	-webkit-transition: all 300ms ease-in;
+	-moz-transition: all 300ms ease-in;
+	-ms-transition: all 300ms ease-in;
+	-o-transition: all 300ms ease-in;
+	transition: all 300ms ease-in;
+}
+
+.product-cover {
+	overflow: hidden;
+	display: block;
+}
+
+.images-container .product-images .owl-nav {
+	position: static;
+	display: block;
+}
+
+
+.images-container .product-images .owl-nav {
+  font-size: 18px;
+}
+
+.images-container .product-images .owl-nav > button.owl-prev {
+	left: 0;
+	right: 0;
+	margin: 0;
+	margin: 0 auto;
+	top: 0;
+}
+
+.images-container .product-images .owl-nav > button.owl-next {
+	right: 0;
+	bottom: 0;
+	top: auto;
+	left: 0;
+	margin: 0 auto;
+}
+
+.images-container .product-images:hover .owl-nav > button {
+	-moz-transform: scale(1) rotate(90deg);
+	-webkit-transform: scale(1) rotate(90deg);
+	-o-transform: scale(1) rotate(90deg);
+	-ms-transform: scale(1) rotate(90deg);
+	transform: scale(1) rotate(90deg);
+	-webkit-transition: all 300ms ease-in;
+	-moz-transition: all 300ms ease-in;
+	-ms-transition: all 300ms ease-in;
+	-o-transition: all 300ms ease-in;
+	transition: all 300ms ease-in;
+}
+
+.images-container .product-images .owl-nav > button {
+	top: 50%;
+	margin: 0;
+	margin-top: 0;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+
+.images-container .product-images .owl-nav > button {
+	position: absolute;
+	top: 50%;
+	margin-top: -10px;
+	line-height: 20px;
+	-moz-transform: scale(0);
+	-webkit-transform: scale(0);
+	-o-transform: scale(0);
+	-ms-transform: scale(0);
+	transform: scale(0);
+  background: #fff;
+  border-radius: 100%;
+}
+
+.images-container .product-images .owl-nav > button:hover {
+  background: #88bb10;
+  color: #fff;
+}
+
+.h1.namne_details, .product_name_h1 {
+	font-size: 35px !important;
+	margin-bottom: 5px !important;
+}
+
+.h1.namne_details, .product_name_h1 {
+	color: #323232;
+	text-transform: capitalize;
+	font-size: 18px;
+	line-height: 1;
+	font-weight: 600;
+	margin: 0 0 15px 0;
+}
+
+.quickview .product-quantities {
+	margin-top: 1.25rem;
+  margin-bottom: .625rem;
+}
+
+.product-prices {
+	display: flex;
+	flex-direction: row;
+}
+
+.has-discount.product-price, .has-discount p, .current-price {
+	font-weight: 400;
+	font-size: 21px;
+	line-height: 30px;
+	display: inline-block;
+	color: #555;
+	margin-bottom: 0px !important;
+}
+
+.product-prices .tax-shipping-delivery-label {
+	display: block;
+	margin: 11px 0 0 10px !important;
+}
+
+.product-prices .tax-shipping-delivery-label {
+  font-weight: 700;
+	font-size: .8125rem;
+	color: #7a7a7a;
+}
+
+.product-quantity .qty {
+	width: 80px;
+	margin-bottom: .5rem;
+  margin-right: 20px;
+}
+
+.product-quantity .add {
+  margin-left: 1rem;
+  margin-bottom: .5rem;
+}
+
+.product-actions .add-to-cart {
+	border: none;
+	font-size: 14px;
+	color: #fff;
+	position: relative;
+	background: #323232 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAIBAMAAAA2IaO4AAAAD1BMVEX///////9HcEz////////5TfPbAAAABXRSTlNmuwDuiD30mLcAAAAeSURBVAjXY1BScVJiUFIUghKMwoYCEAIhpqTApAQATFkDl26f6vkAAAAASUVORK5CYII=) 15% 50% no-repeat;
+	padding-left: 13px;
+	padding-bottom: 3px;
+	cursor: pointer;
+	font-weight: 500;
+	text-transform: capitalize;
+	padding: 0 40px;
+	border-radius: 2px;
+}
+
+.product-actions .add-to-cart > i {
+  display: none;
+}
+
+.product-actions .add-to-cart:hover {
+	background: #88bb10 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAIBAMAAAA2IaO4AAAAD1BMVEX///////9HcEz////////5TfPbAAAABXRSTlNmuwDuiD30mLcAAAAeSURBVAjXY1BScVJiUFIUghKMwoYCEAIhpqTApAQATFkDl26f6vkAAAAASUVORK5CYII=) 15% 50% no-repeat;
+}
+
+.quickview .social-sharing {
+	margin-left: 0;
+}
+
+.social-sharing li {
+  background-color: transparent;
+  transform: scale(0.75);
+}
+
+.quickview .modal-footer {
+  padding: 5px 15px;
+}
