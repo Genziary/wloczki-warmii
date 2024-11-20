@@ -262,6 +262,10 @@ overflow: hidden;
 	font-size: 14px;
 }
 
+#_desktop_contact_link .contact-link a:hover {
+	color: #88bb10;
+}
+
 .contact-link {
 	float: left;
 }
@@ -306,6 +310,10 @@ overflow: hidden;
   -moz-transition: none;
   -o-transition: none;
   transition: none;
+}
+
+.blockcart .button_cart:hover a {
+	color: #88bb10 !important;
 }
 
 .blockcart .button_cart a .cart-icon{
@@ -532,6 +540,10 @@ overflow: hidden;
 	align-items: center;
 	color: #253237;
 	float: right;
+}
+
+.block-search .search-icon:hover {
+	color: #88bb10;
 }
 
 .search_top {
