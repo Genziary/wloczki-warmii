@@ -66,12 +66,7 @@ class DataLoader:
                 </category>
             </prestashop>"""
 
-        response = requests.post(
-            api_url+"categories",
-            data=request_xml.encode('utf-8'),
-            headers={'Content-Type': 'application/xml'},
-            auth=(self.api_key, '')
-        )
+        response = self.make_request("POST", "categories", request_xml)
 
         if response.status_code == 201:
 
@@ -180,12 +175,7 @@ class DataLoader:
 
         product_xml = product_xml + features_xml + categories_xml
 
-        response = requests.post(
-            api_url+"products",
-            data=product_xml.encode('utf-8'),
-            headers={'Content-Type': 'application/xml'},
-            auth=(self.api_key, '')
-        )
+        response = self.make_request("POST", "products", product_xml)
 
         if response.status_code == 201:
 
@@ -261,12 +251,8 @@ class DataLoader:
                     </combination>
                 </prestashop>
                 """
-                response = requests.post(
-                    api_url+"combinations",
-                    data=combination_xml.encode('utf-8'),
-                    headers={'Content-Type': 'application/xml'},
-                    auth=(self.api_key, '')
-                )
+
+                response = self.make_request("POST", "combinations", combination_xml)
 
                 if response.status_code == 201:
                     response_xml = ET.fromstring(response.text)
@@ -310,12 +296,8 @@ class DataLoader:
                         </combination>
                     </prestashop>
                     """
-                    response = requests.post(
-                        api_url+"combinations",
-                        data=combination_xml.encode('utf-8'),
-                        headers={'Content-Type': 'application/xml'},
-                        auth=(self.api_key, '')
-                    )
+
+                    response = self.make_request("POST", "combinations", combination_xml)
 
                     if response.status_code == 201:
                         response_xml = ET.fromstring(response.text)
@@ -344,12 +326,8 @@ class DataLoader:
                         </product_option_value>
                     </prestashop>
                 """
-                response = requests.post(
-                    api_url+"product_option_values",
-                    data=traits_val_xml.encode('utf-8'),
-                    headers={'Content-Type': 'application/xml'},
-                    auth=(self.api_key, '')
-                )
+
+                response = self.make_request("POST", "product_option_values", traits_val_xml)
 
                 if response.status_code == 201:
                     response_xml = ET.fromstring(response.text)
@@ -385,12 +363,8 @@ class DataLoader:
                         </product_option_value>
                     </prestashop>
                 """
-                response = requests.post(
-                    api_url+"product_option_values",
-                    data=traits_val_xml.encode('utf-8'),
-                    headers={'Content-Type': 'application/xml'},
-                    auth=(self.api_key, '')
-                )
+
+                response = self.make_request("POST", "product_option_values", traits_val_xml)
 
                 if response.status_code == 201:
                     response_xml = ET.fromstring(response.text)
@@ -421,12 +395,8 @@ class DataLoader:
                         </product_option_value>
                     </prestashop>
                 """
-                response = requests.post(
-                    api_url+"product_option_values",
-                    data=traits_val_xml.encode('utf-8'),
-                    headers={'Content-Type': 'application/xml'},
-                    auth=(self.api_key, '')
-                )
+
+                response = self.make_request("POST", "product_option_values", traits_val_xml)
 
                 if response.status_code == 201:
                     response_xml = ET.fromstring(response.text)
@@ -463,12 +433,7 @@ class DataLoader:
             </prestashop>
         """
 
-        response = requests.post(
-            api_url+"product_options",
-            data=xml.encode('utf-8'),
-            headers={'Content-Type': 'application/xml'},
-            auth=(self.api_key, '')
-        )
+        response = self.make_request("POST", "product_options", xml)
 
         if response.status_code == 201:
             response_xml = ET.fromstring(response.text)
@@ -498,12 +463,8 @@ class DataLoader:
                     </product_feature>
                 </prestashop>
             """
-            response = requests.post(
-                api_url+"product_features",
-                data=feature_xml.encode('utf-8'),
-                headers={'Content-Type': 'application/xml'},
-                auth=(self.api_key, '')
-            )
+
+            response = self.make_request("POST", "product_features", feature_xml)
 
             if response.status_code == 201:
                 response_xml = ET.fromstring(response.text)
@@ -532,12 +493,8 @@ class DataLoader:
                 </product_feature_value>
             </prestashop>
             """
-        response = requests.post(
-            api_url+"product_feature_values",
-            data=feature_xml.encode('utf-8'),
-            headers={'Content-Type': 'application/xml'},
-            auth=(self.api_key, '')
-        )
+
+        response = self.make_request("POST", "product_feature_values", feature_xml)
 
         if response.status_code == 201:
             response_xml = ET.fromstring(response.text)
@@ -550,42 +507,16 @@ class DataLoader:
         else:
             print("Failed to upload feature value:", response.status_code, response.text)
 
-
-
-def init():
-    manufacturer = """<?xml version="1.0" encoding="UTF-8"?>
-        <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
-            <manufacturer>
-                <name>ACMEManufacturer</name>
-            </manufacturer>
-        </prestashop>
-    """
-
-    supplier = """<?xml version="1.0" encoding="UTF-8"?>
-        <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
-            <supplier>
-                <name>ACMESupplier</name>
-            </supplier>
-        </prestashop>
-    """
-
-    response = requests.post(
-        api_url+"manufacturers",
-        data=manufacturer.encode('utf-8'),
-        headers={'Content-Type': 'application/xml'},
-        auth=(api_key, '')
-    )
-
-    print(response.text)
-
-    response = requests.post(
-        api_url+"suppliers",
-        data=supplier.encode('utf-8'),
-        headers={'Content-Type': 'application/xml'},
-        auth=(api_key, '')
-    )
-
-    print(response.text)
+    def make_request(self, method, route, xml):
+        response = None
+        if method == "POST":
+            response = requests.post(
+                    self.api_url + route,
+                    data=xml.encode('utf-8'),
+                    headers={'Content-Type': 'application/xml'},
+                    auth=(self.api_key, '')
+                )
+        return response
 
 
 if __name__ == "__main__":
