@@ -99,6 +99,10 @@
             </div>
           {/block}
         </div>
+
+        {block name="wrapper_bottom"}
+        {/block}
+
         {hook h="displayWrapperBottom"}
       </section>
 

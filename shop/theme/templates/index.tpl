@@ -100,5 +100,33 @@
             {/block}
           </div>
         </div>
-      </section>
+      </div>
+    {/block}
+
+    {block name='wrapper_bottom'}
+      {assign wloczki_category "3-wloczki"}
+      {assign colors ["bialy", "bezowy", "zolty", "pomaranczowy", "czerwony", "rozowy", "fioletowy", "niebieski", "brazowy", "szary", "czarny", "kolorowy", "zielony"]}
+      <div class="container">
+        <div class="pos_logo product_block_container">
+          <div class="row pos_content">
+            <div class="logo-slider owl-carousel owl-loaded owl-drag">
+              <div class="owl-stage-outer">
+                <div class="owl-stage">
+                  {foreach from=$colors item=color}
+                    <div class="owl-item">
+                      <div>
+                        <div class="item-banklogo">
+                          <a href="/{$wloczki_category}?kolor={$color}">
+                            <img class="replace-2x img-responsive" src="/img/yarns/{$color}.jpg" alt="Logo">
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  {/foreach}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     {/block}
