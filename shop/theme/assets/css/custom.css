@@ -39,6 +39,30 @@ button {
   color: #333;
 }
 
+.modal-header {
+  padding: 15px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.btn-secondary,
+.btn-tertiary,
+.btn-primary {
+  color: #fff;
+  background: #253237;
+  border-color: transparent;
+  box-shadow: none;
+}
+
+.btn-secondary:hover,
+.btn-tertiary:hover,
+.btn-primary.focus,
+.btn-primary:focus,
+.btn-primary:hover {
+  color: #fff;
+  background-color: #88bb10;
+  border-color: transparent;
+}
+
 @media (min-width: 576px) {
   .container {
     width: auto;
@@ -1865,4 +1889,64 @@ body#index #footer {
   -ms-transition: all 300ms ease-in;
   -o-transition: all 300ms ease-in;
   transition: all 300ms ease-in;
+}
+
+/* Blockcart */
+#blockcart-modal .modal-header {
+  background: #4cbb6c;
+}
+
+#blockcart-modal .modal-title {
+  font-weight: 600;
+  color: #fff;
+  font-size: 1.125rem;
+}
+
+#blockcart-modal .modal-title i.material-icons {
+  color: #fff !important;
+}
+
+#blockcart-modal .product-image {
+  max-width: none !important;
+}
+
+#blockcart-modal .product-name {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+#blockcart-modal .modal-body .divide-right span {
+  display: inline-block;
+  margin-bottom: 0.3125rem;
+}
+
+#blockcart-modal .cart-content p,
+#blockcart-modal .cart-content strong {
+  color: #333 !important;
+  font-size: 14px !important;
+}
+
+#blockcart-modal .cart-content p {
+  font-weight: 400 !important;
+}
+
+#blockcart-modal .divide-right p,
+#blockcart-modal .divide-right strong {
+  color: #333 !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+
+#blockcart-modal .cart-content strong {
+  font-weight: 600 !important;
+}
+
+#blockcart-modal .cart-content .btn {
+  margin-top: 20px;
+  margin-bottom: 0.625rem;
+}
+
+#blockcart-modal .cart-content p {
+  display: block !important;
 }
