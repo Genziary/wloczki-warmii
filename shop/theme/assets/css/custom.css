@@ -1602,6 +1602,14 @@ body#index #footer {
   display: block;
 }
 
+.js-product-miniature .img_block .quick_view:hover {
+  background: #88bb10;
+}
+
+.js-product-miniature .img_block .quick_view:hover a {
+  color: #fff;
+}
+
 .images-container .product-images .owl-nav {
   position: static;
   display: block;
