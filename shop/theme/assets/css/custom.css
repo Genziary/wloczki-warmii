@@ -1,5 +1,6 @@
 body {
   font-size: 13px;
+  line-height: 1.5;
   background: #fff;
 }
 
@@ -1038,8 +1039,6 @@ a.nivo-nextNav::before {
 .on-sale,
 .discount {
   position: absolute;
-  top: 20px !important;
-  left: 20px;
   overflow: hidden;
   height: 25px;
   line-height: 25px;
@@ -1055,6 +1054,14 @@ a.nivo-nextNav::before {
   font-weight: 400 !important;
   text-transform: uppercase !important;
   margin-top: 0 !important;
+}
+
+.js-product-miniature .new,
+.js-product-miniature .pack,
+.js-product-miniature .on-sale,
+.js-product-miniature .discount {
+  top: 20px !important;
+  left: 20px;
 }
 
 .js-product-miniature .img_block .quick_view {
@@ -1957,4 +1964,87 @@ body#index #footer {
 
 #blockcart-modal .cart-content p {
   display: block !important;
+}
+
+/* Cart page */
+.card {
+  box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.125) !important;
+}
+
+.cart-grid-body .card-block {
+  padding: 1rem !important;
+}
+
+.card-block {
+  padding: 1.25rem !important;
+}
+
+.cart-grid-body .card-block h1 {
+  margin-bottom: 0;
+  font-size: 1.375rem !important;
+  font-weight: 700 !important;
+}
+
+.separator {
+  border-color: #e9e9e9;
+}
+
+.product-line-info {
+  margin-bottom: 5px;
+}
+
+.product-line-info a {
+  font-weight: 700 !important;
+}
+
+.product-line-info a:hover {
+  color: initial !important;
+}
+
+.product-price {
+  display: flex;
+  flex-direction: row;
+}
+
+.product-line-info .label {
+  font-weight: 400 !important;
+}
+
+.product-line-grid-right .product-price strong {
+  color: #555;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.cart-summary-line {
+  margin-bottom: 0 !important;
+}
+
+.label {
+  font-size: 0.875rem !important;
+}
+
+.card-block.cart-summary-totals .cart-summary-line.cart-total {
+  padding: 0 !important;
+  border: none;
+}
+
+.card-block.cart-summary-totals .cart-summary-line.cart-total .label,
+.card-block.cart-summary-totals .cart-summary-line.cart-total .value {
+  font-weight: 400 !important;
+  font-size: 0.875rem !important;
+}
+
+.card-block.cart-summary-totals {
+  border-top: 1px solid #e9e9e9;
+  border-bottom: 1px solid #e9e9e9;
+}
+
+.card-block.checkout .btn-primary {
+  width: auto !important;
+}
+
+.cart-grid-body a.label:hover {
+  color: initial !important;
 }
