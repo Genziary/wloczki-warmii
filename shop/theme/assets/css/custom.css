@@ -2048,3 +2048,62 @@ body#index #footer {
 .cart-grid-body a.label:hover {
   color: initial !important;
 }
+
+/* Breadcrumb */
+.breadcrumb_container {
+  overflow: hidden;
+  font-size: 14px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.breadcrumb {
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  list-style: none;
+  background-color: #f6f6f6;
+  border-radius: 0;
+}
+
+.breadcrumb_container .breadcrumb {
+  border: 0;
+  padding: 5px 0 8px !important;
+  background: none;
+  margin-bottom: 0;
+}
+
+.breadcrumb_container .breadcrumb ol {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.breadcrumb_container .breadcrumb ol li {
+  display: inline;
+}
+
+.breadcrumb_container .breadcrumb ol li a {
+  display: inline-block;
+  position: relative;
+  color: #333;
+  line-height: 25px;
+}
+
+.breadcrumb_container .breadcrumb ol li::after {
+  content: ">";
+  color: #333;
+  margin: 0.3125em;
+  font-size: 12px;
+}
+
+.breadcrumb_container .breadcrumb ol li:last-child::after {
+  content: "";
+}
+
+.breadcrumb_container .breadcrumb ol li:last-child a,
+.breadcrumb_container .breadcrumb ol li:last-child span {
+  color: #88bb10;
+}
+
+.breadcrumb_container .breadcrumb[data-depth="1"] {
+  display: none;
+}
