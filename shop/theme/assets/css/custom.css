@@ -1256,7 +1256,7 @@ a.nivo-nextNav::before {
   border-color: #88bb10;
 }
 
-/* Footer  */
+/* Footer */
 body#index #footer {
   padding-top: 0 !important;
   margin-top: 0;
@@ -1264,11 +1264,15 @@ body#index #footer {
 
 #footer {
   padding-top: 0 !important;
+  margin-top: 50px;
   background: #efefef;
 }
 
+.page-index #footer {
+  margin-top: 0;
+}
+
 #footer .footer-container {
-  margin: 0;
   padding: 0;
   box-shadow: none;
 }
@@ -2106,4 +2110,21 @@ body#index #footer {
 
 .breadcrumb_container .breadcrumb[data-depth="1"] {
   display: none;
+}
+
+/* CMS Pages */
+#wrapper {
+  margin: 0;
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
+}
+
+#main .page-content,
+#main .page-header {
+  width: 100%;
+}
+
+.page-content.page-cms {
+  padding: 0;
 }
