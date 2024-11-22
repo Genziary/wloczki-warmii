@@ -2104,7 +2104,8 @@ body#index #footer {
 }
 
 .breadcrumb_container .breadcrumb ol li:last-child a,
-.breadcrumb_container .breadcrumb ol li:last-child span {
+.breadcrumb_container .breadcrumb ol li:last-child span,
+.breadcrumb_container .breadcrumb ol li a:hover {
   color: #88bb10;
 }
 
