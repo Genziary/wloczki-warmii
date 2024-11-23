@@ -17,6 +17,7 @@ class DataLoader:
         self.features_map = {}
         self.results_number = results_number
         self.base_weight_price = 999
+        self.error_counter = 0
         self.find_base_weight()
         self.load_category("Włóczki", 2)
 
@@ -80,6 +81,7 @@ class DataLoader:
 
             self.category_map[cat_name] = cat_id
         else:
+            self.error_counter += 1
             print(f"Błąd dodawania kategorii: {response.status_code} - {response.text}")
 
         print("\n", end="")
@@ -187,6 +189,7 @@ class DataLoader:
             self.apply_combination(product_dict, attrib_name, prod_id)
             self.simulate_stock(prod_id)
         else:
+            self.error_counter += 1
             print(f"Błąd dodawania produktu: {response.status_code} - {response.text}")
 
     def simulate_stock(self, prod_id):
@@ -199,6 +202,7 @@ class DataLoader:
 
             print(f"Stocki zczytane {ids}")
         else:
+            self.error_counter += 1
             print("Failed wartosc stock:", response.status_code, response.text)
             return
 
@@ -227,6 +231,7 @@ class DataLoader:
 
                 print(f"Dla stock {stock_id} dodano {amount} w magazynie")
             else:
+                self.error_counter += 1
                 print("Failed wartosc stock:", response.status_code, response.text)
 
     def load_images(self, scrapped_id, product_id):
@@ -243,6 +248,7 @@ class DataLoader:
         if response.status_code == 200:
             print(f"Image uploaded successfully: {scrapped_id}_0")
         else:
+            self.error_counter += 1
             print("Failed to upload image:", response.status_code, response.text)
 
         try:
@@ -260,6 +266,7 @@ class DataLoader:
         if response.status_code == 200:
             print(f"Image uploaded successfully: {scrapped_id}_1")
         else:
+            self.error_counter += 1
             print("Failed to upload image:", response.status_code, response.text)
 
     def apply_combination(self, product_dict, attrib_name, product_id):
@@ -299,6 +306,7 @@ class DataLoader:
 
                     print(f"Kombinacje atrybutu {attrib_name} dodano do produktu {product_id}")
                 else:
+                    self.error_counter += 1
                     print("Failed wartosc atrybutu:", response.status_code, response.text)
 
         elif attrib_name == "Długość":
@@ -344,6 +352,7 @@ class DataLoader:
 
                         print(f"Kombinacje atrybutu {attrib_name} dodano do produktu {product_id}")
                     else:
+                        self.error_counter += 1
                         print("Failed wartosc atrybutu:", response.status_code, response.text)
 
     def add_traits(self, prices, attrib_name):
@@ -376,6 +385,7 @@ class DataLoader:
                     print(f"ID atrybutu: {atrib_id}")
                     self.atribbs_map["Waga"][weight]["id"] = atrib_id
                 else:
+                    self.error_counter += 1
                     print("Failed wartosc atrybutu:", response.status_code, response.text)
 
         elif attrib_name == "Długość":
@@ -413,6 +423,7 @@ class DataLoader:
                     print(f"ID atrybutu: {atrib_id}")
                     self.atribbs_map["Długość"][key]["id"] = atrib_id
                 else:
+                    self.error_counter += 1
                     print("Failed wartosc atrybutu:", response.status_code, response.text)
 
             for dowija in dowijka:
@@ -445,6 +456,7 @@ class DataLoader:
                     print(f"ID atrybutu: {atrib_id}")
                     self.atribbs_map["Dowijka Zewnętrznego Koloru"][key]["id"] = atrib_id
                 else:
+                    self.error_counter += 1
                     print("Failed wartosc atrybutu:", response.status_code, response.text)
 
         elif attrib_name == "Dowijka Zewnętrznego Koloru":
@@ -484,6 +496,7 @@ class DataLoader:
             self.atribbs_map[attrib_name]["id"] = atrib_id
             self.add_traits(prices, attrib_name)
         else:
+            self.error_counter += 1
             print("Failed to upload image:", response.status_code, response.text)
 
     def add_features(self, product_dict):
@@ -516,6 +529,7 @@ class DataLoader:
                 self.features_map[feature]["values"] = {}
                 self.add_feature_value(value, feature)
             else:
+                self.error_counter += 1
                 print("Failed to upload feature:", response.status_code, response.text)
 
     def add_feature_value(self, value, feature):
@@ -544,6 +558,7 @@ class DataLoader:
             self.features_map[feature]["values"][value] = feature_value_id 
 
         else:
+            self.error_counter += 1
             print("Failed to upload feature value:", response.status_code, response.text)
 
     def make_request(self, method, route, xml):
@@ -575,8 +590,9 @@ class DataLoader:
 if __name__ == "__main__":
     api_url = "http://localhost:8000/api/"
     api_key = os.getenv("api_key")
-    RESULTS_PAGES = 1 #21
+    RESULTS_PAGES = 21
     dloader = DataLoader(api_url, api_key, RESULTS_PAGES)
     dloader.start()
     print(dloader.atribbs_map)
     print(dloader.features_map)
+    print("Prestashop responses' errors:", dloader.error_counter)
