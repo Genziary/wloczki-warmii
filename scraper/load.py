@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import json
 from dotenv import load_dotenv
 import os
+import random
 
 load_dotenv()
 
@@ -184,8 +185,49 @@ class DataLoader:
             print(f"ID produktu: {prod_id}")
             self.load_images(product_dict["product_id"], prod_id)
             self.apply_combination(product_dict, attrib_name, prod_id)
+            self.simulate_stock(prod_id)
         else:
             print(f"Błąd dodawania produktu: {response.status_code} - {response.text}")
+
+    def simulate_stock(self, prod_id):
+        response = self.make_request("GET", f"stock_availables?filter[id_product]={prod_id}&display=full", None)
+
+        if response.status_code == 200:
+            response_xml = ET.fromstring(response.text)
+            ids = [id_elem.text for id_elem in response_xml.findall('.//stock_available/id')]
+            product_attribute_ids = [id_elem.text for id_elem in response_xml.findall('.//stock_available/id_product_attribute')]
+
+            print(f"Stocki zczytane {ids}")
+        else:
+            print("Failed wartosc stock:", response.status_code, response.text)
+            return
+
+        for stock_id, product_attribute_id in zip(ids, product_attribute_ids):
+            amount = random.randint(0, 10)
+            stock_xml = f"""<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+                <stock_available>
+                    <id><![CDATA[{stock_id}]]></id>
+                    <id_product><![CDATA[{prod_id}]]></id_product>
+                    <id_product_attribute><![CDATA[{product_attribute_id}]]></id_product_attribute>
+                    <id_shop><![CDATA[1]]></id_shop>
+                    <id_shop_group><![CDATA[0]]></id_shop_group>
+                    <quantity><![CDATA[{amount}]]></quantity>
+                    <depends_on_stock><![CDATA[0]]></depends_on_stock>
+                    <out_of_stock><![CDATA[2]]></out_of_stock>
+                    <location><![CDATA[]]></location>
+                </stock_available>
+                </prestashop>
+            """
+
+            response = self.make_request("PUT", f"stock_availables/{stock_id}", stock_xml) #s
+
+            if response.status_code == 200:
+                response_xml = ET.fromstring(response.text)
+                stock_id = response_xml.find('.//id').text
+
+                print(f"Dla stock {stock_id} dodano {amount} w magazynie")
+            else:
+                print("Failed wartosc stock:", response.status_code, response.text)
 
     def load_images(self, scrapped_id, product_id):
 
@@ -513,6 +555,20 @@ class DataLoader:
                     headers={'Content-Type': 'application/xml'},
                     auth=(self.api_key, '')
                 )
+        if method == "GET":
+            response = requests.get(
+                    self.api_url + route,
+                    auth=(self.api_key, '')
+                )
+
+        if method == "PUT":
+            response = requests.put(
+                    self.api_url + route,
+                    data=xml.encode('utf-8'),
+                    headers={'Content-Type': 'application/xml'},
+                    auth=(self.api_key, '')
+                )
+
         return response
 
 
