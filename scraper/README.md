@@ -17,9 +17,11 @@ pip install -r requirements.txt
 
 4. In admin panel in advanced settings generate api key with product related permissions
 
-5. Fill the .env file with apik key 
+5. Fill the .env file with credentials, debug mode loads only one page of products
 ```
-api_key=<api_key>
+API_KEY=<api-key>
+API_URL=<api-url>
+DEBUG=True
 ```
 
 6. Run prestashop in debugging mode

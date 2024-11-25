@@ -9,13 +9,14 @@ load_dotenv()
 
 
 class DataLoader:
-    def __init__(self, api_url, api_key, results_number) -> None:
+    def __init__(self, api_url, api_key, debug=False) -> None:
         self.api_url = api_url
         self.api_key = api_key
+        self.DEBUG = debug
+        self.results_number = self.count_files_in_dir("results")
         self.category_map = {}
         self.atribbs_map = {}
         self.features_map = {}
-        self.results_number = results_number
         self.base_weight_price = 999
         self.error_counter = 0
         self.find_base_weight()
@@ -23,10 +24,26 @@ class DataLoader:
 
     def start(self):
         self.find_base_weight()
-        for i in range(1, self.results_number+1):
-            with open(f'results/products_{i}.json', 'r', encoding='utf-8') as file:
+        if self.DEBUG:
+            with open(f'results/products_1.json', 'r', encoding='utf-8') as file:
                 data = json.load(file)
                 self.handle_json(data)
+        else:
+            for i in range(1, self.results_number+1):
+                with open(f'results/products_{i}.json', 'r', encoding='utf-8') as file:
+                    data = json.load(file)
+                    self.handle_json(data)
+
+    def count_files_in_dir(self, directory_path):
+        try:
+            file_count = sum(1 for entry in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, entry)))
+            return file_count
+        except FileNotFoundError:
+            print(f"Folder {directory_path} nie istnieje.")
+            return 0
+        except Exception as e:
+            print(f"Error: {e}")
+            return 0
 
     def handle_json(self, data):
         for product in data:
@@ -44,11 +61,10 @@ class DataLoader:
                     if weights:
                         min_weight_price = min(prices["netto"])
                         self.base_weight_price = min(min_weight_price, self.base_weight_price)
-              
+
     def load_category(self, cat_name, parent_id):
         if cat_name in self.category_map:
-            print("Kategoria już jest obecna")
-            print("\n", end="")
+            print("Kategoria już jest obecna \n")
             return
 
         request_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -84,7 +100,7 @@ class DataLoader:
             self.error_counter += 1
             print(f"Błąd dodawania kategorii: {response.status_code} - {response.text}")
 
-        print("\n", end="")
+        print(40*"-")
 
     def load_categories(self, categories_tree):
         parent = self.category_map["Włóczki"]
@@ -276,9 +292,7 @@ class DataLoader:
             weights = prices["weights"]
             for index, weight in enumerate(weights):
                 price = round(prices["netto"][index] - self.base_weight_price, 2)
-                print("priiiiice", price)
-                #<ean13><![CDATA[1234567890123]]></ean13>
-                #<mpn><![CDATA[123456]]></mpn>
+                print("Impact price: ", price)
                 combination_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
                 <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
                     <combination>
@@ -315,9 +329,7 @@ class DataLoader:
             for dlugosc, dowijki in variants.items():
                 for dowijka, ceny in dowijki.items():
                     price = round(ceny["netto"] - self.base_weight_price, 2)
-                    print("priiiiice", price)
-                    #<ean13><![CDATA[1234567890123]]></ean13>
-                    #<mpn><![CDATA[123456]]></mpn>
+                    print("Impact price: ", price)
                     atrybut_dowijki = dowijka
                     if dowijka == "null":
                         atrybut_dowijki = "Wybierz"
@@ -588,10 +600,10 @@ class DataLoader:
 
 
 if __name__ == "__main__":
-    api_url = "http://localhost:8000/api/"
-    api_key = os.getenv("api_key")
-    RESULTS_PAGES = 21
-    dloader = DataLoader(api_url, api_key, RESULTS_PAGES)
+    api_url = os.getenv("API_URL")
+    api_key = os.getenv("API_KEY")
+    debug = os.getenv("DEBUG")
+    dloader = DataLoader(api_url, api_key, debug)
     dloader.start()
     print(dloader.atribbs_map)
     print(dloader.features_map)
