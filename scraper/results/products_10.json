@@ -1,0 +1,2291 @@
+[
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Szkarłatny ognik"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 2660,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"></span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: czereśniowa czerwień, bordo, ciemny braz, świerkowa zieleń, melanzowy granat + dodatkowa wiskozowo-lureksowa pomarańczowa nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + pomarańczowa nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "340 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Słodkie pianki"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 2205,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: fuksja, koral, morelowy, melon, jasny beż + dodatkowa lurexowo-wiskozowa opalizująca koralowa nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + opalizująca koralowa wiskozowa nitka  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 3 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "380 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-poliestrowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Ukiel o świcie"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 2052,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: blady róż, jasny róż, liliowy, gołębi, lodowy błękit, niebieski + dodatkowa szaro srebrna bawełniana nić z lureksem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + biało - srebrna nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "340 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Wakacyjna przygoda"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1902,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p style=\"margin-top:0px;margin-bottom:1rem;font-size:14px;line-height:25px;background-color:#ffffff;font-family:'Libre Franklin';\"><span style=\"line-height:25px;font-family:'open sans';\">Kolory w motku: żółty, miodowy, khaki, petrol i cyjan + dodatkowa opalizująca wiskozowo-lureksowa fioletowo-złota nić</span></p>\n<p style=\"margin-top:0px;margin-bottom:1rem;font-size:14px;line-height:25px;background-color:#ffffff;font-family:'Libre Franklin';\"><span style=\"line-height:25px;\"><span style=\"line-height:25px;font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + złoto-fioletowa nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "340 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Winobluszcz"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3448,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: czerwień, bordo, burgund, ciemny brąz, khaki, ciemna zieleń  + dodatkowa bordowa nitka z czerwonym lurexem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + bordowa wiskozowa nić z czerwonym lurexem  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "380 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-poliestrowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Wiosenny wietrzyk"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 115.0,
+                        "netto": 93.5
+                    }
+                }
+            }
+        },
+        "product_id": 1565,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: jasnozielony, pistacja, mięta, jasnoniebieski, fiołkowy + dodatkowa wiskozowo-lureksowa miętowo-złota nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + liliowo-złota nitka wiskozowo-lurexowa  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "360 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Wrześniowe wrzosy"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3447,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: kiwi, khaki, orzechowy brąz, karmel, dymny wrzos, fiolet  + dodatkowa karmelowa nitka ze złotym lurexem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + karmelowa wiskozowa nić ze złotym lurexem  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "380 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-poliestrowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Wrzosowe kobierce"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3445,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: lniany, taupe, khaki, burgund, purpura  + dodatkowa opalizująca grafitowa nitka<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + grafitowa opalizująca wiskozowa nić  |    Waga motka: 330g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "380 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-poliestrowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Wyspa Herta"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 1624,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: ciemna zieleń, szmaragd, patyna, oliwka, taupe + dodatkowa perłowo-zielona nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + perłowo-beżowa nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "340 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Zefir"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 105.0,
+                        "netto": 85.37
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 113.0,
+                        "netto": 91.87
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 128.0,
+                        "netto": 104.07
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 140.0,
+                        "netto": 113.82
+                    }
+                }
+            }
+        },
+        "product_id": 2202,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p style=\"margin-top:0px;margin-bottom:1rem;font-size:14px;line-height:25px;background-color:#ffffff;font-family:'Libre Franklin';\"><span style=\"line-height:25px;font-family:'open sans';\">Kolory w motku: ulramaryna, błękitny, jasnoniebieski, jasny róż, melon, pomarańcz + dodatkowa opalizująca wiskozowo-lureksowa morelowa nić</span></p>\n<p style=\"margin-top:0px;margin-bottom:1rem;font-size:14px;line-height:25px;background-color:#ffffff;font-family:'Libre Franklin';\"><span style=\"line-height:25px;\"><span style=\"line-height:25px;font-family:'open sans';\">Skład: 50% bawełna, 50% akryl +morelowa nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "380 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-poliestrowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE -  Z wizytą w palmiarni"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3402,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: fuksja, purpura, oberżyna, fiolet, liliowy, cyjan, szmaragdowa zieleń   + dodatkowa czarna nitka z czarnym lurexem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + czarna nić z czarnym lurexem  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "380 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-poliestrowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - korzenna herbata"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1836,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>DELUXE</strong> to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 375m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p style=\"text-align:justify;\"><span style=\"color:#ff0000;\"><strong><span style=\"font-family:'open sans';\">CZAS REALIZACJI DO 5 DNI ROBOCZYCH!</span></strong></span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: maślany, żółty, pomarańcz, brandy, burgund, brąz + złota nitka z lurexem</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl   |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "360 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + złota wiskozowo|poliestrowa nić",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE",
+            "COTTONMIX CAKE SHINE - Śliwowica"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3449,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: różowy, purpura, burgund, fiolet, melanżowy granat  + dodatkowa purpurowa nitka z różowym lurexem<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + purpurowa wiskozowa nić z różowym lurexem  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "380 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-poliestrowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SHINE - Śnieżyczkowy jar"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                }
+            }
+        },
+        "product_id": 1559,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: biały, pistacja, mięta, patyna + dodatkowa wiskozowo-lureksowa szmaragdowa nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + szmaragdowa nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "340 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE SHINE - Żonkile i krokusy"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 1903,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SHINE </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z dwóch nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku cieniowanej błyszczącej nitki wiskozowo-poliestrowejw ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p style=\"margin-top:0px;margin-bottom:1rem;font-size:14px;line-height:25px;background-color:#ffffff;font-family:'Libre Franklin';\"><span style=\"line-height:25px;font-family:'open sans';\">Kolory w motku: fiolet, dymny wrzos, taupe, miodowy, żółty + dodatkowa opalizująca wiskozowo-lureksowa fioletowo-złota nić</span></p>\n<p style=\"margin-top:0px;margin-bottom:1rem;font-size:14px;line-height:25px;background-color:#ffffff;font-family:'Libre Franklin';\"><span style=\"line-height:25px;\"><span style=\"line-height:25px;font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + złoto-fioletowa nitka wiskozowo-lurexowa  |    Waga motka: 340g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "380 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-poliestrowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SUMMER",
+            "COTTONMIX CAKE SUMMER - Cyprysy Van Gogha"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3175,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SUMMER </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku  ozdobnej bawełnianej lub bawełniano-mieszanej nitki, w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: pomarańczowy, żółty, jasnożółty, jasnoniebieski, niebieski, granat + dodatkowa bawełniano mieszana biało-niebieska nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + biało-niebieska bawełniano mieszana nitka  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "360 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SUMMER",
+            "COTTONMIX CAKE SUMMER - Deszczowy dzień"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 2771,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> S<strong>UMMER </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku ozdobnej bawełnianej lub bawełniano-mieszanej nitki w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: mięta, patyna, morski, denim, melanżowy granat + dodatkowa bawełniana granatowo-niebieska nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + granatowo-niebieska bawełniana melanżowa nitka  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "360 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SUMMER",
+            "COTTONMIX CAKE SUMMER - Piaski Sahary"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1000": {
+                    "null": {
+                        "brutto": 58.0,
+                        "netto": 47.15
+                    },
+                    "250": {
+                        "brutto": 72.0,
+                        "netto": 58.54
+                    },
+                    "350": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "500": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    }
+                },
+                "1200": {
+                    "null": {
+                        "brutto": 69.0,
+                        "netto": 56.1
+                    },
+                    "250": {
+                        "brutto": 84.0,
+                        "netto": 68.29
+                    },
+                    "350": {
+                        "brutto": 90.0,
+                        "netto": 73.17
+                    },
+                    "500": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    }
+                },
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    },
+                    "350": {
+                        "brutto": 98.0,
+                        "netto": 79.67
+                    },
+                    "500": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "350": {
+                        "brutto": 107.0,
+                        "netto": 86.99
+                    },
+                    "500": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "350": {
+                        "brutto": 122.0,
+                        "netto": 99.19
+                    },
+                    "500": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    }
+                },
+                "2000": {
+                    "null": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    },
+                    "250": {
+                        "brutto": 130.0,
+                        "netto": 105.69
+                    },
+                    "350": {
+                        "brutto": 136.0,
+                        "netto": 110.57
+                    },
+                    "500": {
+                        "brutto": 145.0,
+                        "netto": 117.89
+                    }
+                }
+            }
+        },
+        "product_id": 3330,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SUMMER </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku błyszczącej nitki wiskozowo-lurexowej w ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: kremowy, beżowy, brunatny brąz + dodatkowa melanżowa  kremowo brązowa nić z farfocelkami<br/></span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + melanżowa kremowo-brązowa nitka  |    Waga motka: 360g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "340 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka wiskozowo-lurexowa",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "COTTONMIX CAKE",
+            "COTTONMIX CAKE SUMMER",
+            "COTTONMIX CAKE SUMMER - Rajska plaża"
+        ],
+        "index": "Indeks: cottonmix cake",
+        "prices": {
+            "brutto": [],
+            "netto": [],
+            "weights": [],
+            "variants": {
+                "1350": {
+                    "null": {
+                        "brutto": 78.0,
+                        "netto": 63.41
+                    },
+                    "250": {
+                        "brutto": 93.0,
+                        "netto": 75.61
+                    }
+                },
+                "1500": {
+                    "null": {
+                        "brutto": 87.0,
+                        "netto": 70.73
+                    },
+                    "250": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    }
+                },
+                "1750": {
+                    "null": {
+                        "brutto": 101.0,
+                        "netto": 82.11
+                    },
+                    "250": {
+                        "brutto": 116.0,
+                        "netto": 94.31
+                    }
+                }
+            }
+        },
+        "product_id": 1641,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-family:'open sans';\"><strong>COTTONMIX</strong> <strong>CAKE</strong> <strong>SUMMER </strong>to włóczka przeznaczona na druty lub szydełko w formie smakowitego torciku z płynnymi przejściami kolorów. Motki są nawijane ręcznie, z trzech nitek bawełniano-akrylowej przędzy (50% bawełna, 50% akryl) i dodatku melanżowej lniano-bawełnianej nitki (65 i 35%) ten sposób, aby tworzyć dzianinę o subtelnym, cieniowanym efekcie ombre. W miejscu dołączenia kolejnego koloru jest węzełek. Przędza, z której wykonujemy torciki jest miękka i miła w dotyku, została wyprodukowana w Niemczech i posiada certyfikat OEX-TEX Standard 1000.<span style=\"font-size:12px;\"> </span>Przykładowa waga 100g zawiera ok. 500m nitki. Z jednego motka 1000m - można wykonać średnią chustę, z 1200m dużą, a z 1500m letnią bluzeczkę lub sukienkę. </span></p>\n<p><span style=\"font-family:'open sans';\">Producent zaleca pranie do 30 stopni C.</span></p>\n<p><span style=\"font-family:'open sans';\">Kolory w motku: koniak, morela, beż, jasnoniebieski, niebieski, lazur  + dodatkowa niebiesko - białą bawełniana nić</span></p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 50% bawełna, 50% akryl + niebiesko-biała  nitka bawełniana   |    Waga motka: 350g   |   Długość nitki w motku: 1500m  |   Ilość nitek: 4 ply</span></span></p>\n<p> </p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "2,5-3 mm",
+            "METRAŻ:": "1500 m",
+            "WAGA:": "340 g",
+            "SKŁAD:": "50% bawełna, 50% akryl + nitka lniano-bawełniana (65%, 35%)",
+            "PIELĘGNACJA:": "Prać w temp. do 30°C / Suszyć rozłożone na płasko"
+        }
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 210 - jutrzenka"
+        ],
+        "index": "Indeks: 210",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1236,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>FANTARIAL </strong>to cieniwana, wielokolorowa włóczka o składzie 100% wełna merino extrafine. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni: ciepłego różu, lawendy, błękitu, mięty i niebieskiego. Włóczka ma długie przejścia koloru, delikatne przecierki i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Doskonała dla dzieci. Włóczka produkcji włoskiej. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino extrafine  |   Waga motka: 50 g   |    Długość nitki w motku: 125</span></span><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\"> m</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "3,5 - 4 mm",
+            "METRAŻ:": "125 m",
+            "WAGA:": "50 g",
+            "SKŁAD:": "100% wełna merino extrafine",
+            "PIELĘGNACJA:": "Prać ręcznie   / Suszyć rozłożone na płasko / Pranie w pralce w programie do wełny"
+        }
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 211 - zorza polarna"
+        ],
+        "index": "Indeks: 211",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1237,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>FANTARIAL </strong>to cieniwana, wielokolorowa włóczka o składzie 100% wełna merino extrafine. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni: chłodnego różu, lawendy, mięty i seledynu. Włóczka ma długie przejścia koloru, delikatne przecierki i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Doskonała dla dzieci. Włóczka produkcji włoskiej. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino extrafine  |   Waga motka: 50 g   |    Długość nitki w motku: 125</span></span><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\"> m</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "3,5 - 4 mm",
+            "METRAŻ:": "125 m",
+            "WAGA:": "50 g",
+            "SKŁAD:": "100% wełna merino extrafine",
+            "PIELĘGNACJA:": "Prać ręcznie   / Suszyć rozłożone na płasko / Pranie w pralce w programie do wełny"
+        }
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 212 - owoce leśne"
+        ],
+        "index": "Indeks: 212",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1238,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>FANTARIAL </strong>to cieniwana, wielokolorowa włóczka o składzie 100% wełna merino extrafine. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni: amarantu, fuksji, karminu, koralowej czerwieni, lawendy i fioletu. Włóczka ma długie przejścia koloru, delikatne przecierki i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Doskonała dla dzieci. Włóczka produkcji włoskiej. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino extrafine  |   Waga motka: 50 g   |    Długość nitki w motku: 125</span></span><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\"> m</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "3,5 - 4 mm",
+            "METRAŻ:": "125 m",
+            "WAGA:": "50 g",
+            "SKŁAD:": "100% wełna merino extrafine",
+            "PIELĘGNACJA:": "Prać ręcznie   / Suszyć rozłożone na płasko / Pranie w pralce w programie do wełny"
+        }
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 213 - słoneczne cytrusy"
+        ],
+        "index": "Indeks: 213",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1239,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>FANTARIAL </strong>to cieniwana, wielokolorowa włóczka o składzie 100% wełna merino extrafine. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni: pomarańczu, słonecznej żółci, cytrynowej i limonki. Włóczka ma długie przejścia koloru, delikatne przecierki i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Doskonała dla dzieci. Włóczka produkcji włoskiej. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino extrafine  |   Waga motka: 50 g   |    Długość nitki w motku: 125</span></span><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\"> m</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "3,5 - 4 mm",
+            "METRAŻ:": "125 m",
+            "WAGA:": "50 g",
+            "SKŁAD:": "100% wełna merino extrafine",
+            "PIELĘGNACJA:": "Prać ręcznie   / Suszyć rozłożone na płasko / Pranie w pralce w programie do wełny"
+        }
+    },
+    {
+        "categories_tree": [
+            "WEŁNA 100%",
+            "FANTARIAL",
+            "FANTARIAL 214 - pawie pióra"
+        ],
+        "index": "Indeks: 214",
+        "prices": {
+            "brutto": [
+                17.0
+            ],
+            "netto": [
+                13.82
+            ],
+            "weights": [],
+            "variants": {}
+        },
+        "product_id": 1219,
+        "description": "<div class=\"product-description\"><p style=\"text-align:justify;\"><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\"><strong>FANTARIAL </strong>to cieniwana, wielokolorowa włóczka o składzie 100% wełna merino extrafine. W gotowym wyrobie kolory układają się w pasma delikatnie przenikających odcieni: fioletu, granatu, ultramaryny, szmaragdu i petrolu. Włóczka ma długie przejścia koloru, delikatne przecierki i może zastąpić łotewskie czy estońskie wełny osobom wrażliwym na \"gryzienie\". Włóczka jest niezwykle miła, miękka i sprężysta w dotyku. Nadaje się na wszelkie całoroczne wyroby, swetry, tuniki, sukienki i ciepłe akcesoria takie jak czapki, szaliki, kominy, rękawiczki. Doskonała dla dzieci. Włóczka produkcji włoskiej. </span></span></p>\n<p><span style=\"font-size:16px;\"><span style=\"font-family:'open sans';\">Producent zaleca pranie ręczne wtem do 30 stopni. Dopuszczalne pranie w pralce w temp. do 30 stopni Celsjusza przy użyciu specjalnego programu do prania wełny.</span></span></p>\n<p> </p>\n<p><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\">Skład: 100% wełna merino extrafine  |   Waga motka: 50 g   |    Długość nitki w motku: 125</span></span><span style=\"font-size:14px;\"><span style=\"font-family:'open sans';\"> m</span></span></p></div>",
+        "features": {
+            "ROZMIAR DRUTÓW:": "3,5 - 4 mm",
+            "METRAŻ:": "125 m",
+            "WAGA:": "50 g",
+            "SKŁAD:": "100% wełna merino extrafine",
+            "PIELĘGNACJA:": "Prać ręcznie   / Suszyć rozłożone na płasko / Pranie w pralce w programie do wełny"
+        }
+    }
+]
