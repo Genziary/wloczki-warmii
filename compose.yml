@@ -8,13 +8,14 @@ services:
       - ./shop/theme:/var/www/html/themes/child_classic
     ports:
       - 8000:80
+      - 8443:443
     environment:
       PS_INSTALL_AUTO: 1
       DB_USER: ${DB_USER:-wloczki-user}
       DB_PASSWD: ${DB_PASSWD:-wloczki-password}
       DB_NAME: ${DB_NAME:-wloczki-warmii}
       DB_SERVER: db
-      PS_DOMAIN: ${PS_DOMAIN:-localhost:8000}
+      PS_DOMAIN: ${PS_DOMAIN:-localhost:8443}
       PS_FOLDER_INSTALL: install-dev
       PS_FOLDER_ADMIN: admin-dev
       PS_COUNTRY: PL
