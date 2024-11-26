@@ -23,14 +23,6 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
 <div id="quickview-modal-{$product.id}-{$product.id_product_attribute}" class="modal fade quickview" tabindex="-1" role="dialog" aria-hidden="true">
-  <script>
-    $(".owl-carousel").owlCarousel({
-        nav: true,
-        dots: false,
-        items: 1
-      });
-  </script>
-
   <div class="modal-dialog" role="document">
    <div class="modal-content">
      <div class="modal-header">
@@ -51,21 +43,6 @@
         </div>
         <div class="col-md-7 col-sm-7">
           <h1 class="h1 namne_details">{$product.name}</h1>
-          <div class="product-quantities">
-            <label class="label">
-              <strong>{l s='In stock' d='Shop.Theme.Catalog'}:</strong>
-            </label>
-            <span>
-              {l
-              s='%count% items'
-              sprintf=[
-              '%count%' => $product.quantity
-              ]
-              d='Shop.Theme.Checkout'
-              }
-            </span>
-
-          </div>
           {block name='product_prices'}
             {include file='catalog/_partials/product-prices.tpl'}
           {/block}

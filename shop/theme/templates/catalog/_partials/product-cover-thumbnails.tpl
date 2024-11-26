@@ -92,3 +92,68 @@
 
 {hook h='displayAfterProductThumbs' product=$product}
 </div>
+<script type="module">
+  var owl = $("#product .images-container .product-images");
+  if(owl) {
+    owl.owlCarousel({
+      loop: true,
+      animateOut: 'fadeOut',
+      animateIn: 'fadeIn',
+      autoPlay : false ,
+      smartSpeed: 1000,
+      autoplayHoverPause: true,
+      nav: true,
+      dots : false,	
+      responsive:{
+        0:{
+          items:1,
+        },
+        480:{
+          items:1,
+        },
+        768:{
+          items:1,
+          nav:false,
+        },
+        992:{
+          items:1,
+        },
+        1200:{
+          items:1,
+        }
+      }
+    }); 
+  }
+
+  var owl = $(".quickview .images-container .product-images");
+  if(owl) {
+    owl.owlCarousel({
+      loop: true,
+      animateOut: 'fadeOut',
+      animateIn: 'fadeIn',
+      autoPlay : false ,
+      smartSpeed: 1000,
+      autoplayHoverPause: true,
+      nav: true,
+      dots : false,	
+      responsive:{
+        0:{
+          items:1,
+        },
+        480:{
+          items:1,
+        },
+        768:{
+          items:1,
+          nav:false,
+        },
+        992:{
+          items:1,
+        },
+        1200:{
+          items:1,
+        }
+      }
+    }); 
+  }
+</script>
