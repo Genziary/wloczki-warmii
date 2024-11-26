@@ -69,12 +69,6 @@
                           type="checkbox"
                           {if $filter.active }checked{/if}
                         >
-                        {if isset($filter.properties.color)}
-                          <span class="color" style="background-color:{$filter.properties.color}"></span>
-                        {elseif isset($filter.properties.texture)}
-                          <span class="color texture" style="background-image:url({$filter.properties.texture})"></span>
-                        {else}
-                        {/if}
                       </span>
                     {else}
                       <span>
