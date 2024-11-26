@@ -1611,6 +1611,19 @@ body#index #footer {
   position: relative;
 }
 
+.thumb-container img {
+	width: 100%;
+	height: auto;
+	cursor: pointer;
+	border: 3px solid transparent;
+	margin: 0 0 10px;
+	-webkit-transition: all 300ms ease-in;
+	-moz-transition: all 300ms ease-in;
+	-ms-transition: all 300ms ease-in;
+	-o-transition: all 300ms ease-in;
+	transition: all 300ms ease-in;
+}
+
 .thumb-container img.selected,
 .thumb-container img:hover {
   border-color: #dbdbdb;
@@ -1619,6 +1632,19 @@ body#index #footer {
   -ms-transition: all 300ms ease-in;
   -o-transition: all 300ms ease-in;
   transition: all 300ms ease-in;
+}
+
+.thumb-container img.selected, .thumb-container img:hover {
+	border-color: #dbdbdb;
+	-webkit-transition: all 300ms ease-in;
+	-moz-transition: all 300ms ease-in;
+	-ms-transition: all 300ms ease-in;
+	-o-transition: all 300ms ease-in;
+	transition: all 300ms ease-in;
+}
+
+.images-container .product-images .owl-item {
+	padding: 0 5px;
 }
 
 .product-cover {
@@ -2205,4 +2231,18 @@ body#index #footer {
 	font-size: 14px;
 	color: #000;
 	line-height: 25px;
+}
+
+.product-cover .layer .zoom-in {
+	font-size: 50px;
+	color: #88bb10;
+}
+
+.product-cover .layer {
+	background: transparent;
+	-webkit-transition: all 300ms ease-in;
+	-moz-transition: all 300ms ease-in;
+	-ms-transition: all 300ms ease-in;
+	-o-transition: all 300ms ease-in;
+	transition: all 300ms ease-in;
 }

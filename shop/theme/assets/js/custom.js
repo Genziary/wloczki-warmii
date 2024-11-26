@@ -51,3 +51,17 @@ $(document).ready(() => {
     },
   });
 });
+
+$(document).ready(function(){
+    $('#home-page-tabs li:first, #index .tab-content .tab-pane:first').addClass('active in');
+    
+    $('.thumb-container .thumb').click(function(){
+    	let zdjecie=$(this).attr('data-image-medium-src');
+    	$('.js-qv-product-cover').attr('src',zdjecie);
+    	$('.thumb-container .thumb').removeClass('selected');
+    	$(this).addClass('selected');
+    	
+    });
+    
+    $('.tabs .nav-tabs .nav-item:nth-child(1) .nav-link').trigger('click');
+});
