@@ -1,0 +1,18 @@
+parent: classic
+name: child_classic
+display_name: Child theme of classic's theme
+version: 1.0.0
+assets:
+  use_parent_assets: false
+  css:
+    all:
+      - id: owl-carousel-css
+        path: assets/css/owl.carousel.min.css
+        media: all
+        priority: 10
+  js:
+    all:
+      - id: owl-carousel-js
+        path: assets/js/owl.carousel.min.js
+        priority: 100
+        position: bottom

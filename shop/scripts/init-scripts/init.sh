@@ -7,3 +7,6 @@ else
   echo "@ Skipping database loading"
 fi
 
+echo "@ Setting theme permissions..."
+chmod -R 777 /var/www/html/themes
+
