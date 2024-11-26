@@ -860,6 +860,8 @@ a.nivo-nextNav::before {
   max-width: 100%;
   height: auto;
   display: initial;
+  transition: all 300ms !important;
+  animation: all 300ms !important;
 }
 
 .banner-top-container img:hover {
