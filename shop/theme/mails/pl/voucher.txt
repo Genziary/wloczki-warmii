@@ -1,17 +1,10 @@
- 
-
-{shop_url}
-
+[{shop_name}]({shop_url})
 Witaj {firstname} {lastname},
 
-Numer zamówienia {order_name} - Wygenerowano kod kuponu
+W związku z Twoim zamówieniem o numerze {order_name} został wygenerowany dla Ciebie kupon.
 
-Miło nam poinformować, że w Twoim imieniu został wygenerowany kupon na zamówienie o numerze {order_name}.
+Kod kuponu: {voucher_num} o wartości {voucher_amount}
 
-KOD VOUCHERA: {voucher_num} w wysokości {voucher_amount}
+Po prostu skopiuj/wklej ten kod podczas procesu płatności dla następnego zamówienia.
 
-Aby go użyć, po prostu skopiuj/wklej ten kod podczas zamawiania.
-
-[{shop_name}]({shop_url})
-
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+[{shop_name}]({shop_url}) obsługiwany przez [PrestaShop ™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

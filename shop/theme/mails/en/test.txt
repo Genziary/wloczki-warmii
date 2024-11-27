@@ -1,13 +1,8 @@
- 
-
-{shop_url}
-
-Hi {firstname} {lastname},
-
-Here is a test email from your shop.
-
-If you can read this, it means the test is successful!
-
 [{shop_name}]({shop_url})
+Hello
 
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+This is a test e-mail from your shop..
+
+If you can read this, the test was successful!.
+
+[{shop_name}]({shop_url}) powered by [PrestaShop™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,17 +1,11 @@
- 
-
-{shop_url}
-
+[{shop_name}]({shop_url})
 Hi {firstname} {lastname},
-
 Thanks for your trust.
 
-We are pleased to offer you a discount of {amount}% off your next order. And this offer is valid for {days} days, so do not wait any longer!
+As an appreciation for your loyalty, we want to give you a discount of {amount}% valid on your next order! This offer is valid for {days} days, so do not waste a moment!
 
-Here is your VOUCHER CODE: {voucher_num}
+Here is your coupon: {voucher_num}
 
-Enter this code in your shopping cart to get the discount.
+Enter this code in your shopping cart to get your discount.
 
-[{shop_name}]({shop_url})
-
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+[{shop_name}]({shop_url}) powered by [PrestaShop™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

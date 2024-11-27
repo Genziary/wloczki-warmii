@@ -1,21 +1,14 @@
- 
-
-{shop_url}
-
+[{shop_name}]({shop_url})
 Witaj {firstname} {lastname},
 
-Twój koszyk na {shop_name}
-
-Gratulacje, jesteś jednym z naszych najlepszych klientów! Wygląda jednak na to, że nie złożyłeś zamówienia od {days_threshold} dni.
+Jesteś jednym z naszych najlepszych klientów, jednakże nie złożyłeś zamówienia w ostatnich {days_threshold} dniach.
 
 Twój koszyk został zapisany, możesz wznowić zamówienie odwiedzając nasz sklep: {shop_url}
 
-Z przyjemnością oferujemy Ci zniżkę w wysokości {amount}% na kolejne zamówienie. Ta oferta jest ważna przez {days} dni, więc nie czekaj dłużej!
+W ramach podziękowania za zaufanie, którym nas obdarzyłeś, chcemy dać Ci {amount}% rabatu przy kolejnym zamówieniu! Ta oferta jest ważna przez {days} dni, więc nie trać czasu!
 
-Oto Twój KOD VOUCHER: {voucher_num}
+Oto Twój kupon: {voucher_num}
 
-Wprowadź ten kod w koszyku, aby uzyskać zniżkę.
+Wprowadź ten kod w koszyku, aby uzyskać rabat.
 
-[{shop_name}]({shop_url})
-
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+[{shop_name}]({shop_url}) obsługiwany przez [PrestaShop ™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

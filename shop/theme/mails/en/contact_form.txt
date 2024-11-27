@@ -1,19 +1,12 @@
- 
+[{shop_name}]({shop_url})
+Your message to {shop_name} Customer Service
 
-{shop_url}
+Your message has been sent successfully.
 
-Hi {firstname} {lastname},
-
-Your message has been sent successfully, thank you for taking the time to write!
-
-Order ID #:  {order_name}
-
-Product:  {product_name}
-
+Order ID: {order_name}
+Product: {product_name}
 Attached file: {attached_file}
 
-We will reply as soon as possible.
+We will answer as soon as possible.
 
-[{shop_name}]({shop_url})
-
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+[{shop_name}]({shop_url}) powered by [PrestaShop™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

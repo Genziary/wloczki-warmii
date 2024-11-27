@@ -1,15 +1,9 @@
- 
-
-{shop_url}
-
+[{shop_name}]({shop_url})
 Witaj,
 
-{product} jest teraz dostępny.
+Ten element jest ponownie w magazynach.
 
-Dobra wiadomość, ten produkt jest ponownie dostępny!
+Możesz przejść na stronę produktu klikając na link: [{product}]({product_link})
+Można zamówić już teraz w naszym sklepie on-line.
 
-Kliknij następujący link, aby odwiedzić stronę produktu i zamówić: [{product}]({product_link})
-
-[{shop_name}]({shop_url})
-
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+[{shop_name}]({shop_url}) obsługiwany przez [PrestaShop ™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

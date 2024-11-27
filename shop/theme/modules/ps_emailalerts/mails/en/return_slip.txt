@@ -1,18 +1,14 @@
- 
-
-{shop_url}
-
+[{shop_name}]({shop_url})
 Hi,
 
 You have received a new return request for {shop_name}.
 
 Return Details
 
-Order: {order_name} Placed on {date}
-
+Order: {order_name} placed on {date}
 Customer: {firstname} {lastname}, ({email})
 
-Reference	Product	Quantity   {items}
+Reference	Product	Quantity    {items}
 
 Delivery address
 
@@ -26,6 +22,4 @@ Customer message:
 
 {message}
 
-[{shop_name}]({shop_url})
-
-Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+[{shop_name}]({shop_url}) powered by [PrestaShop™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
