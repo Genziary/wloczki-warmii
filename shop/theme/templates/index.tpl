@@ -35,7 +35,7 @@
           <div class="row buttony">
             <div class="col-md-3 col-sm-6 col-xs-6">
               <div class="col banner-top-container">
-                <a href="https://wloczkiwarmii.pl/pl/content/1-delivery">
+                <a href="/pl/content/1-wysylka">
                   <img class="img-responsive" src="/img/cms/wysylka.png" alt="WYSYŁKA" width="164" height="164" />
                 </a>
                 <div class="banner-top-title">Wysyłka</div>
@@ -44,7 +44,7 @@
 
             <div class="col-md-3 col-sm-6 col-xs-6">
               <div class="col banner-top-container">
-                <a href="https://wloczkiwarmii.pl/pl/content/">
+                <a href="/pl/content/5-platnosci">
                   <img class="img-responsive" src="/img/cms/platnosci.png" alt="PŁATNOŚCI" width="164" height="164" />
                 </a>
                 <div class="banner-top-title">Płatności</div>
@@ -53,7 +53,7 @@
 
             <div class="col-md-3 col-sm-6 col-xs-6">
               <div class="col banner-top-container">
-                <a href="https://wloczkiwarmii.pl/pl/content/">
+                <a href="/pl/content/7-rabaty">
                   <img class="img-responsive" src="/img/cms/rabat.png" alt="RABAT" width="164" height="164" />
                 </a>
                 <div class="banner-top-title">Rabat</div>
@@ -62,7 +62,7 @@
 
             <div class="col-md-3 col-sm-6 col-xs-6">
               <div class="col banner-top-container">
-                <a href="https://wloczkiwarmii.pl/pl/content/">
+                <a href="#">
                   <img class="img-responsive" src="/img/cms/galeria.png" alt="GALERIA PRAC" width="164" height="164" />
                 </a>
                 <div class="banner-top-title">Galeria prac</div>
@@ -104,7 +104,7 @@
     {/block}
 
     {block name='wrapper_bottom'}
-      {assign wloczki_category "3-wloczki"}
+      {assign wloczki_category "17-wloczki"}
       {assign colors ["bialy", "bezowy", "zolty", "pomaranczowy", "czerwony", "rozowy", "fioletowy", "niebieski", "brazowy", "szary", "czarny", "kolorowy", "zielony"]}
       <div class="container">
         <div class="pos_logo product_block_container">
