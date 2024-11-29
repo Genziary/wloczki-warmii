@@ -40,7 +40,7 @@
                   {/foreach}
                 {/if}
                 {$node.label}
-                {if $node.children|count}
+                {if $node.children|count && $depth === 0}
                   {* Cannot use page identifier as we can have the same page several times *}
                   {assign var=_expand_id value=10|mt_rand:100000}
                   <span>
@@ -50,7 +50,7 @@
                   </span>
                 {/if}
               </a>
-              {if $node.children|count}
+              {if $node.children|count && $depth === 0}
               <div {if $depth === 0}class="popover sub-menu js-sub-menu collapse col-xs-12 col-sm-12 menu_slidedown"{else}class="collapse"{/if} id="top_sub_menu_{$_expand_id}">
                 {menu nodes=$node.children depth=$node.depth parent=$node}
               </div>

@@ -1,14 +1,21 @@
-[{shop_name}]({shop_url})
+ 
+
+{shop_url}
+
 Hi {firstname} {lastname},
 
-You are one of our best customers, however you have not placed an order in {days_threshold} days.
+Your cart on {shop_name}
 
-Your cart has been saved, you can resume your order by visiting our store: {shop_url}
+Congratulations, you are one of our best customers! However, it looks like you have not placed an order since {days_threshold} days.
 
-We wish to thank you for the trust you have placed in us and want to give you a discount of {amount}% valid on your next order! This offer is valid for {days} days, so do not waste a moment!
+Your cart has been saved, you can resume your order by visiting our shop: {shop_url}
 
-Here is your coupon: {voucher_num}
+We are pleased to offer you a discount of {amount}% off your next order. And this offer is valid for {days} days, so do not wait any longer!
 
-Enter this code in your shopping cart to get your discount.
+Here is your VOUCHER CODE: {voucher_num}
 
-[{shop_name}]({shop_url}) powered by [PrestaShop™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+Enter this code in your shopping cart to get the discount.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

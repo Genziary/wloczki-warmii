@@ -603,7 +603,7 @@ if __name__ == "__main__":
     api_url = os.getenv("API_URL")
     api_key = os.getenv("API_KEY")
     debug = os.getenv("DEBUG")
-    dloader = DataLoader(api_url, api_key, debug)
+    dloader = DataLoader(api_url, api_key)
     dloader.start()
     print(dloader.atribbs_map)
     print(dloader.features_map)

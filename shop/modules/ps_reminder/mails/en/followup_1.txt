@@ -1,13 +1,23 @@
-[{shop_name}]({shop_url})
+ 
+
+{shop_url}
+
 Hi {firstname} {lastname},
 
-We noticed that during your last visit on {shop_name}, you did not complete the order you had started.
+Your cart at {shop_name}
 
-Your cart has been saved, you can resume your order by visiting our store: {shop_url}
+Thanks for your visit. However, it looks like you did not complete your purchase.
 
-As an incentive, we can give you a discount of {amount}% off your next order! This offer is valid for {days} days, so do not waste a moment!
+Your cart has been saved, you can go back to your order on our shop: {shop_url}
 
-Here is your coupon: {voucher_num}
-Enter this code in your shopping cart to get your discount.
+We are pleased to offer you a discount of {amount}% off your next order. And this offer is valid for {days} days, so do not wait any longer!
 
-[{shop_name}]({shop_url}) powered by [PrestaShop™](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
+Your voucher code on {shop_name}
+
+Here is your VOUCHER CODE: {voucher_num}
+
+Enter this code in your shopping cart to get the discount.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
