@@ -2379,6 +2379,12 @@ body#index #footer {
   display: inline-block;
 }
 
+.block-categories .category-sub-menu li[data-depth="1"] .arrows {
+  position: absolute;
+  right: 0;
+  top: 7px;
+}
+
 .block-categories {
   padding: 0;
   box-shadow: none;
@@ -2468,7 +2474,6 @@ body#index #footer {
   line-height: 35px;
   margin: 0;
   padding: 0 20px;
-  display: block;
   border: 0;
 }
 
