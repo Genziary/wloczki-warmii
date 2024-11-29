@@ -26,7 +26,7 @@
   <div class="language-selector-wrapper selector-block hidden-md-down">
     <div class="language-selector localiz_block dropdown js-dropdown">
       <button data-toggle="dropdown" data-target="#" class="btn-unstyle" aria-haspopup="true" aria-expanded="false" aria-label="{l s='Language dropdown' d='Shop.Theme.Global'}">
-        <img src="/img/flags/{$language.iso_code}.jpg" alt="{$language.iso_code}" width="16" height="11" />
+        <img src="/img/l/{$language.id}.jpg" alt="{$language.iso_code}" width="16" height="11" />
         <span class="expand-more">{$current_language.name_simple}</span>
         <i class="material-icons expand-more">&#xE313;</i>
       </button>
@@ -45,7 +45,7 @@
   <div class="language-selector-wrapper hidden-lg-up">
     <div class="selector-mobile dropdown js-dropdown">
       <button data-toggle="dropdown" class="btn-unstyle" aria-haspopup="true" aria-expanded="false" aria-label="{l s='Language dropdown' d='Shop.Theme.Global'}">
-        <img src="/img/flags/{$language.iso_code}.jpg" alt="{$language.iso_code}" width="16" height="11" />
+        <img src="/img/l/{$language.id}.jpg" alt="{$language.iso_code}" width="16" height="11" />
         <span class="expand-more">{$current_language.name_simple}</span>
         <i class="material-icons expand-more">&#xE313;</i>
       </button>
