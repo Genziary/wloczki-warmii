@@ -8,6 +8,7 @@ from delete_products_from_cart import DeleteProductsFromCart
 from create_new_account import CreateNewAccount
 from place_order import PlaceOrder
 from confirm_order import AdminOrderConfirmation
+from check_status_and_download_invoice import CheckOrderStatusAndDownloadInvoice
 
 url = "https://localhost:8443/"
 all_products = "pl/61-wloczki?"
@@ -47,6 +48,10 @@ if __name__ == '__main__':
     # Confirm order
     admin_order = AdminOrderConfirmation(admin_url="http://localhost:8000/admin-dev", browser=browser, admin_email="admin@wloczki.pl", admin_password="123123123")
     admin_order.run()
+
+    # Check order status + Download VAT invoice
+    check_order_status_and_download = CheckOrderStatusAndDownloadInvoice(url + account, browser)
+    check_order_status_and_download.run()
 
     end_time = time.time()
     elapsed_time = end_time - start_time
