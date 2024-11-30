@@ -6,6 +6,7 @@ from add_products_to_cart import AddRandomProductsToCart
 from search_by_name import SearchByNameAndAddToCart
 from delete_products_from_cart import DeleteProductsFromCart
 from create_new_account import CreateNewAccount
+from place_order import PlaceOrder
 
 url = "https://localhost:8443/"
 all_products = "pl/61-wloczki?"
@@ -37,6 +38,10 @@ if __name__ == '__main__':
     # Create new account
     create_new_account = CreateNewAccount(url + register, browser)
     create_new_account.run()
+
+    # Place orders for cart contents + Choose payment method: upon delivery + Choose one carrier
+    place_order = PlaceOrder(url, browser)
+    place_order.run()
 
     end_time = time.time()
     elapsed_time = end_time - start_time
