@@ -3,3 +3,6 @@
 
 # Images
 ./scraper/media/
+
+# Modules zip
+./shop/modules/*.zip
