@@ -82,7 +82,7 @@
           <div class="tabstop"></div>
           <ul id="home-page-tabs" class="nav nav-tabs clearfix">
             <li class="nav-item" aria-expanded="false">
-              <a data-toggle="tab" href="#homefeatured" class="homefeatured nav-link js-product-nav-active active" aria-expanded="true">
+              <a data-toggle="tab" href="#homefeatured" class="homefeatured nav-link js-product-nav-active" aria-expanded="true">
               {l s='Our Products' d='Modules.Featuredproducts.Shop'}
               </a>
             </li>
