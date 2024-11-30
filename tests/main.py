@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from add_products_to_cart import AddRandomProductsToCart
 from search_by_name import SearchByNameAndAddToCart
 from delete_products_from_cart import DeleteProductsFromCart
+from create_new_account import CreateNewAccount
 
 url = "https://localhost:8443/"
 all_products = "pl/61-wloczki?"
@@ -32,6 +33,10 @@ if __name__ == '__main__':
     # Remove 3 products from the cart
     delete_products_from_cart = DeleteProductsFromCart(url + cart, browser, 3)
     delete_products_from_cart.run()
+
+    # Create new account
+    create_new_account = CreateNewAccount(url + register, browser)
+    create_new_account.run()
 
     end_time = time.time()
     elapsed_time = end_time - start_time
