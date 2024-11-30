@@ -51,10 +51,6 @@ class AddRandomProductsToCart:
                 continue
             product_links.append(products[idx].get_attribute("href"))
 
-        print(product_links)
-        print(len(product_links))
-        print(num)
-
         return random.sample(product_links, k=num)
 
     def addProductToCartRandomQuantity(self, product_link):
