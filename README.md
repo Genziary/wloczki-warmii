@@ -7,8 +7,11 @@
 - [How to run the project](#how-to-run-the-project-%EF%B8%8F)
 - [How to contribute](#how-to-contribute-)
 - [Admin Panel](#admin-panel-)
-- [Mail handling](#mail-handling-)
+- [Mail handling](#mail-handling-%EF%B8%8F)
 - [Team members](#team-members-)
+
+- [Using data scraper](scraper/README.md)
+- [Running tests](tests/README.md)
 
 ## Description 📄
 
