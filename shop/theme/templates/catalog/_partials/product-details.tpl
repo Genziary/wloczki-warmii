@@ -23,7 +23,7 @@
       <section class="product-features">
         <dl class="data-sheet">
           {foreach from=$product.grouped_features item=feature}
-            <dt class="name">{$feature.name}:</dt>
+            <dt class="name">{$feature.name}</dt>
             <dd class="value">{$feature.value|escape:'htmlall'|nl2br nofilter}</dd>
           {/foreach}
         </dl>
