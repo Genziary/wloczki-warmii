@@ -13,9 +13,14 @@ class SearchByNameAndAddToCart:
 
     def run(self, name):
         self.browser.get(self.website_url)
+
+        print(f"Searching for products with name: {name}")
         products = self.getProductsByName(name)
         product = self.getRandomProduct(products)
+
+        print("Adding selected product to cart.")
         self.addProductToCart(product)
+        print("Product has been successfully added to the cart.")
 
     def getProductsByName(self, name):
         search_icon = WebDriverWait(self.browser, 10).until(
@@ -47,6 +52,7 @@ class SearchByNameAndAddToCart:
         return product_in_stock
 
     def getRandomProduct(self, products):
+        print("Random product selected.")
         return random.choice(products)
 
     def addProductToCart(self, product):

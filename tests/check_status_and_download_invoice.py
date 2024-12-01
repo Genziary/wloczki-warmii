@@ -10,12 +10,15 @@ class CheckOrderStatusAndDownloadInvoice:
         self.browser = browser
 
     def run(self):
+        print("Starting order status check and invoice download process.")
         self.browser.get(self.website_url)
         self.go_to_orders_history()
         self.go_to_order_details()
         self.download_invoice()
+        print("Process completed.")
 
     def _go_to_account(self):
+        print("Navigating to user account.")
         WebDriverWait(self.browser, 10).until(
             EC.element_to_be_clickable((By.XPATH, '//div[contains(@class, "user-info-block")]//div[contains(@class, "localiz_block")]'))
         )
@@ -28,6 +31,7 @@ class CheckOrderStatusAndDownloadInvoice:
         )
 
         self.browser.find_element(By.ID, 'history-link').click()
+        print("Orders history page loaded.")
 
     def go_to_order_details(self):
         WebDriverWait(self.browser, 10).until(
@@ -35,8 +39,10 @@ class CheckOrderStatusAndDownloadInvoice:
         )
 
         self.browser.find_element(By.CSS_SELECTOR, "a[data-link-action=\"view-order-details\"]").click()
+        print("Order details page loaded.")
 
     def download_invoice(self):
+        print("Attempting to download invoice.")
         WebDriverWait(self.browser, 10).until(
             EC.presence_of_element_located((By.ID, 'order-infos'))
         )
@@ -48,6 +54,7 @@ class CheckOrderStatusAndDownloadInvoice:
                 a_element = li_element.find_element(By.TAG_NAME, 'a')
                 href_value = a_element.get_attribute('href')
                 self.browser.get(href_value)
+                print("Invoice downloaded successfully.")
                 return
             except NoSuchElementException as e:
                 continue

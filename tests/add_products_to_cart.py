@@ -22,16 +22,21 @@ class AddRandomProductsToCart:
         self.number_of_products_from_categories = [products_per_category, 10 - products_per_category]
 
     def run(self):
+        print("Starting the process of adding random products to cart.")
         products_links_category_first = self.getProductsLinks(self.webiste_url + self.categories[0],
                                                                self.number_of_products_from_categories[0])
         products_links_category_second = self.getProductsLinks(self.webiste_url + self.categories[1],
                                                                 self.number_of_products_from_categories[1])
 
         for product_link in products_links_category_first:
+            print(f"Adding product from category 1: {product_link}")
             self.addProductToCartRandomQuantity(product_link)
 
         for product_link in products_links_category_second:
+            print(f"Adding product from category 2: {product_link}")
             self.addProductToCartRandomQuantity(product_link)
+
+        print("Finished adding all products to the cart.")
 
     def getProductsLinks(self, addr, num):
         self.browser.get(addr)
@@ -87,6 +92,7 @@ class AddRandomProductsToCart:
 
         add_to_cart_button = self.browser.find_element(By.CLASS_NAME, 'add-to-cart')
         add_to_cart_button.click()
+        print("Product added to cart.")
 
         WebDriverWait(self.browser, 10).until(
             EC.presence_of_element_located((By.CLASS_NAME, 'cart-products-count'))

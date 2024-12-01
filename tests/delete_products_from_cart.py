@@ -12,9 +12,12 @@ class DeleteProductsFromCart:
         self.number_of_products = number_of_products
 
     def run(self):
+        print("Start process of deleting some products from cart.")
         links_of_products_to_delete = self.getLinksToDeleteProductsFromCart()
         for link in links_of_products_to_delete:
             self.browser.get(link)
+            print("Product has been removed.")
+        print("Deletion of products completed.")
 
     def getLinksToDeleteProductsFromCart(self):
         self.browser.get(self.website_url)

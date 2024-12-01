@@ -11,7 +11,9 @@ class PlaceOrder:
     def run(self):
         self.browser.get(self.website_url)
         self.go_to_cart()
+        print("Start the process of placing order")
         self.place_order()
+        print("Order process completed.")
 
     def go_to_cart(self):
         WebDriverWait(self.browser, 10).until(
@@ -28,14 +30,21 @@ class PlaceOrder:
             EC.presence_of_element_located((By.CLASS_NAME, 'continue'))
         )
 
+        print("Setting delivery information.")
         self.set_delivery_info()
+
+        print("Choosing a carrier.")
         self.choose_carrier()
+
+        print("Choosing a payment option (upon delivery).")
         self.choose_payment_option()
 
     def set_delivery_info(self):
         self.browser.find_element(By.ID, 'field-address1').send_keys('Klonowa 10')
         self.browser.find_element(By.ID, 'field-postcode').send_keys('00-000')
         self.browser.find_element(By.ID, 'field-city').send_keys('Warszawa')
+        
+        print("Confirming delivery address.")
         self.browser.find_element(By.NAME, 'confirm-addresses').click()
 
         WebDriverWait(self.browser, 10).until(
@@ -51,6 +60,7 @@ class PlaceOrder:
         )
 
     def choose_payment_option(self):
+        print("Accepting terms and conditions.")
         self.browser.find_element(By.ID, 'conditions_to_approve[terms-and-conditions]').click()
 
         WebDriverWait(self.browser, 10).until(
