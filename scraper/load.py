@@ -13,7 +13,7 @@ class DataLoader:
         self.api_url = api_url
         self.api_key = api_key
         self.DEBUG = debug
-        self.results_number = self.count_files_in_dir("results")
+        self.results_number = self.count_files_in_dir("../results/products")
         self.category_map = {}
         self.atribbs_map = {}
         self.features_map = {}
@@ -25,12 +25,12 @@ class DataLoader:
     def start(self):
         self.find_base_weight()
         if self.DEBUG:
-            with open(f'results/products_1.json', 'r', encoding='utf-8') as file:
+            with open(f'../results/products/products_1.json', 'r', encoding='utf-8') as file:
                 data = json.load(file)
                 self.handle_json(data)
         else:
             for i in range(1, self.results_number+1):
-                with open(f'results/products_{i}.json', 'r', encoding='utf-8') as file:
+                with open(f'../results/products/products_{i}.json', 'r', encoding='utf-8') as file:
                     data = json.load(file)
                     self.handle_json(data)
 
@@ -53,7 +53,7 @@ class DataLoader:
 
     def find_base_weight(self):
         for i in range(1, self.results_number+1):
-            with open(f'results/products_{i}.json', 'r', encoding='utf-8') as file:
+            with open(f'../results/products/products_{i}.json', 'r', encoding='utf-8') as file:
                 data = json.load(file)
                 for product in data:
                     prices = product["prices"]
@@ -253,7 +253,7 @@ class DataLoader:
     def load_images(self, scrapped_id, product_id):
 
         file = {
-            "image": open(f"media/{scrapped_id}_0.jpg", "rb")
+            "image": open(f"../results/media/{scrapped_id}_0.jpg", "rb")
         }
         response = requests.post(
             api_url+f"images/products/{product_id}",
@@ -269,7 +269,7 @@ class DataLoader:
 
         try:
             file = {
-                "image": open(f"media/{scrapped_id}_1.jpg", "rb")
+                "image": open(f"../results/media/{scrapped_id}_1.jpg", "rb")
             }
         except FileNotFoundError:
             return

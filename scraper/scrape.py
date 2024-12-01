@@ -4,8 +4,9 @@ from bs4 import BeautifulSoup
 from utils import extract_numerical_value, extract_numerical_integer_value, benchmark
 import json
 
-MEDIA_FOLDER = os.path.join(os.getcwd(), 'media')
-RESULTS_FOLDER = os.path.join(os.getcwd(), 'results')
+DATA_FOLDER = os.path.join(os.path.dirname(os.getcwd()), 'results')
+RESULTS_FOLDER = os.path.join(DATA_FOLDER, 'products')
+MEDIA_FOLDER = os.path.join(DATA_FOLDER, 'media')
 
 
 def get_brutto_netto_prices(product_soup):
