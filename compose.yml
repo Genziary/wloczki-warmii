@@ -1,6 +1,8 @@
 services:
   prestashop:
-    build: ./shop
+    build:
+      context: ./
+      dockerfile: ./shop/Dockerfile
     platform: linux/amd64
     volumes:
       - ps-data:/var/www/html

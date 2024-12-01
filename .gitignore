@@ -5,4 +5,4 @@
 results/media/
 
 # Modules zip
-./shop/modules/*.zip
+shop/modules/*.zip
