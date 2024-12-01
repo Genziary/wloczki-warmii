@@ -22,7 +22,7 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
-{if !empty($subcategories)}
+{if $breadcrumb.count > 2 && !empty($subcategories)}
   {if (isset($display_subcategories) && $display_subcategories eq 1) || !isset($display_subcategories) }
     <div id="subcategories" class="card card-block">
       <h2 class="subcategory-heading">{l s='Subcategories' d='Shop.Theme.Category'}</h2>
