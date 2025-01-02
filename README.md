@@ -7,7 +7,6 @@
 - [How to run the project](#how-to-run-the-project-%EF%B8%8F)
 - [How to contribute](#how-to-contribute-)
 - [Admin Panel](#admin-panel-)
-- [Mail handling](#mail-handling-%EF%B8%8F)
 - [Team members](#team-members-)
 
 - [Using data scraper](scraper/README.md)
@@ -61,12 +60,6 @@ Admin credentials:
 |       Email        |       Password       |
 |:------------------:|:--------------------:|
 | admin@wloczki.pl   |      123123123       |
-
-## Mail Handling ✉️
-
-The project uses MailDev to handle email notifications during development. \
-**Web interface** is accessible at http://localhost:1080, providing a clear preview of all sent emails for
-testing purposes.
 
 ## Team members 🫂
 
