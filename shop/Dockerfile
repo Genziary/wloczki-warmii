@@ -18,3 +18,5 @@ RUN apt-get update && apt-get install -y \
 RUN chmod +x /tmp/post-install-scripts/post-install.sh && chmod +x /tmp/init-scripts/init.sh && chmod +x /tmp/pre-install-scripts/pre-install.sh
 
 COPY shop/img /var/www/html/img
+COPY shop/modules /var/www/html/modules
+COPY shop/theme /var/www/html/themes/child_classic
