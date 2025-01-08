@@ -16,3 +16,12 @@ assets:
         path: assets/js/owl.carousel.min.js
         priority: 100
         position: bottom
+      - id: analytics
+        path: assets/js/analytics.js
+        priority: 10
+        position: bottom
+      - id: ga-function
+        path: https://www.googletagmanager.com/gtag/js?id=G-VNPBSPJBV3
+        priority: 5
+        position: bottom
+
