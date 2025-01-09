@@ -5,6 +5,7 @@ COPY shop/dump.sql /tmp/sql/dump.sql
 COPY ../config/certs/certificate.crt /etc/ssl/certs/
 COPY ../config/certs/private.key /etc/ssl/private/
 COPY ../config/conf/default-ssl.conf /etc/apache2/sites-available/
+COPY ../tests/test-memcache.php /var/www/html/test-memcache.php
 
 RUN a2enmod ssl
 RUN a2ensite default-ssl
