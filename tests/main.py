@@ -1,3 +1,4 @@
+import sys
 import time
 from selenium import webdriver
 
@@ -10,11 +11,13 @@ from place_order import PlaceOrder
 from confirm_order import AdminOrderConfirmation
 from check_status_and_download_invoice import CheckOrderStatusAndDownloadInvoice
 
-url = "https://localhost:8443/"
+DEFAULT_URL = "https://localhost:8443/"
 all_products = "pl/61-wloczki?"
 cart = "koszyk?action=show"
 register = "logowanie?create_account=1"
 account = "moje-konto"
+
+url = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_URL
 
 if __name__ == '__main__':
 
@@ -46,7 +49,7 @@ if __name__ == '__main__':
     place_order.run()
 
     # Confirm order
-    admin_order = AdminOrderConfirmation(admin_url="http://localhost:8000/admin-dev", browser=browser, admin_email="admin@wloczki.pl", admin_password="123123123")
+    admin_order = AdminOrderConfirmation(admin_url=f"{url}admin-dev", browser=browser, admin_email="admin@wloczki.pl", admin_password="123123123")
     admin_order.run()
 
     # Check order status + Download VAT invoice
