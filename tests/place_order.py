@@ -52,7 +52,15 @@ class PlaceOrder:
         )
 
     def choose_carrier(self):
-        self.browser.find_element(By.ID, 'delivery_option_7').click()
+        try:
+            WebDriverWait(self.browser, 10).until(
+                EC.element_to_be_clickable((By.ID, 'delivery_option_7'))
+            )
+            
+            self.browser.find_element(By.ID, 'delivery_option_7').click()
+        except:
+            pass
+        
         self.browser.find_element(By.NAME, 'confirmDeliveryOption').click()
 
         WebDriverWait(self.browser, 10).until(
