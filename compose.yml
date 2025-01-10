@@ -62,6 +62,20 @@ services:
     networks:
       - shop-network
 
+  memcached:
+    image: memcached
+    command:
+      - --conn-limit=1024
+      - --memory-limit=64
+      - --threads=4
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+    networks:
+      - shop-network
+
 volumes:
   db-data:
   ps-data:
